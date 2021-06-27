@@ -1,0 +1,106 @@
+{
+  "expansioncontent:StudyTheSpirePower": {
+    "NAME": "Изучить Шпиль",
+    "DESCRIPTIONS": [
+      "Добавляет случ. карту #yБосса в руку в начале следующего хода. NL Она стоит #b0, пока не разыграна.",
+      "Добавляет случ. карту #yБосса в руку в начале следующих #b",
+      " ходов. NL Они стоят #b0, пока не разыграны.",
+      "Добавляет случ. #yУлучшенную карту #yБосса в руку в начале следующего хода. NL Она стоит #b0, пока не разыграна.",
+      "Добавляет случ. #yУлучшенную карту #yБосса в руку в начале следующих #b",
+      " ходов. NL Они стоят #b0, пока не разыграны."
+    ]
+  },
+  "expansioncontent:AwakenedOnePower": {
+    "NAME": "Тёмный ритуал",
+    "DESCRIPTIONS": [
+      "Даёт #b",
+      " #yСилы если враг не собирается атаковать."
+    ]
+  },
+  "expansioncontent:AwakenDeathPower": {
+    "NAME": "Пробуждение",
+    "DESCRIPTIONS": [
+      "Вместо того чтобы умереть, вы восполняете #b",
+      " ОЗ и теряете этот эффект."
+    ]
+  },
+  "expansioncontent:ChronoBoostPower": {
+    "NAME": "Хроносила",
+    "DESCRIPTIONS": [
+      "Через #b",
+      " карт(ы) даёт #b",
+      " #yСилы."
+    ]
+  },
+  "expansioncontent:ChronoBoostPlusPower": {
+    "NAME": "Хроносила+",
+    "DESCRIPTIONS": [
+      "Через #b",
+      " карт(ы) даёт #b",
+      " #yСилы."
+    ]
+  },
+  "expansioncontent:DeEnergizedPower": {
+    "NAME": "Вялость",
+    "DESCRIPTIONS": [
+      "В начале вашего следующего хода отнимает #b",
+      " [E] ."
+    ]
+  },
+  "expansioncontent:PolyBeamAgainPower": {
+    "NAME": "Potency", //Что то автоматонское
+    "DESCRIPTIONS": [
+      "#yPoly #yBeam will be played at the start of your next turn. ",
+      "#yPoly #yBeam will be played at the start of your next #b",
+      " turns."
+    ]
+  },
+  "expansioncontent:PolyBeamAgainPowerUpgraded": {
+    "NAME": "Potency", //Что то автоматонское+
+    "DESCRIPTIONS": [
+      "#yPoly #yBeam+ will be played at the start of your next turn. ",
+      "#yPoly #yBeam+ will be played at the start of your next #b",
+      " turns."
+    ]
+  },
+  "expansioncontent:AddCopyPower": {
+    "NAME": "Отложенная карта",
+    "DESCRIPTIONS": [
+      "Добавляет ",
+      " в руку в начале вашего следующего хода."
+    ]
+  },
+  "expansioncontent:AddSameInstancePower": {
+    "NAME": "Отложенная карта",
+    "DESCRIPTIONS": [
+      "Добавляет ",
+      " в руку в начале вашего следующего хода."
+    ]
+  },
+  "expansioncontent:NextTurnExhumePower": {
+    "NAME": "Отложенная эксгумация",
+    "DESCRIPTIONS": [
+      "Вы Эксгумируете ",
+      " в начале вашего следующего хода."
+    ]
+  },
+  "expansioncontent:PretendHexWheelPower": {
+    "NAME": "Гексожог",
+    "DESCRIPTIONS": [
+      "Через #b",
+      " хода(ов) наносит #b",
+      "В конце вашего хода наносит #b",
+      " урона случайному врагу #b6 раз."
+    ]
+  },
+  "expansioncontent:VexVinciblePower": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Caps all damage and HP loss taken to #b",
+      " in a turn. Removed after activation.",
+      "Caps all damage and HP loss taken to #b",
+      " in a turn. Removed after #b",
+      " activations."
+    ]
+  }
+}
