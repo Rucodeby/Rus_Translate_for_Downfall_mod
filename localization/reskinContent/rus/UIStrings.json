@@ -1,1 +1,91 @@
+{
+  "reskinContent:ReSkin": {
+    "TEXT": [
+      "Облик", //можно перевести как скин...
+      "Оригинал"
+    ]
+  },
+  "reskinContent:PortraitAnimation": {
+    "TEXT": [
+      "Тип портрета"
+    ]
+  },
+  "reskinContent:PortraitAnimationType": {
+    "TEXT": [
+      "Статичный",
+      "Анимированный",
+      "Полный эффектов"
+    ]
+  },
+  "reskinContent:BetaArtUnlockEffect": {
+    "TEXT": [
+      "Альтернативный арт Стража разблокирован!",
+      "Альтернативный арт Слизнебосса разблокирован!",
+      "Альтернативный арт Гексадуха разблокирован!",
+      "Альтернативный арт Змекко разблокирован!",
+      "Альтернативный арт Чемпиона разблокирован!",
+      "Альтернативный арт Автоматона разблокирован!"
+    ]
+  },
 
+  "reskinContent:ReSkinGuardian": {
+    "TEXT": [
+      "Страж-чан",
+      "Концепт-арт"
+    ],
+    "EXTRA_TEXT": [
+      "Конструкт Шпиля, запрограмированный защищать его. NL По команде способен защитиь себя от вреда.",
+      "Один из ранних набросков Стража. NL Он лучше смотрится на бумаге."
+    ]
+  },
+  "reskinContent:ReSkinSlime": {
+    "TEXT": [
+      "Слайфу",
+      "Слизнебосс?"
+    ],
+    "EXTRA_TEXT": [
+      "Эта необычная слизь любит полакомится вкусными реликвиями. NL Она служит Сердцу совершенно случайно.",
+      "Это... Слизнебосс? Он выглядит безумно дружелюбно. NL Что ж, его шляпа, несомненно, самая большая в Шпиле, так что этот Слизнебосс должен быть главным..."
+    ]
+  },
+  "reskinContent:ReSkinHexaghost": {
+    "TEXT": [
+      "Гексаго", //Hexago
+      "Призаэдр" //либо Духаэдр
+    ],
+    "EXTRA_TEXT": [
+      "Проклятый дух Шпиля. NL Обречён вечно быть защитником", //мб треклятый вместо проклятый
+      "Любит гоняться за жёлтыми кругами по выходным. NL Has a crippling fear of power pellets."
+    ]
+  },
+  "reskinContent:ReSkinSnecko": {
+    "TEXT": [
+      "SSSSnecko", //Rank SSSS don't translatble T–T
+      "Sneckdor"
+    ],
+    "EXTRA_TEXT": [
+      "It uses its eyes to induce cognitive deviation, disguising its true form. NL Studies show that confused creatures see a completely different world.",
+      "Seeking greater strength, this ambitious Snecko followed in the footsteps of its hero. NL Adopting many consummate V's and a beefy arm, it calls itself \"Sneckdor\"."
+    ]
+  },
+  "reskinContent:ReSkinChamp": {
+    "TEXT": [
+      "Чан-п", //chan-p
+      "День стирки чемпиона"
+    ],
+    "EXTRA_TEXT": [
+      "Меч выглядит слишком тяжёлым для неё, NL но она единственная у кого хватает сил, чтобы поднять его.",
+      "Это день стирки." //мб можно заменить на день уборки
+    ]
+  },
+  "reskinContent:ReSkinBronze": {
+    "TEXT": [
+      "Автоматон",
+      "\"Автоматон\""
+    ],
+    "EXTRA_TEXT": [
+      "",
+      "Да! С ног до головы, это Автоматон, точно при точно! NL Никогда не видел ничего более похожего на Автоматона!" //вместо автоматона тут вероятно может быть автомат
+    ]
+  }
+}
