@@ -1,0 +1,76 @@
+{
+  "expansioncontent:GuardianWhirl": {
+    "NAME": "Guardian Whirl",
+    "DESCRIPTION": "expansioncontent:Босс - Страж. NL Требует 10 или больше Защиты. NL Наносит !D! урона ВСЕМ врагам 4 раза. NL Сжигается.",
+    "EXTENDED_DESCRIPTION": [
+      "У меня недостаточно Защиты."
+    ]
+  },
+  "expansioncontent:Hexaburn": {
+    "NAME": "Гексожог",
+    "DESCRIPTION": "expansioncontent:Босс - Гексадух. NL Наносит !D! урона случайному врагу 6 раз через !M! ходов. NL Сила влияет на эту карту и эффект."
+  },
+  "expansioncontent:InvincibleStrength": {
+    "NAME": "Invincible",
+    "DESCRIPTION": "expansioncontent:Boss - Corrupt Heart. NL Gain 10 expansioncontent:Invincible. NL If you already had expansioncontent:Invincible, it lasts another turn instead."
+  },
+  "expansioncontent:HyperBeam": {
+    "NAME": "Автолуч",
+    "DESCRIPTION": "expansioncontent:Босс - Автоматон. NL Наносит !D! урона ВСЕМ врагам. NL Отнимает [E] в начале следующего хода. NL Сжигается."
+  },
+  "expansioncontent:LastStand": {
+    "NAME": "Last Stand",
+    "DESCRIPTION": "expansioncontent:Босс - Чемпион. NL Снимает все отриц. эффекты. NL Даёт 1 Силы. NL Даёт 2 Силы если ОЗ ниже половины.",
+    "UPGRADE_DESCRIPTION": "expansioncontent:Босс - Чемпион. NL Снимает все отриц. эффекты. NL Даёт 1 Силы. NL Даёт 2 Силы и восполняет !M! ОЗ, когда ОЗ опускается ниже половины."
+  },
+  "expansioncontent:YouAreMine": {
+    "NAME": "YOU ARE MINE!",
+    "DESCRIPTION": "expansioncontent:Босс - Collector. NL Снимает всю Защит с врагов. NL Накладывает !M! Слабости и Уязвимости на ВСЕХ врагов. NL Сжигается."
+  },
+  "expansioncontent:AwakenDeath": {
+    "NAME": "Пробуждение",
+    "DESCRIPTION": "expansioncontent:Босс - Пробуждённый. NL Даёт 1 Силы. NL Вместо того чтобы умереть, вы восполняете !M! ОЗ."
+  },
+  "expansioncontent:Chronoboost": {
+    "NAME": "Хроносила",
+    "DESCRIPTION": "expansioncontent:Босс - Пожиратель времени. NL Каждые 12 разыгранных карт даёт 1 Силы.",
+    "UPGRADE_DESCRIPTION": "expansioncontent:Босс - Пожиратель времени. NL Даёт 1 Силы. NL Каждые 12 разыгранных карт даёт 1 Силы."
+  },
+  "expansioncontent:PolyBeam": {
+    "NAME": "Заряд Дону",
+    "DESCRIPTION": "expansioncontent:Босс - Древние. NL Наносит !D! урона дважды. Увеличивает свой урон на !M!. NL Добавляет *Щит *Дека в руку или expansioncontent:Эксгумирует её на следующий ход. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "expansioncontent:Босс - Древние. NL Наносит !D! урона дважды. Увеличивает свой урон на !M!. NL Добавляет *Щит *Дека+ в руку или expansioncontent:Эксгумирует на следующий ход. NL Сжигается.""
+  },
+  "expansioncontent:DecaShield": {
+    "NAME": "Щит Дека",
+    "DESCRIPTION": "expansioncontent:Босс - Древние. NL Даёт !B! Защиты дважды. Увеличивает свою Защиту на !M!. NL expansioncontent:Эксгумирует *Заряд *Дону на следующий ход. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "expansioncontent:Босс - Древние. NL Даёт !B! Защиты дважды. Увеличивает свою Защиту на !M!. NL expansioncontent:Эксгумирует *Заряд *Дону на следующий ход. NL Сжигается."
+  },
+  "expansioncontent:PrepareCrush": {
+    "NAME": "Приготовиться крушить",
+    "DESCRIPTION": "expansioncontent:Босс - Слизь. NL Даёт !B! Защиты. NL Даёт [E] [E] [E] и добавляет *СЛИЗЬ *КРУШИТЬ в руку на следующий ход. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "expansioncontent:Босс - Слизь. NL Даёт !B! Защиты. NL Даёт [E] [E] [E] и добавляет *СЛИЗЬ *КРУШИТЬ+ в руку на следующий ход. NL Сжигается."
+  },
+  "expansioncontent:StudyTheSpire": {
+    "NAME": "Изучить Шпиль",
+    "DESCRIPTION": "Добавляет случайные карты expansioncontent:Боссов в руку в начале следующих !M! ходов. Они стоят 0, пока не разыграны.",
+    "UPGRADE_DESCRIPTION": "Добавляет случайные Улучшенные карты expansioncontent:Боссов в руку в начале следующих !M! ходов. Они стоят 0, пока не разыграны."
+  },
+  "expansioncontent:QuickStudy": {
+    "NAME": "Быстрое обучение",
+    "DESCRIPTION": "Выберите 1 из 3 карт expansioncontent:Боссов и добавьте её в руку. NL Она стоит 0, пока не разыграна. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Выберите 1 из 3 Улучшенных карт expansioncontent:Боссов и добавьте её в руку. NL Она стоит 0, пока не разыграна. NL Сжигается.",
+    "EXTENDED_DESCRIPTION": [
+      "Выберите карту Босса, которую хотите добавить."
+    ]
+  },
+  "expansioncontent:DashGenerateEvil": {
+    "NAME": "The Evil Within",
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт !B! Защиты. NL Добавляет случайную карту expansioncontent:Босса в руку. Она стоит 0, пока не разыграна. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Даёт !B! Защиты. NL Добавляет случайную Улучшенную карту expansioncontent:Босса в руку. Она стоит 0, пока не разыграна. NL Сжигается."
+  },
+  "expansioncontent:KnowingSkullWish": {
+    "NAME": "Knowing Skull",
+    "DESCRIPTION": "Эфирная. NL Spend HP to Wish for Souls, Success, or a Pick Me Up. NL Сжигается."
+  }
+}
