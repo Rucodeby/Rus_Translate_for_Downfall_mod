@@ -1,54 +1,54 @@
 {
   "expansioncontent:StudyTheSpirePower": {
-    "NAME": "Изучить Шпиль",
+    "NAME": "Study The Spire",
     "DESCRIPTIONS": [
-      "Добавляет случ. карту #yБосса в руку в начале следующего хода. NL Она стоит #b0, пока не разыграна.",
-      "Добавляет случ. карту #yБосса в руку в начале следующих #b",
-      " ходов. NL Они стоят #b0, пока не разыграны.",
-      "Добавляет случ. #yУлучшенную карту #yБосса в руку в начале следующего хода. NL Она стоит #b0, пока не разыграна.",
-      "Добавляет случ. #yУлучшенную карту #yБосса в руку в начале следующих #b",
-      " ходов. NL Они стоят #b0, пока не разыграны."
+      "Gain a random #yBoss card at the start of next turn. NL It costs #b0 until played.",
+      "Gain a random #yBoss card at the start of the next #b",
+      " turns. NL They cost #b0 until played.",
+      "Gain a random #yUpgraded #yBoss card at the start of next turn. NL It costs #b0 until played.",
+      "Gain a random #yUpgraded #yBoss card at the start of the next #b",
+      " turns. NL They cost #b0 until played."
     ]
   },
   "expansioncontent:AwakenedOnePower": {
-    "NAME": "Тёмный ритуал",
+    "NAME": "Dark Ritual",
     "DESCRIPTIONS": [
-      "Даёт #b",
-      " #yСилы если враг не собирается атаковать."
+      "Gain #b",
+      " #yStrength if this enemy does not attack on its turn."
     ]
   },
   "expansioncontent:AwakenDeathPower": {
-    "NAME": "Пробуждение",
+    "NAME": "Awakening",
     "DESCRIPTIONS": [
-      "Вместо того чтобы умереть, вы восполняете #b",
-      " ОЗ и теряете этот эффект."
+      "When you would die, heal #b",
+      " HP and remove this effect."
     ]
   },
   "expansioncontent:ChronoBoostPower": {
-    "NAME": "Хроносила",
+    "NAME": "Chrono Boost",
     "DESCRIPTIONS": [
-      "Через #b",
-      " карт(ы) даёт #b",
-      " #yСилы."
+      "After playing #b",
+      " more cards, gain #b",
+      " #yStrength."
     ]
   },
   "expansioncontent:ChronoBoostPlusPower": {
-    "NAME": "Хроносила+",
+    "NAME": "Chrono Boost+",
     "DESCRIPTIONS": [
-      "Через #b",
-      " карт(ы) даёт #b",
-      " #yСилы."
+      "After playing #b",
+      " more cards, gain #b",
+      " #yStrength."
     ]
   },
   "expansioncontent:DeEnergizedPower": {
-    "NAME": "Вялость",
+    "NAME": "De-Energized",
     "DESCRIPTIONS": [
-      "В начале вашего следующего хода отнимает #b",
-      " [E] ."
+      "At the start of your next turn, lose #b",
+      " [E]."
     ]
   },
   "expansioncontent:PolyBeamAgainPower": {
-    "NAME": "Potency", //Что то автоматонское
+    "NAME": "Potency",
     "DESCRIPTIONS": [
       "#yPoly #yBeam will be played at the start of your next turn. ",
       "#yPoly #yBeam will be played at the start of your next #b",
@@ -56,7 +56,7 @@
     ]
   },
   "expansioncontent:PolyBeamAgainPowerUpgraded": {
-    "NAME": "Potency", //Что то автоматонское+
+    "NAME": "Potency",
     "DESCRIPTIONS": [
       "#yPoly #yBeam+ will be played at the start of your next turn. ",
       "#yPoly #yBeam+ will be played at the start of your next #b",
@@ -64,33 +64,33 @@
     ]
   },
   "expansioncontent:AddCopyPower": {
-    "NAME": "Отложенная карта",
+    "NAME": "Delayed Card",
     "DESCRIPTIONS": [
-      "Добавляет ",
-      " в руку в начале вашего следующего хода."
+      "Add ",
+      " into your hand at the start of your next turn."
     ]
   },
   "expansioncontent:AddSameInstancePower": {
-    "NAME": "Отложенная карта",
+    "NAME": "Delayed Card",
     "DESCRIPTIONS": [
-      "Добавляет ",
-      " в руку в начале вашего следующего хода."
+      "Add ",
+      " into your hand at the start of your next turn."
     ]
   },
   "expansioncontent:NextTurnExhumePower": {
-    "NAME": "Отложенная эксгумация",
+    "NAME": "Delayed Exhume",
     "DESCRIPTIONS": [
-      "Вы Эксгумируете ",
-      " в начале вашего следующего хода."
+      "Exhume ",
+      " at the start of your next turn."
     ]
   },
   "expansioncontent:PretendHexWheelPower": {
-    "NAME": "Гексожог",
+    "NAME": "Hexaburn",
     "DESCRIPTIONS": [
-      "Через #b",
-      " хода(ов) наносит #b",
-      "В конце вашего хода наносит #b",
-      " урона случайному врагу #b6 раз."
+      "In #b",
+      " turns, deal #b",
+      "At the end of your turn, deal #b",
+      " damage to a random enemy #b6 times."
     ]
   },
   "expansioncontent:VexVinciblePower": {

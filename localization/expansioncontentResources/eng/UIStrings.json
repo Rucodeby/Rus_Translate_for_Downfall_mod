@@ -1,12 +1,12 @@
 {
   "expansioncontent:CannotUseBossCardMessage": {
     "TEXT": [
-      "Я уже разыграл карту Босса в этом ходу!"
+      "I've already played a Boss card this turn!"
     ]
   },
   "expansioncontent:BossCardTagName": {
     "TEXT": [
-      "Босс"
+      "Boss"
     ]
   }
 }

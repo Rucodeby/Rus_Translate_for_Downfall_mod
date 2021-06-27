@@ -1,36 +1,30 @@
 [
   {
-    "PROPER_NAME": "Босс", //Boss
+    "PROPER_NAME": "Boss",
     "NAMES": [
-      "босс",
-      "боссов",
-      "босса"
+      "boss"
     ],
-    "DESCRIPTION": "Вы можете разыграть только #b1 карту #yБосса в ход."
+    "DESCRIPTION": "You may only play #b1 #yBoss card in a turn."
   },
   {
-    "PROPER_NAME": "Invincible", //Invincible
+    "PROPER_NAME": "Invincible",
     "NAMES": [
       "invincible"
     ],
     "DESCRIPTION": "You cannot lose more than a given amount of HP in a single turn. NL At the end of any round in which Invincible prevented HP loss, remove it."
   },
   {
-    "PROPER_NAME": "Эксгумация", //Exhume
+    "PROPER_NAME": "Exhume",
     "NAMES": [
-      "эксгумация",
-      "эксгумирует",
-      "эксгумируете"
+      "exhume"
     ],
-    "DESCRIPTION": "Возвращает #yСожжённую карту в руку."
+    "DESCRIPTION": "Put a card from your exhaust pile into your hand."
   },
   {
-    "PROPER_NAME": "Возобновление", //Reclaim
+    "PROPER_NAME": "Reclaim",
     "NAMES": [
-      "возобновление",
-      "возобновляет",
-      "возобновляете"
+      "reclaim"
     ],
-    "DESCRIPTION": "Возвращает #yСожжённую карту в стопку сброса."
+    "DESCRIPTION": "Put a card from your exhaust pile into your discard pile."
   }
 ]

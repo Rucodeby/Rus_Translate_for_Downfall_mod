@@ -1,9 +1,9 @@
 {
   "expansioncontent:StudyCardRelic": {
-    "NAME": "Маленькая шляпа-котелок",
-    "FLAVOR": "Тот, кто управляет шляпой, управляет Шпилем.",
+    "NAME": "Tiny Bowler Hat",
+    "FLAVOR": "Whosoever controls the hat, controls the Spire.",
     "DESCRIPTIONS": [
-      "Добавляет #yИзучить #yШпиль в руку в начале каждого боя. Она стоит #b0."
+      "At the start of combat, add a #yStudy #ythe #ySpire card to your hand. It costs 0."
     ]
   }
 }
