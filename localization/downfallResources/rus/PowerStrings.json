@@ -1,0 +1,253 @@
+{
+  "downfall:FairyPotion": {
+    "NAME": "Фея в бутылке",
+    "DESCRIPTIONS": [
+      "Вместо того, чтобы умереть, исцеляет до #b30% от Макс. ОЗ, затем теряет данный эффект.",
+//скопировал с феи в бутылке
+      "Ха! Фея в бутылке, придурок!"
+ //можно вместо придурок использовать сопляк или ублюдок. Да я выбрал что-то среднее
+    ]
+  },
+  "downfall:SoulSteal": {
+    "NAME": "Вор душ",
+    "DESCRIPTIONS": [
+      "Украл уже #b",
+      " Душ."
+    ]
+  },
+  "downfall:NeowInvulnerable": {
+    "NAME": "Бог жизни",
+    "DESCRIPTIONS": [
+      "Восполняет #b",
+      " ОЗ, когда вы разыгрываете карту."
+    ]
+  },
+  "downfall:TransformDrawnCardsPower": {
+    "NAME": "Преобразование вытянутых карт",
+    "DESCRIPTIONS": [
+      "#yПреобразует первые #b",
+      " карты, которые вы берёте в этом ходу. (Осталось ",
+      ")"
+    ]
+  },
+  "downfall:TotemInvulnerable": {
+    "NAME": "Живая стена",
+    "DESCRIPTIONS": [
+      "Может погибнуть, только если все остальные Головы имеют #b1 ОЗ.  Погибает, если погибает любая другая Голова."
+ //погибает т.к. так в стандартном шпиле, если не верите посмотрите на Stasis и Spore Cloud powers
+    ]
+  },
+  "downfall:ExhaustCardsPower": {
+    "NAME": "Forgetful",
+    "DESCRIPTIONS": [
+      "В конце вашего хода выберите карту, которую хотите #yСжечь."
+    ]
+  },
+  "downfall:PoisonResist": {
+    "NAME": "Сопротивление ядам",
+    "DESCRIPTIONS": [
+      "#yЯд срабатывает в конце вашего хода. Потратит оставшуюся [E] на удаление 10 #yЯда за каждую [E] в конце вашего хода."
+    ]
+  },
+  "downfall:NeowBuff": {
+    "NAME": "Бодрость Ньяу",
+    "DESCRIPTIONS": [
+      "Ньяу получает #b2 #yСилы в конце своего хода."
+    ]
+  },
+  "downfall:WatcherAngryPower": {
+    "NAME": "Unbridled Rage",
+    "DESCRIPTIONS": [
+      "В конце своего хода Созерцающая перейдёт в #yГнев, когда её ОЗ опустится ниже #b50%. NL #yГнев Созерцающей увеличивает получаемый и наносимый урон на #b50% вместо #b100%."
+    ]
+  },
+  "downfall:NeowUnbridledRage": {
+    "NAME": "Unbridled Rage",
+    "DESCRIPTIONS": [
+      "Ньяу получит #b6 #yСилы, когда её ОЗ опустится ниже #b50% в конце своего хода. NL Срабатывает один раз за бой."
+    ]
+  },
+  "downfall:WatcherCripplePower": {
+    "NAME": "Blasphemer's Demise",
+    "DESCRIPTIONS": [
+      "Когда Созерцающая потеряет #b",
+      " ОЗ, она получит #b-4 #yСилы при след. переходе в #yБожественность или разыгрывании #yРагнарёка.",
+      "Созерцающая потеряет #b4 #yСилы при след. переходе в #yБожественность или разыгрывании #yРагнарёка."
+    ]
+  },
+  "downfall:NeowBlasphemersDemise": {
+    "NAME": "Blasphemers Demise",
+    "DESCRIPTIONS": [
+      "Когда Ньяу потеряет #b",
+      " ОЗ она не получит #b10 #yСилы при след. планировании наложить полож. эффект.",
+      "Ньяу покалечена и не получит #yСилы при след. планировании наложить полож. эффект."
+    ]
+  },
+  "downfall:WatcherDivinityPower": {
+    "NAME": "Fleeting Faith",
+    "DESCRIPTIONS": [
+      "Созерцающая получает #b1 #yМантру, когда вы разыгрываете карту. NL Созерцающая теряет #b5 #yМантры в начале своего хода. NL Созерцающая не выходит из #yБожественности в конце хода."
+    ]
+  },
+  "downfall:NeowFleetingFaith": {
+    "NAME": "Fleeting Faith",
+    "DESCRIPTIONS": [
+      "Ньяу получает #b1 #yМантру, когда вы разыгрываете карту. Ньяу теряет #b5 #yМантры в начале своего хода."
+    ]
+  },
+  "downfall:SilentShivTimeEaterPower": {
+    "NAME": "Bag of Knives",
+    "DESCRIPTIONS": [
+      "Безмолвная получает #yЗаточку, когда вы разыгрываете первую карту в ходу с #b0 стоимостью."
+      ]
+  },
+  "downfall:NeowBagOfKnives": {
+    "NAME": "Bag of Knives",
+    "DESCRIPTIONS": [
+      "Наносит #b4 урона, когда вы разыгрываете первые #b2 карты в ходу с #b0 стоимостью."
+    ]
+  },
+  "downfall:SilentMirrorImagePower": {
+    "NAME": "Seeing Double",
+    "DESCRIPTIONS": [
+      "Зеркальный образ Безмолвной скрывает её местоположение в начале каждого вашего хода. Зеркальный образ исчезает до конца хода, когда вы атакуете его или Безмолвную."
+    ]
+  },
+  "downfall:NeowSeeingDouble": {
+    "NAME": "Seeing Double",
+    "DESCRIPTIONS": [
+      "В начале каждого вашего хода первая #yАтака нацеленная на Ньяу нанесёт #b0 урона."
+    ]
+  },
+  "downfall:SilentPoisonPower": {
+    "NAME": "Warning: Highly Toxic",
+    "DESCRIPTIONS": [
+      "Вы получаете #yСопротивление #yядам в бою с Безмолвной."
+    ]
+  },
+  "downfall:NeowHighlyToxic": {
+    "NAME": "Warning: Highly Toxic",
+    "DESCRIPTIONS": [
+      "Ньяу накладывает #b10 #yЯда в начале своего хода. Вы получаете #yСопротивление #yядам."
+ //нядо уточнение
+, тут было per turn
+    ]
+  },
+  "downfall:DefectVoidPower": {
+    "NAME": "Энерговор",
+    "DESCRIPTIONS": [
+      "Whenever Defect generates a Void, it goes to the top of your draw pile."
+    ]
+  },
+  "downfall:NeowEnergyThief": {
+    "NAME": "Энерговор",
+    "DESCRIPTIONS": [
+      "Ньяу добавляет 1 #yБездну, когда добавляет #rПроклятие в колоду."
+    ]
+  },
+  "downfall:DefectAncientConstructPower": {
+    "NAME": "Ancient Construct",
+    "DESCRIPTIONS": [
+      "Призывает 2 Бронзовых сферы в начале боя. NL Получает 1 #yАртефакт, если у него нет #yАртефакта в конце своего хода."
+    ]
+  },
+  "downfall:NeowAncientConstruct": {
+    "NAME": "Ancient Construct",
+    "DESCRIPTIONS": [
+      "Ньяу получает #b2 #yАртефакта, если у неё нет #yАртефакта в конце хода."
+    ]
+  },
+  "downfall:DefectCuriosity": {
+    "NAME": "Unbiased Cognition",
+    "DESCRIPTIONS": [
+      "Получает #b",
+      " #yФокуса, когда вы разыгрываете #yРедкую карту."
+    ]
+  },
+  "downfall:NeowUnbiasedCognition": {
+    "NAME": "Unbiased Cognition",
+    "DESCRIPTIONS": [
+      "Ньяу получает #b2 #yСилы, когда вы разгрываете #yРедкую карту."
+    ]
+  },
+  "downfall:IroncladStatusPower": {
+    "NAME": "Synchronize",
+    "DESCRIPTIONS": [
+      "Добавляет копию каждого создаваемого #yСтатуса в вашу стопку сброса."
+    ]
+  },
+ 
+  "downfall:NeowSyncronize": {
+    "NAME": "Synchronize",
+    "DESCRIPTIONS": [
+      "Ньяу добавляет #yСтатус в стопку сброса every turn."
+    ]
+  },
+ //ждём уточнение
+  "downfall:IroncladMushroomPower": {
+    "NAME": "Feeding Frenzy",
+    "DESCRIPTIONS": [
+      "Жнец Латаносца не #yСжигается и наносит урон ВСЕМ Грибам. NL Латаносец получает #b1 #yСилы, когда убивает Гриб."
+ //Mushroom - те мыши
+    ]
+  },
+  "downfall:NeowFeedingFrenzy": {
+    "NAME": "Feeding Frenzy",
+    "DESCRIPTIONS": [
+      "Ньяу восполняет ОЗ, когда наносит любой урон по ОЗ."
+    ]
+  },
+  "downfall:IroncladFortificationPower": {
+    "NAME": "Бастион",
+    "DESCRIPTIONS": [
+      "Латаносец призывает Укрепление, которое даёт #b15 #yЗащиты each turn. NL Латаносец теряет #yБаррикаду и получает #b5 #yСилы в начале своего хода, когда Укрепление погибает."
+ //ждём уточнялки
+, но пока пусть будет в начале своего хода, вдруг ему облик дали. Fortification - щит сердца
+ только с другим именем
+    ]
+  },
+  "downfall:NeowBastion": {
+    "NAME": "Бастион",
+    "DESCRIPTIONS": [
+      "Ньяу получает #yБаррикаду и #b10 #yЗащиты в начале каждого хода."
+    ]
+  },
+  "downfall:MerchantStrengthPower": {
+    "NAME": "Soul Stealer",
+    "DESCRIPTIONS": [
+      "Merchant still has the Strength it earned from Soul Steal this run, and gains an equal amount of Dexterity."
+    ]
+  },
+  "downfall:NeowMantra": {
+    "NAME": "Мантра",
+    "DESCRIPTIONS": [
+      "Ньяу конвертирует #b10 #yМантры в #b10 #yСилы, когда #yМантра достигнет #b10."
+    ]
+  },
+  "downfall:NeowSeeingDoubleProduct": {
+    "NAME": "???",
+    "DESCRIPTIONS": [
+      "Следующая #yАтака нацеленая на Ньяу нанесёт #b0 урона в этом ходу."
+    ]
+  },
+  "downfall:CrowbotRitualPower": {
+    "NAME": "Reprogram:Ritual",
+    "DESCRIPTIONS": [
+      "When #yCrowBot is at or below #b50% HP,it lose #b3 HP and gain #b",
+      " #yStrength at the end of its turn."
+    ]
+  },
+  "downfall:DamageMultiplier": {
+    "NAME": "Множитель урона",
+    "DESCRIPTIONS": [
+      "#yАтаки наносят в #b",
+      " раза больше урона."
+    ]
+  },
+  "downfall:CompressionMold": {
+    "NAME": "Compression Mold",
+    "DESCRIPTIONS": [
+      "#yFired Ammo is upgraded afterwards."
+    ]
+  } // по идее не используется
+}

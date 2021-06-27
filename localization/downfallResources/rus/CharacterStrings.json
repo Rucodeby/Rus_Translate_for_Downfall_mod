@@ -1,0 +1,231 @@
+{
+  "downfall:Heart Event": {
+    "NAMES": [
+      "Сердце"
+    ],
+    "TEXT": [
+      "~Служи...~ NL ~me..~ ~now...~",
+      "~Поднимись...~ NL ~слуга...~",
+      "~Встань...~", // arise
+      "~Устрани~ NL ~нарушителей...~",
+      "~Reach~ ~the~ ~intruder...~ NL ~to~ ~receive~ ~more..~ ~blessings...~",
+      "~At~ ~least...~ ~confront~ NL ~the~ ~first~ ~intruder...~",
+      "~I~ ~brought~ ~you~ ~back...~",
+      "~Choose...~",
+      "~Granted...~",
+      "~Sacrifice...~ NL ~...for~ ~power....~",
+      "~PROVE~ ~your~ NL ~worth...~",
+      "Rewards",
+      "~Continue~ ~for~ ~me...~",
+      "~Descend...~ ~..into madness...~",
+      "~Impressive...~ ~more...~",
+      "Cursed!",
+      "Scatterbrain!",
+      "Transformation!"
+    ],
+    "OPTIONS": [
+      "[Продолжить]",
+      "[Говорить]",
+      "[Пропустить]",
+      "[Уйти]",
+      "Выберите 10 карт, которые хотите добавить в свою колоду.",
+      "[ #gВраги #gпервые #gтри #gбоя #gбудут #gбежать #gв #gужасе ]",
+      "[ Закрыто - Нельзя выбрать в первом забеге ]"
+    ]
+  },
+  "downfall:Unlock": {
+    "TEXT": [
+      "Этого персонажа можно открыть, завершив одну вылазку за Слизнебосса.",
+      "Этого персонажа можно открыть, завершив одну вылазку за 2 злодея.",
+      "Этого персонажа можно открыть, завершив одну вылазку за Стража.",
+      "Этого персонажа можно открыть, завершив одну вылазку за 3 злодея.",
+      "Этого персонажа можно открыть, завершив одну вылазку за Гексадуха.",
+      "Этого персонажа можно открыть, завершив одну вылазку за 4 злодея.",
+      "Этого персонажа можно открыть, завершив одну вылазку за Чемпиона.",
+      "Этого персонажа можно открыть, завершив одну вылазку за 5 злодея.",
+      "Этого персонажа можно открыть, завершив одну вылазку за Автоматона.",
+      "Этого персонажа можно открыть, завершив одну вылазку за 6 злодея.",
+      "Этого персонажа можно открыть, завершив одну вылазку за Гремлинов.",
+      " (Победы на 4 Акте не считаются)"
+    ]
+  },
+  "downfall:HeartMerchant": {
+  "NAMES": [
+    "Proceed",
+    "~Sacrifice...~"
+  ],
+  "TEXT": [
+    "~Ты~ ~стал...~ ~сильнее...~",
+    "~Мы~ ~растём...~ ~вместе~ ~с~ ~тобой...~",
+    "~Убей...~ ~и~ ~будешь~ ~вознаграждён...~",
+    "~Больше...~ ~душ...~",
+    "~Корми~ ~нас......~ NL ~КОРМИ~ ~НАС......~",
+    "~Топливо...~ ~порока...~",
+    "~Благословления...~ ~заслужены...~",
+    "~Никакой...~ ~пощады...~",
+    "~Всё...~ ~сильнее...~",
+    "~Наша~ ~сила...~ ~твоя...~",
+    "~Убей~ ~всех...~ ~на~ ~своём~ ~пути...~",
+    "~Сражайся...~ ~падай...~ ~и~ ~питайся...~",
+    "~Мы...~ ~легион...~",
+    "~Иди~ ~вперёд...~ ~и~ ~пожинай...~",
+    "~Отменные...~ ~души...~",
+    "~Пожинай...~ ~павших...~"
+  ],
+  "OPTIONS": [
+    "~Ньяу...~ ~не~ ~может~ ~победить...~",
+    "~Ничего...~ ~не~ ~бойся...~",
+    "..... NL .... NL .........",
+    "~Покончи~ ~с...~ ~ними...~",
+    "~Желаем...~ ~удачи...~",
+    "~Не...~ ~погибай...~",
+    "~Мы будем...~ ~ждать...~",
+    "~Уничтожь...~ ~их~ ~всех...~"
+  ]
+},
+  "downfall:HeartProceed": {
+    "TEXT": [
+      "~Intruders...~ NL ~...in~ ",
+      "~You~ ~are~ ~needed...~ NL ~...in~ ",
+      "~They~ ~have~ ~reached...~ NL ",
+      "~Return...~ NL ~Protect~ ",
+      "~Slay~ ~them~ ~all...~ NL ~...in~ "
+    ],
+    "OPTIONS": [
+      "~Город...~",
+      "~Запределье...~"
+ //здесь надо перефразировать так чтобы склонение в каждом предложении было одинаково
+    ]
+  },
+  "downfall:NeowEnding": {
+    "TEXT": [
+      "You... have... slain... everyone...",
+      "...the cycle... has died.....",
+      "..and so...... shall... NL ....I......"
+    ],
+    "OPTIONS": [
+      "~I~ ~brought...~ NL ~HIM...~ ~back...~",
+      "~Protect~ ~me...~ NL ~And~ ~be...~ ~rewarded...~"
+    ]
+  },
+  "downfall:HeartMerchantScreen": {
+    "NAMES": [
+      "~Поздравляю~ NL ~приспешник...~",
+      "~Принеси~ ~больше~ ~душ...~",
+      "~Мне~ ~надо~ @больше...@",
+      "~You~ ~are~ ~not~ NL @worthy...@",
+      "~Нет.~",
+      "~Harvest~ ~more~ NL ~for~ ~that...~",
+      "~Insufficient~ ~sacrifice...~",
+      "~Да...~",
+      "~Больше...~ @Больше...!@",
+      "~Grow~ ~strong...~",
+      "~I~ ~am~ ~renewed...~",
+      "~Go~ ~forth...~",
+      "Уйти",
+      "Выберите карту, которую хотите удалить из колоды."
+    ],
+    "TEXT": [
+    "~Ты~ ~стал...~ ~сильнее...~",
+    "~Мы~ ~растём...~ ~вместе~ ~с~ ~тобой...~",
+    "~Убей...~ ~и~ ~будешь~ ~вознаграждён...~",
+    "~Больше...~ ~душ...~",
+    "~Корми~ ~нас......~ NL ~КОРМИ~ ~НАС......~",
+    "~Топливо...~ ~порока...~",
+    "~Благословления...~ ~заслужены...~",
+    "~Никакой...~ ~пощады...~",
+    "~Всё...~ ~сильнее...~",
+    "~Наша~ ~сила...~ ~твоя...~",
+    "~Убей~ ~всех...~ ~на~ ~своём~ ~пути...~",
+    "~Сражайся...~ ~падай...~ ~и~ ~питайся...~",
+    "~Мы...~ ~легион...~",
+    "~Иди~ ~вперёд...~ ~и~ ~пожинай...~",
+    "~Отменные...~ ~души...~",
+    "~Пожинай...~ ~павших...~"
+   ] 
+ // Те же слова что и в TEXT heartMerchant
+  },
+  "downfall:OctoChoiceCards": {
+    "NAMES": [
+      "Души",
+      "Success",
+      "A Pick Me Up",
+      "Guardian",
+      "Гексадух",
+      "Слизнебосс",
+      "Автоматон",
+      "Чемпион",
+      "Collector",
+      "Time Eater",
+      "Awakened One",
+      "Ancients",
+      "Split: Bronze",
+      "Split: Ghostflame",
+      "Split: Torchhead",
+      "Split: Cultist",
+      "Split: Protector",
+      "Split: Insulting",
+      "Split: Ancient",
+      "Split: Time"
+    ],
+    "TEXT": [
+      "Потерять 3 ОЗ. NL Получить 40 Душ.",
+      "Потерять 1 ОЗ. NL Добавить 1 случайную Бесцветную карту в руку.",
+      "Потерять 5 ОЗ. NL Получить случайное Зелье.",
+      "Obtain Guardian expansioncontent:Boss cards.",
+      "Obtain Hexaghost expansioncontent:Boss cards.",
+      "Obtain Slime Boss expansioncontent:Boss cards.",
+      "Obtain Automaton expansioncontent:Boss cards.",
+      "Obtain Champ expansioncontent:Boss cards.",
+      "Obtain Collector expansioncontent:Boss cards.",
+      "Obtain Time Eater expansioncontent:Boss cards.",
+      "Obtain Awakened One expansioncontent:Boss cards.",
+      "Obtain Ancients expansioncontent:Boss cards.",
+      "Split into a slimeboundmod:Bronze_Slime.",
+      "Split into a slimeboundmod:Ghostflame_Slime.",
+      "Split into a slimeboundmod:Torchhead_Slime.",
+      "Split into a slimeboundmod:Cultist_Slime.",
+      "Split into a slimeboundmod:Protector_Slime.",
+      "Split into an slimeboundmod:Insulting_Slime.",
+      "Split into an slimeboundmod:Ancient_Slime.",
+      "Split into a slimeboundmod:Time_Slime.",
+      "Split into a slimeboundmod:Bruiser_Slime.",
+      "Split into a slimeboundmod:Guerilla_Slime.",
+      "Split into a slimeboundmod:Mire_Slime.",
+      "Split into a slimeboundmod:Leeching_Slime."
+    ]
+  },
+  "downfall:lazyStorage": {
+    "NAMES": [
+
+    ],
+    "TEXT": [
+      "Choose a Boss to Study.",
+      "Choose Advance,Retract or Do Nothing"
+    ]
+  },
+  "downfall:CharBossMerchant": {
+    "NAMES": [
+      "Торговец"
+    ],
+    "TEXT": [
+    ]
+  },
+  "downfall:NeowBoss": {
+    "NAMES": [
+      "Ньяу"
+    ],
+    "TEXT": [
+      "~Поднимись...~",
+      "~Сразимся~ ~ещё~ ~раз...~",
+      "~Петля~ ~должна~ ~быть~ ~прервана...~"
+    ]
+  },
+  "downfall:NeowBossFinal": {
+    "NAMES": [
+      "Ньяу"
+    ],
+    "TEXT": [
+    ]
+  }
+}

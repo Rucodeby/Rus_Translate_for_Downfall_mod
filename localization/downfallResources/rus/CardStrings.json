@@ -1,0 +1,30 @@
+{
+  "downfall:SummonMushrooms": {
+    "NAME": "Fungus Among Us",
+    "DESCRIPTION": "Kill all Mushrooms. Heal HP equal to their remaining HP. NL Summon two Mushrooms."
+  },
+  "downfall:Aged": {
+    "NAME": "Aged",
+    "DESCRIPTION": "Неиграбельная. Эфирная. NL Добавляет *Бездну на верх стопки добора в конце вашего хода."
+  },
+  "downfall:Bewildered": {
+    "NAME": "Bewildered",
+    "DESCRIPTION": "When you play another card, sneckomod:Muddle your hand, then discard this. NL Сжигается."
+  },
+  "downfall:Icky": {
+    "NAME": "Icky",
+    "DESCRIPTION": "Добавляет *В *слизи в руку. NL Сжигается."
+  },
+  "downfall:Haunted": {
+    "NAME": "Haunted",
+    "DESCRIPTION": "Неиграбельная. Эфирная. NL Добавляет Эфирная ко всем картам в руке, когда вы берёте эту карту."
+  },
+  "downfall:Malfunctioning": {
+    "NAME": "Flawed",
+    "DESCRIPTION": "Эфирная. NL Преобразует ВСЕ карты в руке в случайные Статусы в конце вашего хода. NL Сжигается."
+  },
+ "downfall:Scatterbrained": {
+    "NAME": "Scatterbrained",
+    "DESCRIPTION": "Unplayable. NL When drawn, if it is your turn, fill your hand with Echoes of this card."
+  }
+} 

@@ -1,0 +1,86 @@
+{
+  "downfall:ChangingTotem": {
+    "MOVES": [
+      "Transformative Gaze"
+    ],
+    "NAME": "Head of Change",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "downfall:ForgetfulTotem": {
+    "MOVES": [
+      "Forgetful Stare"
+    ],
+    "NAME": "Forgetful Head",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "downfall:GrowingTotem": {
+    "MOVES": [
+      "Growth Beam"
+    ],
+    "NAME": "Head of Growth",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "downfall:FleeingMerchant": {
+    "MOVES": [
+      "Кража душ"
+    ],
+    "NAME": "Торговец",
+// тут был вероятно мисплей мододелов, так что я заменил Head of Growth на Merchant
+    "DIALOG": [
+      ""
+    ]
+  },
+  "downfall:LooterAlt": {
+    "MOVES": [
+    ],
+    "NAME": "Мародёр",
+    "DIALOG": [
+      "~Эй,~ у тебя нет денег!",
+      "@НЕ-Е-Е-е-е-е-т!@",
+      "Ты сегодня умрешь, болван."
+    ]
+  },
+  "downfall:MuggerAlt": {
+    "MOVES": [
+    ],
+    "NAME": "Грабитель",
+    "DIALOG": [
+      "Let's teach 'em a lesson.",
+      "Teach 'em all the way!"
+    ]
+  },
+  "downfall:Fortification": {
+    "MOVES": [
+    ],
+    "NAME": "Укрепление",
+    "DIALOG": [
+    ]
+  },
+  "downfall:MushroomRed": {
+    "MOVES": [
+    ],
+    "NAME": "Белый гриб",
+    "DIALOG": [
+    ]
+  },
+  "downfall:MushroomPurple": {
+    "MOVES": [
+    ],
+    "NAME": "Млечник",
+    "DIALOG": [
+    ]
+  },
+  "downfall:MushroomWhite": {
+    "MOVES": [
+    ],
+    "NAME": "Головач",
+    "DIALOG": [
+    ]
+  }
+}
