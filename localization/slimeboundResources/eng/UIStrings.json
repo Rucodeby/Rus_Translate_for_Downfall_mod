@@ -1,15 +1,15 @@
 {
   "slimeboundConfigMenuText": {
     "TEXT": [
-      "Разрешить другим персонажам столкнуться с реликвиями Слизнебосса.",
-      "Разрешить другим персонажам столкнуться с зельями Слизнебосса.",
-      "Разрешить другим персонажам столкнуться с событиями Слизнебосса.",
-      "Открыть ВСЁ (Не рекомендуется)"
+      "Allow other characters to encounter some Slimebound relics.",
+      "Allow other characters to encounter some Slimebound potions.",
+      "Allow other characters to encounter some Slimebound events.",
+      "Unlock everything (Not recommended)"
     ]
   },
   "slimeboundmod:CommandMod": {
     "TEXT": [
-      " NL slimeboundmod:Командует."
+      " NL slimeboundmod:Command."
     ]
   }
 }

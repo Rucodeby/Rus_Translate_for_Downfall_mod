@@ -1,382 +1,382 @@
 {
   "Slimebound:Strike_Slimebound": {
-    "NAME": "Удар",
-    "DESCRIPTION": "Наносит !D! урона."
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
   },
   "Slimebound:Defend_Slimebound": {
-    "NAME": "Оборона",
-    "DESCRIPTION": "Даёт !B! Защиты."
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
   },
   "Slimebound:LevelUp": {
-    "NAME": "Повышение уровня",
-    "DESCRIPTION": "Даёт !M! slimeboundmod:Мощи.",
-    "UPGRADE_DESCRIPTION": "Даёт !M! slimeboundmod:Мощи."
+    "NAME": "Level Up",
+    "DESCRIPTION": "Gain !M! slimeboundmod:Potency.",
+    "UPGRADE_DESCRIPTION": "Gain !M! slimeboundmod:Potency and 1 Slime slot."
   },
   "Slimebound:ProtectTheBoss": {
-    "NAME": "За короля!",
-    "DESCRIPTION": "Предотвращает следующий урон от атаки врага и slimeboundmod:Поглощает первую Слизь.",
-    "UPGRADE_DESCRIPTION": "Предотвращает 2 следующих урона от атак врагов и slimeboundmod:Поглощает первую Слизь."
+    "NAME": "Protect the Boss",
+    "DESCRIPTION": "Prevent the next time you would be damaged by an enemy attack, slimeboundmod:Absorbing your leading Slime instead.",
+    "UPGRADE_DESCRIPTION": "Prevent the next 2 times you would be damaged by an enemy attack, slimeboundmod:Absorbing your leading Slime instead."
   },
   "Slimebound:SamplingLick": {
-    "NAME": "Дегустриующий лизь",
-    "DESCRIPTION": "Накладывает !SlimeboundSlimed! slimeboundmod:Слизи. NL Даёт !B! Защиты. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Накладывает !SlimeboundSlimed! slimeboundmod:Слизи NL Даёт !B! Защиты. NL Вы берёте карту. NL Сжигается."
+    "NAME": "Sampling Lick",
+    "DESCRIPTION": "Apply !SlimeboundSlimed! slimeboundmod:Goop. NL Gain !B! Block. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Apply !SlimeboundSlimed! slimeboundmod:Goop. NL Gain !B! Block. NL Draw a card. NL Exhaust."
   },
   "Slimebound:Replication": {
-    "NAME": "Копирование",
-    "DESCRIPTION": "Выберите карту в руке. Добавляет её копию в руку. NL Сжигается."
+    "NAME": "Replication",
+    "DESCRIPTION": "Choose a card in your hand. NL Put a copy of that card on top of your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose a card in your hand. NL Add a copy of it into your hand. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      " to add a copy into your hand.",
+      " to put a copy on top of your draw pile."
+    ]
   },
   "Slimebound:Overexert": {
-    "NAME": "Перенапряжение",
-    "DESCRIPTION": "Даёт 4 slimeboundmod:Мощи. NL slimeboundmod:Поглащает ВСЮ Слизь, через !M! хода.",
-    "UPGRADE_DESCRIPTION": "Даёт 4 slimeboundmod:Мощи. NL slimeboundmod:Командует дважды. NL slimeboundmod:Поглащает ВСЮ Слизь, через !M! хода."
+    "NAME": "Overexert",
+    "DESCRIPTION": "Gain 4 slimeboundmod:Potency. NL !M! turns from now, slimeboundmod:Absorb all Slimes.",
+    "UPGRADE_DESCRIPTION": "Gain 4 slimeboundmod:Potency. NL slimeboundmod:Command twice. NL !M! turns from now, slimeboundmod:Absorb all Slimes."
   },
   "Slimebound:Split": {
-    "NAME": "Разделение",
-    "DESCRIPTION": "Выберите 1 из 4 Слизи и slimeboundmod:Разделитесь на неё. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Выберите 2 из 4 Слизи и slimeboundmod:Разделитесь на них. NL Сжигается."
+    "NAME": "Split",
+    "DESCRIPTION": "Choose 1 of 4 Slimes to slimeboundmod:Split into. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose 2 of 4 Slimes to slimeboundmod:Split into. NL Exhaust."
   },
   "Slimebound:LeadByExample": {
-    "NAME": "Подать пример",
-    "DESCRIPTION": "Первая разыгранная карта каждый ход, нацеленная на врагов, также slimeboundmod:Командует.",
-    "UPGRADE_DESCRIPTION": "Первые !M! разыгранные карты каждый ход, нацеленные на врагов, также slimeboundmod:Командуют."
+    "NAME": "Lead By Example",
+    "DESCRIPTION": "The first card you play each turn that targets enemies also slimeboundmod:Commands.",
+    "UPGRADE_DESCRIPTION": "The first !M! cards you play each turn that targets enemies also slimeboundmod:Commands."
   },
   "Slimebound:SlimeTap": {
-    "NAME": "Слизнесжатие",
-    "DESCRIPTION": "slimeboundmod:Поглощает - Даёт [E] [E] и вы берёте !M! карты. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Поглощает дважды - Даёт [E] [E] и вы берёте 2 карты за каждое slimeboundmod:Поглощение. NL Сжигается.",
+    "NAME": "Slime Tap",
+    "DESCRIPTION": "slimeboundmod:Absorb - Gain [E] [E] and draw !M! cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Absorb Twice - Gain [E] [E] and draw 2 cards for each slimeboundmod:Absorbed. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
-      "Нужна... слизь..."
+      "Need... slimes..."
     ]
   },
   "Slimebound:Teamwork": {
-    "NAME": "Командная работа",
-    "DESCRIPTION": "slimeboundmod:Командует X раз. NL Даёт !B! Защиты X раз.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Командует X+1 раз. NL Даёт !B! Защиты X+1 раз."
+    "NAME": "Teamwork",
+    "DESCRIPTION": "slimeboundmod:Command X times. NL Gain !B! Block X times.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Command X+1 times. NL Gain !B! Block X+1 times."
   },
   "Slimebound:SlimeBarrage": {
-    "NAME": "Навалиться!",
-    "DESCRIPTION": "Наносит !D! урона. slimeboundmod:Командует ВСЕЙ слизью.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. slimeboundmod:Командует ВСЕЙ слизью дважды."
+    "NAME": "Pile On!",
+    "DESCRIPTION": "Deal !D! damage. slimeboundmod:Command ALL slimes.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. slimeboundmod:Command ALL slimes twice."
   },
   "Slimebound:SlimeBrawl": {
-    "NAME": "Драка Слизней",
-    "DESCRIPTION": "Разыгрывает карту с верха стопки добора. Повторяется за каждую призванную Слизь. NL Сжигается."
+    "NAME": "Slime Brawl",
+    "DESCRIPTION": "Play the top card of your draw pile. Repeat for each of your spawned Slimes. NL Exhaust."
   },
   "Slimebound:SpikyOuterGoop": {
-    "NAME": "Слизнеброня",
-    "DESCRIPTION": "Даёт !M! Защиты, когда вы slimeboundmod:Слизываете."
+    "NAME": "Goop Armor",
+    "DESCRIPTION": "Gain !M! Block whenever you slimeboundmod:Consume."
   },
   "Slimebound:SelfFormingGoo": {
-    "NAME": "Переделка",
-    "DESCRIPTION": "Даёт !M! Силы, когда вы slimeboundmod:Поглощаете Слизь.",
-    "UPGRADE_DESCRIPTION": "Даёт !M! Силы и !M! Ловкости, когда вы slimeboundmod:Поглощаете Слизь."
+    "NAME": "Reformation",
+    "DESCRIPTION": "When you slimeboundmod:Absorb a Slime, gain !M! Strength.",
+    "UPGRADE_DESCRIPTION": "When you slimeboundmod:Absorb a Slime, gain !M! Strength and !M! Dexterity."
   },
   "Slimebound:OozeBath": {
-    "NAME": "Ванна слизи",
-    "DESCRIPTION": "Накладывает !M! slimeboundmod:Слизи выбранному врагу в начале каждого его хода. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Утраивает slimeboundmod:Слизь на враге. NL Сжигается."
+    "NAME": "Ooze Bath",
+    "DESCRIPTION": "Apply !M! slimeboundmod:Goop to target enemy at the start of each of its turns. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Triple the enemy's slimeboundmod:Goop. NL Exhaust."
   },
   "Slimebound:SlimeSpikes": {
-    "NAME": "Слизнешипы",
-    "DESCRIPTION": "Даёт !B! Защиты и !M! временных Шипов."
+    "NAME": "Slime Spikes",
+    "DESCRIPTION": "Gain !B! Block and !M! temporary Thorns."
   },
   "Slimebound:LeechingTouch": {
-    "NAME": "Сосущий удар",
-    "DESCRIPTION": "Наносит !D! урона. NL slimeboundmod:Слизывание даёт Защиту равную slimeboundmod:Слизи на враге."
+    "NAME": "Leeching Strike",
+    "DESCRIPTION": "Deal !D! damage. NL slimeboundmod:Consume - Gain Block equal to the enemy's slimeboundmod:Goop."
   },
   "Slimebound:Dissolve": {
-    "NAME": "Растворить",
-    "DESCRIPTION": "Вы берёте карту, затем Сжигаете карту в руке. Добавляет количество *Лизь равное их стоимости. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Вы берёте карту, затем Сжигаете карту в руке. Добавляет количество *Лизь равное их стоимости + 1. NL Сжигается."
+    "NAME": "Dissolve",
+    "DESCRIPTION": "Draw a card, then Exhaust a card in your hand. Add a number of *Licks to your hand equal to its cost. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw a card, then Exhaust a card in your hand. Add a number of *Licks to your hand equal to its cost plus 1. NL Exhaust."
   },
   "Slimebound:DuplicatedForm": {
-    "NAME": "Облик Двойника",
-    "DESCRIPTION": "Отнимает !M! ОЗ и !M! Макс ОЗ на этот бой. NL Первая разыгранная в каждом ходу карта, нацеленная на врага, разыгрывается дважды.",
-    "UPGRADE_DESCRIPTION": "Отнимает !M! ОЗ и !M! Макс ОЗ на этот бой. NL Даёт [E] каждый ход. NL Первая разыгранная в каждом ходу карта, нацеленная на врага, разыгрывается дважды.",
+    "NAME": "Duplicated Form",
+	"DESCRIPTION": "Lose !M! HP and !M! Max HP this combat. NL The first card you play each turn that targets enemies is played twice.",
+    "UPGRADE_DESCRIPTION": "Lose !M! HP and !M! Max HP this combat. NL Gain [E] each turn. NL The first card you play each turn that targets enemies is played twice.",
     "EXTENDED_DESCRIPTION": [
-      "Нужно... Здоровье..."
+      "Need... Health..."
     ]
   },
   "Slimebound:Recollect": {
-    "NAME": "Пересбор",
-    "DESCRIPTION": "Даёт !B! Защиты. NL expansioncontent:Эксгумирует случ. карту с 0 стоимостью.",
-    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL expansioncontent:Эксгумирует 2 случ. карты с 0 стоимостью.",
+    "NAME": "Recollect",
+    "DESCRIPTION": "Gain !B! Block. NL expansioncontent:Exhume a random 0-cost card.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL expansioncontent:Exhume 2 random 0-cost cards.",
     "EXTENDED_DESCRIPTION": [
-      "Не... Сжигайтесь..."
+      "Not... Exhausted..."
     ]
   },
   "Slimebound:FormOfPuddle": {
     "NAME": "Shape of Puddle",
-    "DESCRIPTION": "Даёт 1 Неосязаемости. NL Сжигается."
+    "DESCRIPTION": "Gain 1 Intangible. NL Exhaust."
   },
   "Slimebound:GrowthPunch": {
     "NAME": "Growth Punch",
-    "DESCRIPTION": "Наносит !D! урона. NL Даёт !B! Защиты. NL slimeboundmod:Слизывание увеличивает урон и защиту карты на !M! ."
+    "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL slimeboundmod:Consume - Increase this card's effects by !M! this combat."
   },
   "Slimebound:CheckThePlaybook": {
     "NAME": "Consult Playbook",
-    "DESCRIPTION": "Добавляет 4 случайных slimeboundmod:Tackle в руку. Они стоят на 1 меньше до конца боя. NL Сжигается."
+    "DESCRIPTION": "Add 4 random slimeboundmod:Tackle cards to your hand. They cost 1 less this combat. NL Exhaust."
   },
   "Slimebound:Recycling": {
-    "NAME": "Переработка",
-    "DESCRIPTION": "В начале каждого вашего хода expansioncontent:Эксгумирует случайную карту с 0 стоимостью.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL В начале каждого вашего хода expansioncontent:Эксгумирует случайную карту с 0 стоимостью."
+    "NAME": "Recycling",
+    "DESCRIPTION": "At the start of your turn, expansioncontent:Exhume a random 0-cost card.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, expansioncontent:Exhume a random 0-cost card."
   },
   "Slimebound:Repurpose": {
-    "NAME": "Переквалификация",
-    "DESCRIPTION": "slimeboundmod:Поглощает - Разделяет на случайную slimeboundmod:Специальную Слизь. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Поглощает - Разделяет на случайную slimeboundmod:Специальную Слизь. NL slimeboundmod:Командует. NL Сжигается."
+    "NAME": "Repurpose",
+    "DESCRIPTION": "slimeboundmod:Absorb - Split into a random slimeboundmod:Specialist Slime. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Absorb - Split into a random slimeboundmod:Specialist Slime. NL slimeboundmod:Command. NL Exhaust."
   },
   "Slimebound:RollThrough": {
-    "NAME": "Сквозной перекат",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Вы не получите урона от следующих !M! slimeboundmod:Tackle."
+    "NAME": "Roll Through",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL You do not take damage from the next !M! slimeboundmod:Tackle cards."
   },
   "Slimebound:MassRepurpose": {
-    "NAME": "Массовая переделка",
-    "DESCRIPTION": "slimeboundmod:Поглощает ВСЮ Слизь. NL Разделяет на случайную slimeboundmod:Специальную Слизь за каждую slimeboundmod:Поглощённую. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Поглощает ВСЮ Слизь. NL Разделяет на случайную slimeboundmod:Специальную Слизь за каждую slimeboundmod:Поглощённую. slimeboundmod:Командует ВСЕЙ Слизью. NL Сжигается."
+    "NAME": "Mass Repurpose",
+    "DESCRIPTION": "slimeboundmod:Absorb ALL Slimes. NL Split into a random slimeboundmod:Specialist Slime for each slimeboundmod:Absorbed. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Absorb ALL Slimes. NL Split into a random slimeboundmod:Specialist Slime for each slimeboundmod:Absorbed, then slimeboundmod:Command them all. NL Exhaust."
   },
   "Slimebound:Lick": {
-    "NAME": "Лизь",
-    "DESCRIPTION": "Накладывает !SlimeboundSlimed! slimeboundmod:Слизи. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Накладывает !M! Слабости и !SlimeboundSlimed! slimeboundmod:Слизи. NL Вы берёте карту. NL Сжигается."
+    "NAME": "Lick",
+    "DESCRIPTION": "Apply !SlimeboundSlimed! slimeboundmod:Goop. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Weak and !SlimeboundSlimed! slimeboundmod:Goop. NL Draw a card. NL Exhaust."
   },
   "Slimebound:HauntingLick": {
-    "NAME": "Терзающий лизь",
-    "DESCRIPTION": "Накладывает !M! Уязвимости и !SlimeboundSlimed! slimeboundmod:Слизи. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Накладывает !M! Уязвимости и !SlimeboundSlimed! slimeboundmod:Слизи. NL Вы берёте карту. NL Сжигается."
+    "NAME": "Haunting Lick",
+    "DESCRIPTION": "Apply !M! Vulnerable and !SlimeboundSlimed! slimeboundmod:Goop. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable and !SlimeboundSlimed! slimeboundmod:Goop. NL Draw a card. NL Exhaust."
   },
   "Slimebound:MegaLick": {
-    "NAME": "Мега лизь",
-    "DESCRIPTION": "Накладывает !M! Слабости и !SlimeboundSlimed! slimeboundmod:Слизи на ВСЕХ врагов. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Накладывает !M! Слабости и !SlimeboundSlimed! slimeboundmod:Слизи на ВСЕХ врагов. NL Вы берёте карту. NL Сжигается."
+    "NAME": "Mega-Lick",
+    "DESCRIPTION": "Apply !M! Weak and !SlimeboundSlimed! slimeboundmod:Goop to ALL enemies. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Weak and !SlimeboundSlimed! slimeboundmod:Goop to ALL enemies. NL Draw a card. NL Exhaust."
   },
   "Slimebound:RejuvenatingLick": {
-    "NAME": "Двойной лизь",
-    "DESCRIPTION": "Накладывает !SlimeboundSlimed! slimeboundmod:Слизи. NL Восполняет !M! ОЗ. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Накладывает !SlimeboundSlimed! slimeboundmod:Слизи. NL Восполняет !M! ОЗ. NL Вы берёте карту. NL Сжигается."
+    "NAME": "Double Lick",
+    "DESCRIPTION": "Apply !SlimeboundSlimed! slimeboundmod:Goop. NL Add a *Lick to your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Apply !SlimeboundSlimed! slimeboundmod:Goop. NL Add a *Lick to your hand. NL Draw a card. NL Exhaust."
   },
   "Slimebound:Gluttony": {
-    "NAME": "Обжорство",
-    "DESCRIPTION": "В начале каждого вашего хода первое slimeboundmod:Слизывание добавляет *Лизь в руку.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL В начале каждого вашего хода первое slimeboundmod:Слизывание добавляет *Лизь в руку."
+    "NAME": "Gluttony",
+    "DESCRIPTION": "The first time you slimeboundmod:Consume each turn, add a *Lick to your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. NL The first time you slimeboundmod:Consume each turn, add a *Lick to your hand."
   },
   "Slimebound:PressTheAttack": {
-    "NAME": "Начать наступление",
-    "DESCRIPTION": "Наносит !D! урона. slimeboundmod:Слизывание slimeboundmod:Командует.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. slimeboundmod:Слизывание slimeboundmod:Командует дважды."
+    "NAME": "Press the Attack",
+    "DESCRIPTION": "Deal !D! damage. slimeboundmod:Consume - slimeboundmod:Command.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. slimeboundmod:Consume - slimeboundmod:Command twice."
   },
   "Slimebound:TongueLash": {
-    "NAME": "Хлёст языком",
-    "DESCRIPTION": "Наносит !D! урона. Наносит доп. !M! урона за каждую Сожжённую карту содержащую \"Лизь\" в названии." //Отточенный лизь
+    "NAME": "Tongue Lash",
+    "DESCRIPTION": "Deal !D! damage. Deals !M! additional damage for each Exhausted card containing \"Lick\"."
   },
   "Slimebound:ItLooksTasty": {
-    "NAME": "Выглядит вкусно",
-    "DESCRIPTION": "Наносит !D! урона. slimeboundmod:Слизывание добавляет *Лизь в руку.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. slimeboundmod:Слизывание добавляет *Лизь+ в руку."
+    "NAME": "It Looks Tasty",
+    "DESCRIPTION": "Deal !D! damage. slimeboundmod:Consume - Add a *Lick to your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. slimeboundmod:Consume - Add a *Lick+ to your hand."
   },
   "Slimebound:AcidTongue": {
-    "NAME": "Рассеивание слизи",
-    "DESCRIPTION": "Накладывает ещё !M! slimeboundmod:Слизи, когда вы покрываете врага *Слизью."
+    "NAME": "Spreading Slime",
+    "DESCRIPTION": "Effects that apply slimeboundmod:Goop apply !M! more."
   },
   "Slimebound:FirmFortitude": {
-    "NAME": "Ликвидировать",
-    "DESCRIPTION": "Нельзя разыграть если у вас отрицательная Сила. NL Вы теряете 2 Силы и получаете !M! slimeboundmod:Мощи."
+    "NAME": "Liquidate",
+    "DESCRIPTION": "Cannot be used if you have negative Strength. NL Lose 2 Strength. NL Gain !M! slimeboundmod:Potency."
   },
   "Slimebound:WasteNot": {
-    "NAME": "Мотовство",
-    "DESCRIPTION": "expansioncontent:Эксгумирует все карты с 0 стоимостью. NL Сжигается.",
+    "NAME": "Waste Not",
+    "DESCRIPTION": "expansioncontent:Exhume all 0-cost cards. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
-      "Не... Сжигайтесь..."
+      "Not... Exhausted..."
     ]
   },
   "Slimebound:Prepare": {
-    "NAME": "Подготовиться",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Вы получаете [E] [E] и берёте !M! карты на следующий ход. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Вы получаете [E] [E] и берёте !M! карты на следующий ход. NL Оставляет любые !M! карты. NL Сжигается."
+    "NAME": "Prepare",
+    "DESCRIPTION": "Gain !B! Block. NL Next turn, gain [E] [E] and draw !M! cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Next turn, gain [E] [E] and draw !M! cards. NL Retain up to !M! cards this turn. Exhaust."
   },
   "Slimebound:Grow": {
-    "NAME": "Рост",
-    "DESCRIPTION": "Отнимает 1 Слот для слизи. NL Даёт !M! Силы и !M! Ловкости."
+    "NAME": "Grow",
+    "DESCRIPTION": "Lose 1 Slime slot in exchange for !M! Strength and !M! Dexterity."
   },
   "Slimebound:HungryTackle": {
-    "NAME": "Голодный снос",
-    "DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL expansioncontent:Эксгумирует случайную карту с 0 стоимостью.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL expansioncontent:Эксгумирует случайную карту с 0 стоимостью."
+    "NAME": "Hungry Tackle",
+    "DESCRIPTION": "Deal !D! damage and !SlimeboundSelfharm! damage to yourself. NL expansioncontent:Exhume a random 0-cost card.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage and !SlimeboundSelfharm! damage to yourself. NL expansioncontent:Exhume 2 random 0-cost cards."
   },
   "Slimebound:FinishingTackle": {
-    "NAME": "Открывающий снос",
-    "DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. slimeboundmod:Слизывание накладывает !M! Уязвимости."
+    "NAME": "Opening Tackle",
+    "DESCRIPTION": "Deal !D! damage and !SlimeboundSelfharm! damage to yourself. slimeboundmod:Consume - Apply !M! Vulnerable."
   },
   "Slimebound:LivingWall": {
-    "NAME": "Живая стена",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Накладывает !SlimeboundSlimed! slimeboundmod:Слизи в ответ на каждую атаку."
+    "NAME": "Living Wall",
+    "DESCRIPTION": "Gain !B! Block. NL Apply !SlimeboundSlimed! slimeboundmod:Goop to attackers this turn."
   },
   "Slimebound:ComboTackle": {
-    "NAME": "Снос копьём",
-    "DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL Вы берёте карту.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL Вы берёте !M! карты."
+    "NAME": "Spear Tackle",
+    "DESCRIPTION": "Deal !D! damage and !SlimeboundSelfharm! damage to yourself. NL Draw !M! cards."
   },
   "Slimebound:Tackle": {
-    "NAME": "Снос",
-    "DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона."
+    "NAME": "Tackle",
+    "DESCRIPTION": "Deal !D! damage and !SlimeboundSelfharm! damage to yourself."
   },
   "Slimebound:GoopTackle": {
-    "NAME": "Комбо снос",
-    "DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL Добавляет случайный slimeboundmod:Снос в руку. Он стоит 0 в этом ходу.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL Добавляет случайный Улучшенный slimeboundmod:Снос в руку. Он стоит 0 в этом ходу."
+    "NAME": "Combo Tackle",
+    "DESCRIPTION": "Deal !D! damage and !SlimeboundSelfharm! damage to yourself. NL Add a random slimeboundmod:Tackle card to your hand. It costs 0 this turn.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage and !SlimeboundSelfharm! damage to yourself. NL Add a random Upgraded slimeboundmod:Tackle card to your hand. It costs 0 this turn."
   },
   "Slimebound:CorrosiveSpit": {
     "NAME": "Corrosive Spit",
-    "DESCRIPTION": "Накладывает !SlimeboundSlimed! slimeboundmod:Слизи."
+    "DESCRIPTION": "Apply !SlimeboundSlimed! slimeboundmod:Goop."
   },
   "Slimebound:Chomp": {
     "NAME": "Chomp",
-    "DESCRIPTION": "Наносит !D! урона. NL Уменьшает стоимость случайного slimeboundmod:Tackle в руке до 0 в этом ходу.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Уменьшает стоимость случайного slimeboundmod:Tackle в руке до 0 в этом бою."
+    "DESCRIPTION": "Deal !D! damage. NL Reduce the cost of a random slimeboundmod:Tackle card in your hand to 0 this turn.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Reduce the cost of a random slimeboundmod:Tackle card in your hand to 0 this combat."
   },
   "Slimebound:DouseInSlime": {
     "NAME": "Douse in Slime",
-    "DESCRIPTION": "Накладывает !SlimeboundSlimed! slimeboundmod:Слизи. NL Следующая Атака не снимет slimeboundmod:Слизь."
+    "DESCRIPTION": "Apply !SlimeboundSlimed! slimeboundmod:Goop. NL The next Attack used on this enemy does not remove slimeboundmod:Goop."
   },
   "Slimebound:FlameTackle": {
-    "NAME": "Огненный снос",
-    "DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL slimeboundmod:Tackles наносят на !M! больше урона в этом бою."
+    "NAME": "Flame Tackle",
+    "DESCRIPTION": "Deal !D! damage and !SlimeboundSelfharm! damage to yourself. NL slimeboundmod:Tackles deal !M! more damage this combat."
   },
   "Slimebound:RainOfGoop": {
-    "NAME": "Дождь слизи",
-    "DESCRIPTION": "Накладывает !SlimeboundSlimed! slimeboundmod:Слизи на случайного врага !M! раза.",
-    "UPGRADE_DESCRIPTION": "Накладывает !SlimeboundSlimed! slimeboundmod:Слизи на случайного врага !M! раза."
+    "NAME": "Rain of Goop",
+    "DESCRIPTION": "Apply !SlimeboundSlimed! slimeboundmod:Goop to a random enemy !M! times.",
+    "UPGRADE_DESCRIPTION": "Apply !SlimeboundSlimed! slimeboundmod:Goop to a random enemy !M! times."
   },
   "Slimebound:GoopSpray": {
     "NAME": "Goop Spray",
-    "DESCRIPTION": "Даёт !B! Защиты. Накладывает !SlimeboundSlimed! slimeboundmod:Слизи и !M! Слабости на ВСЕХ врагов."
+    "DESCRIPTION": "Gain !B! Block. NL Apply !SlimeboundSlimed! slimeboundmod:Goop and !M! Weak to ALL enemies."
   },
   "Slimebound:MassFeed": {
     "NAME": "Mass Feed",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Повышает Макс ОЗ на !M! , если Казнит врага. NL Сжигается."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL If Fatal, raise your Max HP by !M!. NL Exhaust."
   },
   "Slimebound:ViciousTackle": {
-    "NAME": "Злобный снос",
-    "DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. Имеет удвоенный бонус от slimeboundmod:Слизи.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. Имеет удвоенный бонус И восполняет ОЗ от slimeboundmod:Слизи"
+    "NAME": "Vicious Tackle",
+    "DESCRIPTION": "Deal !D! damage and !SlimeboundSelfharm! damage to yourself. This gains twice the damage bonus from slimeboundmod:Goop.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage and !SlimeboundSelfharm! damage to yourself. This gains twice the damage bonus AND healing from slimeboundmod:Goop."
   },
   "Slimebound:LeechEnergy": {
-    "NAME": "Поглощение энергии",
-    "DESCRIPTION": "Наносит !D! урона. slimeboundmod:Слизывая вы получаете [E] и берёте !M! карту.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. slimeboundmod:Слизывая вы получаете [E] и берёте !M! карты."
+    "NAME": "Leech Energy",
+    "DESCRIPTION": "Deal !D! damage. slimeboundmod:Consume - Gain [E] and draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. slimeboundmod:Consume - Gain [E] and draw !M! cards."
   },
   "Slimebound:LeechLife": {
-    "NAME": "Поглощение жизни",
-    "DESCRIPTION": "Наносит !D! урона. NL slimeboundmod:Слизывание восполняет ОЗ равное slimeboundmod:Слизи на враге до !M!. NL Сжигается."
+    "NAME": "Leech Life",
+    "DESCRIPTION": "Deal !D! damage. NL slimeboundmod:Consume - Heal HP equal to the enemy's slimeboundmod:Goop, up to !M!. NL Exhaust."
   },
   "Slimebound:Equalize": {
     "NAME": "Equalize",
-    "DESCRIPTION": "Наносит !D! урона. NL Восполняет !M! ОЗ. NL slimeboundmod:Слизывание разыгрывает дважды. NL Сжигается."
+    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP. NL slimeboundmod:Consume - Play this twice. NL Exhaust."
   },
   "Slimebound:DisruptingSlam": {
     "NAME": "Disrupting Slam",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. Накладывает !M! Слабости на каждого врага, который собирается атаковать."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. Apply !M! Weak to each enemy that intends to attack."
   },
   "Slimebound:PrepareCrush": {
-    "NAME": "Приготовиться крушить",
-    "DESCRIPTION": "Даёт [E] [E] [E] , !M! Силы и добавляет *СЛИЗЬ *КРУШИТЬ в руку на следующий ход. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Даёт [E] [E] [E] [E] , !M! Силы и добавляет *СЛИЗЬ *КРУШИТЬ+ в руку на следующий ход. NL Сжигается."
+    "NAME": "Prepare: Crush",
+    "DESCRIPTION": "Next turn, gain [E] [E] [E] and !SlimeboundSlimed! Strength, and add SLIME CRUSH to your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Next turn, gain [E] [E] [E] [E] and !SlimeboundSlimed! Strength, and add SLIME CRUSH+ to your hand. NL Exhaust."
   },
   "Slimebound:SlimeCrush": {
-    "NAME": "СЛИЗЬ КРУШИТЬ!!!",
-    "DESCRIPTION": "Эфирная. NL Наносит !D! урона. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Эфирная. NL Наносит !D! урона ВСЕМ врагам. NL Сжигается."
-  },
-  "Slimebound:Icky": {
-    "NAME": "Мерзость",
-    "DESCRIPTION": "Добавляет *В *слизи в руку. NL Сжигается."
+    "NAME": "SLIME CRUSH!!!",
+    "DESCRIPTION": "Ethereal. NL Deal !D! damage. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Ethereal. NL Deal !D! damage to ALL enemies. NL Exhaust."
   },
   "Slimebound:DivideAndConquer": {
     "NAME": "Divide & Conquer",
-    "DESCRIPTION": "Наносит !D! урона случайному врагу за каждую Слизь. NL slimeboundmod:Поглощает всю Слизь. NL Сжигается."
+    "DESCRIPTION": "Deal !D! damage to a random enemy for each Slime. NL slimeboundmod:Absorb all Slimes. NL Exhaust."
   },
   "Slimebound:ServeAndProtect": {
     "NAME": "Serve & Protect",
-    "DESCRIPTION": "Даёт !B! Защиты и 1 bronze:Неуловимости за каждую Слизь. NL slimeboundmod:Поглощает всю Слизь. NL Сжигается."
+    "DESCRIPTION": "Gain !B! Block and 1 bronze:Blur for each Slime. NL slimeboundmod:Absorb all Slimes. NL Exhaust."
   },
   "Slimebound:SplitBruiser": {
-    "NAME": "Разделение: Борец",
-    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Слизь_Борца. NL slimeboundmod:Командует !M! раза. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Слизь_Борца. NL slimeboundmod:Командует три раза. NL Сжигается."
+    "NAME": "Split: Bruiser",
+    "DESCRIPTION": "slimeboundmod:Split into a slimeboundmod:Bruiser_Slime. NL slimeboundmod:Command !M! times. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Split into a slimeboundmod:Bruiser_Slime. NL slimeboundmod:Command three times. NL Exhaust."
   },
   "Slimebound:SplitLeeching": {
-    "NAME": "Разделение: Leeching",
-    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Leeching_Slime. NL slimeboundmod:Командует !M! раза. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Leeching_Slime. NL slimeboundmod:Командует 3 раза. NL Сжигается."
+    "NAME": "Split: Leeching",
+    "DESCRIPTION": "slimeboundmod:Split into a slimeboundmod:Leeching_Slime. NL slimeboundmod:Command !M! times. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Split into a slimeboundmod:Leeching_Slime. NL slimeboundmod:Command three times. NL Exhaust."
   },
   "Slimebound:SplitAcid": {
-    "NAME": "Разделение: Guerilla",
-    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Guerilla_Slime. NL slimeboundmod:Командует !M! раза. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Guerilla_Slime. NL slimeboundmod:Командует 3 раза. NL Сжигается."
+    "NAME": "Split: Guerilla",
+    "DESCRIPTION": "slimeboundmod:Split into a slimeboundmod:Guerilla_Slime. NL slimeboundmod:Command !M! times. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Split into a slimeboundmod:Guerilla_Slime. NL slimeboundmod:Command three times. NL Exhaust."
   },
   "Slimebound:SplitMire": {
-    "NAME": "Разделение: Mire",
-    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Mire_Slime. NL slimeboundmod:Командует !M! раза. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Mire_Slime. NL slimeboundmod:Командует 3 раза. NL Сжигается."
+    "NAME": "Split: Mire",
+    "DESCRIPTION": "slimeboundmod:Split into a slimeboundmod:Mire_Slime. NL slimeboundmod:Command !M! times. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Split into a slimeboundmod:Mire_Slime. NL slimeboundmod:Command three times. NL Exhaust."
   },
   "Slimebound:SplitSpecialist": {
-    "NAME": "Разделение: Специальная",
-    "DESCRIPTION": "Выберите 1 из 3 уникальных Слизей и slimeboundmod:Разделитесь на неё. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Выберите 1 из 3 уникальных Слизей и slimeboundmod:Разделитесь на неё. NL slimeboundmod:Командует. NL Сжигается."
+    "NAME": "Split: Specialist",
+    "DESCRIPTION": "Choose 1 of 3 slimeboundmod:Specialist Slimes to slimeboundmod:Split into. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose 1 of 3 slimeboundmod:Specialist Slimes to slimeboundmod:Split into. NL slimeboundmod:Command. NL Exhaust."
   },
   "Slimebound:MinionMaster": {
     "NAME": "Minion Master",
-    "DESCRIPTION": "Вы slimeboundmod:Командуете доп. раз, когда slimeboundmod:Командуете.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Вы slimeboundmod:Командуете доп. раз, когда slimeboundmod:Командуете."
+    "DESCRIPTION": "Whenever you play a card that triggers slimeboundmod:Command, slimeboundmod:Command again.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a card that triggers slimeboundmod:Command, slimeboundmod:Command again."
   },
   "Slimebound:BestDefense": {
     "NAME": "Recklessness",
-    "DESCRIPTION": "slimeboundmod:Tackles наносят на !M! больше урона врагам, и на 1 больше вам."
+    "DESCRIPTION": "slimeboundmod:Tackles deal !M! more damage to enemies, and 1 more damage to you."
   },
   "Slimebound:Darklings": {
-    "NAME": "Трио Темнышей",
-    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Тёмную_Слизь 3 раза. NL Сжигается."
+    "NAME": "Darkling Trio",
+    "DESCRIPTION": "slimeboundmod:Split into a slimeboundmod:Darkling_Slime !M! times. NL Exhaust."
   },
   "Slimebound:SlimeSlap": {
     "NAME": "Slime Slap",
-    "DESCRIPTION": "Наносит !D! урона. NL Не slimeboundmod:Слизывает slimeboundmod:Слизь."
+    "DESCRIPTION": "Deal !D! damage. NL slimeboundmod:Consume - Does not remove slimeboundmod:Goop."
   },
   "Slimebound:OneTwoCombo": {
-    "NAME": "Комбо Раз-два",
-    "DESCRIPTION": "Наносит !D! урона. NL Возвращается в руку, когда вы slimeboundmod:Разделяетесь.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL slimeboundmod:Командует. NL Возвращается в руку, когда вы slimeboundmod:Разделяетесь."
+    "NAME": "One-Two Combo",
+    "DESCRIPTION": "Deal !D! damage. NL When you slimeboundmod:Split, return this from the discard pile to your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL slimeboundmod:Command. NL When you slimeboundmod:Split, return this from the discard pile to your hand."
   },
   "Slimebound:ForwardTackle": {
-    "NAME": "Командующий снос",
-    "DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL slimeboundmod:Командует дважды."
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL slimeboundmod:Командует трижды."
+    "NAME": "Forward Tackle",
+    "DESCRIPTION": "Deal !D! damage and !SlimeboundSelfharm! damage to yourself. NL slimeboundmod:Command twice.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage and !SlimeboundSelfharm! damage to yourself. NL slimeboundmod:Command three times."
   },
   "Slimebound:TagTeam": {
     "NAME": "Tag Team",
-    "DESCRIPTION": "Наносит !D! урона. NL slimeboundmod:Разделяет на случайную Слизь. NL slimeboundmod:Командует !M! раза.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL slimeboundmod:Разделяет на случайную slimeboundmod:Специальную Слизь. NL slimeboundmod:Командует !M! раза."
+    "DESCRIPTION": "Deal !D! damage. NL slimeboundmod:Split into a random Slime. NL slimeboundmod:Command !M! times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL slimeboundmod:Split into a random slimeboundmod:Specialist Slime. NL slimeboundmod:Command !M! times."
   },
   "Slimebound:RallyTheTroops": {
-    "NAME": "Сплотить войска",
-    "DESCRIPTION": "Наносит !D! урона. NL Следующие !M! карты в этом ходу slimeboundmod:Командуют.",
+    "NAME": "Rally the Troops",
+    "DESCRIPTION": "Deal !D! damage. NL The next !M! cards played this turn trigger a slimeboundmod:Command."
   },
   "Slimebound:Nibble": {
-    "NAME": "Погрызть",
-    "DESCRIPTION": "Наносит !D! урона. NL Добавляет случайную карту с 0 стоимостью в руку. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет случайную Улучшенную карту с 0 стоимостью в руку. NL Сжигается."
+    "NAME": "Nibble",
+    "DESCRIPTION": "Deal !D! damage. NL Add a random 0-cost card to your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add a random Upgraded 0-cost card to your hand. NL Exhaust."
   },
   "Slimebound:Schlurp": {
     "NAME": "Schlurp",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Добавляет !M! *Лизя в руку."
+    "DESCRIPTION": "Gain !B! Block. NL Add !M! *Licks to your hand."
   },
   "Slimebound:SplitGreed": {
-    "NAME": "Оживить Greed",
-    "DESCRIPTION": "Оставляется. NL Призывает Greed Ooze. NL Сжигается."
+    "NAME": "Revive Greed",
+    "DESCRIPTION": "Retain. NL Summon Greed Ooze. NL Exhaust."
   },
   "Slimebound:SplitScrap": {
-    "NAME": "Оживить Scrap",
-    "DESCRIPTION": "Оставляется. NL Призывает Scrap Ooze. NL Сжигается."
+    "NAME": "Revive Scrap",
+    "DESCRIPTION": "Retain. NL Summon Scrap Ooze. NL Exhaust."
   }
 }

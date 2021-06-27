@@ -1,89 +1,81 @@
 [
   {
     "NAMES": [
-      "поглощение",
-      "поглощает",
-      "поглащается",
-      "поглощённую"
+      "absorb",
+      "absorbing",
+      "absorbed"
     ],
-    "PROPER_NAME": "Поглощение",
-    "DESCRIPTION": "Объединяет вас с первой #yСлизью и даёт 1 #yСилу."
+    "PROPER_NAME": "Absorb",
+    "DESCRIPTION": "Manually recombine with your leading #ySlime, granting you 1 #yStrength."
   },
   {
     "NAMES": [
-      "разделение", 
-      "разделяет",
-      "разделитесь"
+      "split",
+      "splitting"
     ],
-    "PROPER_NAME": "Разделение", //split
-    "DESCRIPTION": "Призывает #yСлизь, которая атакует в начале каждого хода. Пока #yСлизь жива. NL NL #yПоглощает последнюю Слизь если нет пустых слотов, что даёт 1 #yСилу."
+    "PROPER_NAME": "Split",
+    "DESCRIPTION": "Spawn a #ySlime minion, who attacks at the start of each turn. NL NL If you have no empty slots, your oldest Slime is automatically #yAbsorbed to make room, granting you 1 #yStrength."
   },
   {
     "NAMES": [
-      "слизь",
-      "слизью", 
-      "слизи"
+      "goop",
+      "gooped"
     ],
-    "PROPER_NAME": "Слизь", //goop
-    "DESCRIPTION": "Следующая #yАтака наносит на #b1 урона больше за каждую #yСлизь, снимает ВСЮ #yСлизь и активирует любое #yСлизывание."
+    "PROPER_NAME": "Goop",
+    "DESCRIPTION": "The next attack deals #b1 more damage per #yGoop, removing all #yGoop and triggering any #yConsume effects."
   },
   {
     "NAMES": [
-      "мощь",
-      "мощи"
+      "potency"
     ],
-    "PROPER_NAME": "Мощь", //potience
-    "DESCRIPTION": "Увеличивает урон всей призванной Слизи."
+    "PROPER_NAME": "Potency",
+    "DESCRIPTION": "Increases the damage of ALL of your Spawned Slimes."
   },
   {
     "NAMES": [
-      "командует",
-      "командует",
-      "командуйте",
-      "командует,",
-      "командуют"
+      "command",
+      "commands"
     ],
-    "PROPER_NAME": "Командует", //command
-    "DESCRIPTION": "Ваша первая Слизь атакует."
+    "PROPER_NAME": "Command",
+    "DESCRIPTION": "Your leading Slime attacks."
   },
   {
     "NAMES": [
-      "пламеголовая слизь",
-      "пламеголовая_слизь",
-      "пламеголовую_слизь"
+      "torchhead slime",
+      "torchhead_slime"
     ],
-    "PROPER_NAME": "Пламеголовая Слизь", //torchhead
-    "DESCRIPTION": "Атакует на #b6 каждый ход. Увеличивает свой урон от #yСилы."
+    "PROPER_NAME": "Torch Head Slime",
+    "DESCRIPTION": "Attacks for #b6 each turn. Gains damage from your #yStrength."
   },
   {
     "NAMES": [
-      "слизь борец",
-      "слизь_борец",
-      "слизи борца",
-      "слизи_борца",
-      "борец"
+      "bruiser slime",
+      "bruiser_slime",
+      "bruiser slimes",
+      "bruiser_slimes",
+      "bruiser"
     ],
-    "PROPER_NAME": "Слизь Борец", //idk
-    "DESCRIPTION": "Атакует на #b5 каждый ход."
+    "PROPER_NAME": "Bruiser Slime",
+    "DESCRIPTION": "Attacks for #b5 each turn."
   },
   {
     "NAMES": [
-      "слизь культист",
-      "слизь_культист"
+      "cultist slime",
+      "cultist_slime"
     ],
-    "PROPER_NAME": "Слизь Культист", //cultist
-    "DESCRIPTION": "Атакует на #b6 каждый ход, и увеличивает свой урон на #b1."
+    "PROPER_NAME": "Cultist Slime",
+    "DESCRIPTION": "Attacks for #b6 each turn, then increases its damage by #b1."
   },
   {
     "NAMES": [
-      "слизь пиявка",
-      "слизь_пиявка",
-      "слизь_пиявку",
-      "слизи_пиявки",
-      "пиявку"
+      "leeching slime",
+      "leeching_slime",
+      "leeching slimes",
+      "leeching_slimes",
+      "leeching"
     ],
-    "PROPER_NAME": "Leeching Slime", //leeching
-    "DESCRIPTION": "Атакует на #b1 и даёт #b2 #yЗащиты каждый ход."
+    "PROPER_NAME": "Leeching Slime",
+    "DESCRIPTION": "Attacks for #b1 and grants you #b3 #yBlock each turn."
   },
   {
     "NAMES": [
@@ -93,8 +85,8 @@
       "guerilla_slimes",
       "guerilla"
     ],
-    "PROPER_NAME": "Guerilla Slime", //guerilla
-    "DESCRIPTION": "Атакует на #b3 ВСЕХ врагов каждый ход."
+    "PROPER_NAME": "Guerilla Slime",
+    "DESCRIPTION": "Attacks for #b3 to ALL enemies each turn."
   },
   {
     "NAMES": [
@@ -104,126 +96,115 @@
       "mire_slimes",
       "mire"
     ],
-    "PROPER_NAME": "Mire Slime", //mire
-    "DESCRIPTION": "Атакует на #b2 и накладывает #b2 #yСлизи каждый ход."
+    "PROPER_NAME": "Mire Slime",
+    "DESCRIPTION": "Attacks for #b2 and applies #b2 #yGoop each turn."
   },
   {
     "NAMES": [
-      "Бронзовая слизь",
-      "бронзовая_слизь"
+      "bronze slime",
+      "bronze_slime"
     ],
-    "PROPER_NAME": "Бронзовая Слизь", //bronze
-    "DESCRIPTION": "Атакует на #b4 и даёт #b4 #yЗащиты каждый ход."
+    "PROPER_NAME": "Bronze Slime",
+    "DESCRIPTION": "Attacks for #b4 and grants you #b4 #yBlock each turn."
   },
   {
     "NAMES": [
-      "лизь",
-      "лизь",
-      "лизя"
+      "lick"
     ],
-    "PROPER_NAME": "Лизь", //leak
-    "DESCRIPTION": "Карты с 0 стоимостью накладывающие #yСлизь с разными эффектами."
+    "PROPER_NAME": "Lick",
+    "DESCRIPTION": "0-cost cards that apply #yGoop with a variety of secondary effects."
   },
   {
     "NAMES": [
-      "слизь гексаогня",
-      "слизь_гексаогня"
+      "ghostflame slime",
+      "ghostflame_slime"
     ],
-    "PROPER_NAME": "Слизь Гексаогня", //hexaburn
-    "DESCRIPTION": "Атакует на #b3 и накладывает #b3 #ySoulburn каждый ход."
+    "PROPER_NAME": "Ghostflame Slime",
+    "DESCRIPTION": "Attacks for #b3 and applies #b3 #ySoulburn each turn."
   },
   {
     "NAMES": [
       "morph"
     ],
-    "PROPER_NAME": "Morph", //morph
+    "PROPER_NAME": "Morph",
     "DESCRIPTION": "Replace with a random new card of your class, regardless of type. It costs #b1 less."
   },
   {
     "NAMES": [
-      "медлительность"
+      "slow"
     ],
-    "PROPER_NAME": "Медлительность", //idk
-    "DESCRIPTION": "Цель получает на #b10% больше урона за каждую разыгранную карту в этом ходу."
+    "PROPER_NAME": "Slow",
+    "DESCRIPTION": "Receives #b10% more damage per card played in a turn."
   },
   {
     "NAMES": [
-      "снос",
-      "сноса",
-      "сносов"
+      "tackle",
+      "tackles"
     ],
-    "PROPER_NAME": "Снос", //tackle
-    "DESCRIPTION": "#yАтака с большим уроном по врагу и маленьким по вам."
+    "PROPER_NAME": "Tackle",
+    "DESCRIPTION": "High-damage #yAttacks that also deal a small amount of damage to you."
   },
   {
     "NAMES": [
-      "босс шпиля",
-      "босс_шпиля"
+      "spire boss",
+      "spire_boss"
     ],
-    "PROPER_NAME": "Босс Шпиля",
-    "DESCRIPTION": "Сильные карты с 0 стоимостью, вдохновлёнными боссами Шпиля."
+    "PROPER_NAME": "Spire Boss",
+    "DESCRIPTION": "Powerful 0-cost cards, inspired by the bosses of the Spire."
   },
   {
     "NAMES": [
-      "слизь защитник",
-      "слизь_защитник",
-      "слизь_защитника"
+      "protector slime",
+      "protector_slime"
     ],
-    "PROPER_NAME": "Слизь Защитник", //idk
-    "DESCRIPTION": "Атакует на #b2 и даёт #b6 #yЗащиты каждый ход."
+    "PROPER_NAME": "Protector Slime",
+    "DESCRIPTION": "Attacks for #b2 and grants you #b6 #yBlock each turn."
   },
   {
     "NAMES": [
-      "унижающая слизь",
-      "унижающая_слизь",
-      "унижающюю_слизь"
+      "insulting slime",
+      "insulting_slime"
     ],
-    "PROPER_NAME": "Унижающая Слизь", //idk
-    "DESCRIPTION": "Атакует на #b4 и накладывает #b1 #yУязвимость каждый ход."
+    "PROPER_NAME": "Insulting Slime",
+    "DESCRIPTION": "Attacks for #b4 and applies #b1 #yVulnerable each turn."
   },
   {
     "NAMES": [
-      "тёмная слизь",
-      "тёмная_слизь",
-      "тёмную_слизь"
+      "darkling slime",
+      "darkling_slime"
     ],
-    "PROPER_NAME": "Тёмная Слизь", //darkling
-    "DESCRIPTION": "Атакует на #b3 каждый ход. Другие Тёмные слизи тоже атакуют, когда одним из них командуют."
+    "PROPER_NAME": "Darkling Slime",
+    "DESCRIPTION": "Attacks for #b3 each turn. When Commanded, other Darkling Slimes also attack."
   },
   {
     "NAMES": [
-      "древняя слизь",
-      "древняя_слизь",
-      "древнюю_слизь"
+      "ancient slime",
+      "ancient_slime"
     ],
-    "PROPER_NAME": "Древняя Слизь",
-    "DESCRIPTION": "Атакует на #b3 и берёт #b1 карту каждый ход."
+    "PROPER_NAME": "Ancient Slime",
+    "DESCRIPTION": "Attacks for #b3 and causes you to draw #b1 card each turn."
   },
   {
     "NAMES": [
-      "слизь времени",
-      "слизь_времени"
+      "time slime",
+      "time_slime"
     ],
-    "PROPER_NAME": "Слизь Времени", //time
-    "DESCRIPTION": "Атакует на #b4 и накладывает #b1 #yСлабость каждый ход."
+    "PROPER_NAME": "Time Slime",
+    "DESCRIPTION": "Attacks for #b4 and applies #b1 #yWeak each turn."
   },
   {
     "NAMES": [
-      "слизывание", 
-      "слизывает", 
-      "слизываете",
-      "слизывая"
+      "consume"
     ],
-    "PROPER_NAME": "Слизывание",
-    "DESCRIPTION": "Активирует бонусный эффект если враг покрыт #yСлизью."
+    "PROPER_NAME": "Consume",
+    "DESCRIPTION": "Bonus effect which activates when an #yAttack is used on an enemy who has #yGoop."
   },
   {
     "NAMES": [
-      "специальная",
-      "специальные",
-      "специальную"
+      "specialist",
+      "specialist"
     ],
-    "PROPER_NAME": "Специальная", //special
-    "DESCRIPTION": "Уникальная слизь с более сильными эффектами чем у обычной слизи."
+    "PROPER_NAME": "Specialist",
+    "DESCRIPTION": "A unique slime with a more powerful effect than normal slimes."
   }
 ]

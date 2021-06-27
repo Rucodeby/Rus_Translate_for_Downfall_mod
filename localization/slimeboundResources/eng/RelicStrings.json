@@ -1,24 +1,24 @@
 {
   "Slimebound:AbsorbEndCombat": {
-    "NAME": "Сердце слизи",
-    "FLAVOR": "Я сильно боюсь.",
+    "NAME": "Heart of Goo",
+    "FLAVOR": "I feel so funky.",
     "DESCRIPTIONS": [
-      "Восполняет #b2 ОЗ, когда вы #yslimeboundmod:Слизываете. Максимум #b8 за бой" 
+      "Whenever you #yslimeboundmod:Consume, heal #b2 HP, up to #b8 each combat."
     ]
   },
   "Slimebound:AbsorbEndCombatUpgraded": {
-    "NAME": "Чёрное сердце слизи",
-    "FLAVOR": "Секрет слизи.",
+    "NAME": "Black Heart of Goo",
+    "FLAVOR": "The Secret of the Ooze.",
     "DESCRIPTIONS": [
-      "Заменяет ",
-      ".[] NL Восполняет #b4 ОЗ, когда вы #yslimeboundmod:Слизываете. Максимум #b15 за бой"
+      "Replaces ",
+      ".[] NL Whenever you #yslimeboundmod:Consume, heal #b3 HP, up to #b15 each combat."
     ]
   },
   "Slimebound:SlimedTailRelic": {
-    "NAME": "Слизнехвост",
-    "FLAVOR": "Фальшивый хвост поможет обмануть врагов, полностью покрыт слизью.",
+    "NAME": "Slimed Tail",
+    "FLAVOR": "A fake tail to trick enemies during combat, completely covered in slime.",
     "DESCRIPTIONS": [
-      "When you fall below #b50% of your Maximum HP, #yslimeboundmod:Split into a #yslimeboundmod:Guerilla Slime, and the next time you take damage, your leading slime is #yslimeboundmod:Absorbed instead. (один раз за бой).",
+      "When you fall below #b50% of your Maximum HP, #yslimeboundmod:Split into a #yslimeboundmod:Guerilla Slime, and the next time you take damage, your leading slime is #yslimeboundmod:Absorbed instead. (works once per combat).",
       "This relic has been used this combat. It will become active again next combat."
     ]
   },
@@ -26,14 +26,14 @@
     "NAME": "Ooze Stone",
     "FLAVOR": "It is said to gain power based on your mood.",
     "DESCRIPTIONS": [
-      "#yslimeboundmod:Разделяет на #yslimeboundmod:Mire Slime и даёт #b1 #yslimeboundmod:Мощь в начале боя."
+      "At the start of combat, #yslimeboundmod:split into a #yslimeboundmod:Mire Slime and gain #b1 #yslimeboundmod:Potency."
     ]
   },
   "Slimebound:DailySplitRelic": {
-    "NAME": "Слизьнешпиль",
+    "NAME": "Slime the Spire",
     "FLAVOR": "ALWAYS Split.  Why is this a relic? Cause I can't figure out how to add the custom mod to the list of active mods UI!",
     "DESCRIPTIONS": [
-      "#bCustom #bRun #bModifier NL ВСЕ враги в облике 2 Слизней с #b50% ОЗ."
+      "#bCustom #bRun #bModifier NL All enemies form into two Slime enemies at #b50% HP."
     ]
   },
   "Slimebound:ScrapOozeRelic": {
@@ -53,53 +53,53 @@
     ]
   },
   "Slimebound:PreparedRelic": {
-    "NAME": "Слизнесуп",
+    "NAME": "Slime Soup",
     "FLAVOR": "Tastes awful, but incredibly healthy.",
     "DESCRIPTIONS": [
       "When you enter a Rest Site, begin the next combat with a #yPrepare card that costs #b0."
     ]
   },
   "Slimebound:AggressiveSlimeRelic": {
-    "NAME": "Обитатель слизи",
-    "FLAVOR": "Он шёл за мной до дома. Может оставить его?",
+    "NAME": "Goop Dweller",
+    "FLAVOR": "He followed me home. Can I keep it?",
     "DESCRIPTIONS": [
-      "#yslimeboundmod:Разделяет на Слизь #yslimeboundmod:Борца в начале боя."
+      "At the start of combat, #yslimeboundmod:Split into a #yslimeboundmod:Bruiser Slime."
     ]
   },
   "Slimebound:SlimedSkullRelic": {
-    "NAME": "Слизнечереп",
+    "NAME": "Slimy Skull",
     "FLAVOR": "A Snecko skull in absolutely awful condition. Unclean and slimy, dirt and grime stick to it like glue.",
     "DESCRIPTIONS": [
-      "Накладывает ещё #b",
-      " #yslimeboundmod:Слизи, когда вы покрываете врага #yСлизью." //Череп змекко
+      "Whenever you apply #yslimeboundmod:Goop, apply an additional #b",
+      " #yslimeboundmod:Goop."
     ]
   },
   "Slimebound:MaxSlimesRelic": {
-    "NAME": "Знамя Джереми",
-    "FLAVOR": "Вы и армия слизи.",
+    "NAME": "Jeremiah's Banner",
+    "FLAVOR": "You and ooze army.",
     "DESCRIPTIONS": [
-      "В начале боя, #yslimeboundmod:Разделяет на #yslimeboundmod:Leeching slime и даёт #b1 Слот для Слизи."
+      "At the start of combat, #yslimeboundmod:Split into a #yslimeboundmod:Leeching slime and gain #b1 Slime slot."
     ]
   },
   "Slimebound:SelfDamagePreventRelic": {
-    "NAME": "Защитное снаряжение",
-    "FLAVOR": "Лучшая оборона - нападение.",
+    "NAME": "Protective Gear",
+    "FLAVOR": "The best defense is a good offense.",
     "DESCRIPTIONS": [
-      "Уменьшает урон от #yslimeboundmod:Tackle на #b3."
+      "Reduce the damage you take from #yslimeboundmod:Tackle cards by #b3."
     ]
   },
   "Slimebound:TarBlob": {
-    "NAME": "Смоллистый блёб",
-    "FLAVOR": "Плохой вид Слизи.",
+    "NAME": "Tarr Blob",
+    "FLAVOR": "The bad kind of Slime.",
     "DESCRIPTIONS": [
-      "Даёт [E] в начале хода. Отнимает #b1 Слот для Слизи."
+      "Gain [E] at the start of your turn. At the start of combat, lose #b1 Slime slot."
     ]
   },
   "Slimebound:StickyStick": {
-    "NAME": "Куб желатина",
-    "FLAVOR": "Эй, он прилип к твоему телу.",
+    "NAME": "Gelatinous Cube",
+    "FLAVOR": "Hey, it stuck to your body.",
     "DESCRIPTIONS": [
-      "Вы берёте #b1 карту, когда берёте #yСтатус."
+      "Whenever you draw a #yStatus card, draw #b1 card."
     ]
   }
 }

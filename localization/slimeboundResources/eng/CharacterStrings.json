@@ -1,17 +1,16 @@
 {
   "Slimebound": {
     "NAMES": [
-      "Слизнебосс"
+      "The Slime Boss"
     ],
     "TEXT": [
-      "Слизнейший генерал Сердца. NL Может сражаться один или армией.",
-      "Должен... Поглотить... Сердце...",
-      "Идя по неосвещенной улице, вы натыкаетесь на несколько фигур в капюшонах в разгар какого-то темного ритуала. Когда вы приближаетесь, они поворачиваются к вам с жуткой синхронностью. Самый высокий из них обнажает клыки и протягивает к тебе длинную бледную руку. NL ~\"Присойденяйся~ ~к~ ~нам,~ ~лорд~ ~слизней,~ ~и~ ~почувствуй~ ~тепло~ ~Шпиля.\"~"
-
+      "The Heart's slimiest general. NL Can fight as one, or as many.",
+      "Must... absorb... the Heart...",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~slimy~ ~lord,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
     "KEYWORDS": [
-      "Слизнейший генерал Сердца.",
-      "Должен... Поглотить... Сердце..."
+      "The Heart's slimiest general.",
+      "Must... absorb... the Heart..."
     ]
   }
 }

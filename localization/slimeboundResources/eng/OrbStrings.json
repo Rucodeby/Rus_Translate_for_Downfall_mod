@@ -6,116 +6,116 @@
     ]
   },
   "Slimebound:BronzeSlime": {
-    "NAME": "Бронзовая слизь",
+    "NAME": "Bronze Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона и даёт #b",
-      " #yЗащиты в начале хода."
+      "Deals #b",
+      " damage at the start of your turn and grants you #b",
+      " #yBlock."
     ]
   },
   "Slimebound:AttackSlime": {
-    "NAME": "Слизь борец",
+    "NAME": "Bruiser Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона в начале хода."
+      "Deals #b",
+      " damage at the start of your turn."
     ]
   },
   "Slimebound:ScrapOozeSlime": {
-    "NAME": "Мусорная слизь",
+    "NAME": "Scrap Ooze",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона в начале хода. NL Respawns at the end of your turn if #yAbsorbed. NL Не отнимает Макс. ОЗ."
+      "Deals #b",
+      " damage at the start of your turn. NL Can be revived if #yAbsorbed."
     ]
   },
   "Slimebound:GreedOozeSlime": {
-    "NAME": "Жадная слизь",
+    "NAME": "Greed Ooze",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона в начале хода. NL Respawns at the end of your turn if #yAbsorbed. NL Не отнимает Макс. ОЗ."
+      "Deals #b",
+      " damage at the start of your turn. NL Can be revived if #yAbsorbed."
     ]
   },
   "Slimebound:TorchHeadSlime": {
-    "NAME": "Факелоголовая слизь",
+    "NAME": "Torch Head Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона в начале хода. Получает удвоенный эффект от #yМощи."
+      "Deals #b",
+      " damage at the start of your turn. Gains damage from your #yStrength."
     ]
   },
   "Slimebound:CultistSlime": {
-    "NAME": "Слизь культист",
+    "NAME": "Cultist Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона в начале хода, затем увеличивает свой урон на #b1."
+      "Deals #b",
+      " damage at the start of your turn. After attacking, increases its damage by #b1."
     ]
   },
   "Slimebound:ShieldSlime": {
     "NAME": "Leeching Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона и даёт #b",
-      " #yЗащиты в начале хода."
+      "Deals #b",
+      " damage at the start of your turn and grants you #b",
+      " #yBlock."
     ]
   },
   "Slimebound:PoisonSlime": {
     "NAME": "Guerilla Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона ВСЕМ врагам в начале хода."
+      "Deals #b",
+      " damage to ALL enemies at the start of your turn."
     ]
   },
   "Slimebound:SlimingSlime": {
     "NAME": "Mire Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона и накладывает #b",
-      " #yСлизи в начале хода."
+      "Deals #b",
+      " damage and applies #b",
+      " #yGoop at the start of your turn."
     ]
   },
   "Slimebound:HexSlime": {
-    "NAME": "Слизь гексаогня",
+    "NAME": "Ghostflame Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона и накладывает #b",
-      " #yГорения в начале хода."
+      "Deals #b",
+      " damage and applies #b",
+      " #ySoulburn at the start of your turn."
     ]
   },
   "Slimebound:ChampSlime": {
-    "NAME": "Унижающая слизь",
+    "NAME": "Insulting Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона и накладывает #b",
-      " #yУязвимость в начале хода."
+      "Deals #b",
+      " damage and applies #b",
+      " #yVulnerable at the start of your turn."
     ]
   },
   "Slimebound:SlowingSlime": {
-    "NAME": "Слизь времени",
+    "NAME": "Time Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона и накладывает #b",
-      " #yСлабость в начале хода."
+      "Deals #b",
+      " damage and applies #b",
+      " #yWeak at the start of your turn."
     ]
   },
   "Slimebound:ProtectorSlime": {
-    "NAME": "Слизь защитник",
+    "NAME": "Protector Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона и даёт #b",
-      " #yЗащиты в начале хода."
+      "Deals #b",
+      " damage at the start of your turn and grants you #b",
+      " #yBlock."
     ]
   },
   "Slimebound:DrawingSlime": {
-    "NAME": "Древняя слизь",
+    "NAME": "Ancient Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона и берёт #b",
-      " карту в начале хода."
+      "Deals #b",
+      " damage at the start of your turn and causes you to draw #b",
+      " card."
     ]
   },
   "Slimebound:DarklingSlime": {
-    "NAME": "Тёмная слизь",
+    "NAME": "Darkling Slime",
     "DESCRIPTION": [
-      "Наносит #b",
-      " урона в начале хода. Когда вы #yКомандуете одним из них, ВСЕ другие тёмные слизи тоже атакуют (regardless of position)."
+      "Deals #b",
+      " damage at the start of your turn. When you Command, all Darklings will attack (regardless of position)."
     ]
   }
 }

@@ -1,16 +1,16 @@
 {
   "Slimebound:PotencyPower": {
-    "NAME": "Мощь",
+    "NAME": "Potency",
     "DESCRIPTIONS": [
-      "Увеличивает урон призванной Слизи на #b",
+      "Increase the damage of your spawned Slimes by #b",
       "."
     ]
   },
   "Slimebound:SlimedPower": {
-    "NAME": "Слизь",
+    "NAME": "Goop",
     "DESCRIPTIONS": [
-      "Следующая #yАтака нанесёт на #b",
-      " урона больше ему, поглощая всю #yСлизь."
+      "The next #yAttack against this enemy deals #b",
+      " more damage, consuming all #yGoop."
     ]
   },
   "Slimebound:PreventTackleDamagePower": {

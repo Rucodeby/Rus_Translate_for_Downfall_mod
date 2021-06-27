@@ -12,17 +12,17 @@
     ]
   },
   "Slimebound:WorldofGoop": {
-    "NAME": "Мир из Слизи",
+    "NAME": "World of Goop",
     "DESCRIPTIONS": [
       "You fall into a puddle. NL @IT'S@ @MADE@ @OF@ #g@SLIME@ #g@GOOP!!@ NL Calmly, you bathe yourself as you bond with the goop, enjoying a moment of reprieve. NL NL Climbing out, you notice in the pool a pile of #ygold from unfortunate adventurers, along with a curious creature who seems to be attracted to the shiny metal.",
       "You exit the invigorating slime bath, fishing out the #ygold, leaving the creature with a sad look upon its amorphous face.",
       "You succeed in negotiating a deal with the creature to provide it with more shiny metal if it will aid you in your quest. NL You and your newfound #gfriend exit the slime bath together."
     ],
     "OPTIONS": [
-      "[Gather Gold] #gПолучить #g75 #gЗолота.",
-      "[Recruit] #gПолучить #yЖадную #yСлизь.",
-      "[Уйти]"
-      "[Заблокировано] Требуется 75 Душ."
+      "[Gather Gold] #gGain #g75 #gGold.",
+      "[Recruit] #rLose #r75 #rGold. #gGain #yGreed #yOoze.",
+      "[Leave]",
+      "[Locked] Requires 75 Souls."
     ]
   },
   "Slimebound:SlimeTalk": {
@@ -48,15 +48,15 @@
       "Any slime is a friend in your cause.  With offerings of new scrap and treasure, the Scrap Ooze joins your quest."
     ],
     "OPTIONS": [
-      "[Recruit] #rПотеряйте ",
-      ". Даёт #gScrap #gOoze. #rLocked if you Reach Inside.",
-      "[Recruit] Закрыто (Angered the Scrap Ooze)",
-      "[Уйти]",
-      "[Recruit] Закрыто (Требуется Обычная или Необычная реликвия)"
+      "[Recruit] #rLose ",
+      ". Gain #gScrap #gOoze. #rLocked if you Reach Inside.",
+      "[Recruit] Locked (Angered the Scrap Ooze)",
+      "[Leave]",
+      "[Recruit] Locked (Requires a Common or Uncommon Relic)"
     ]
   },
   "Slimebound:ArtOfSlimeWar": {
-    "NAME": "Искусство войны Слизней",
+    "NAME": "The Art of Slime War",
     "DESCRIPTIONS": [
       "You come across a disgusting pedestal with a #gglowing #gbook sitting atop. It appears this book contains the complicated and advanced combat techniques used by the #gSlime #gBoss and its minions.",
       "As you reach for the book, you hear several traps activate.  You won't be able to avoid them all.",
@@ -67,7 +67,7 @@
       "You can't figure out how the Slime minions are a threat to anyone - it appears the only tactic they use is to violently throw their bodies at enemies.  Well, if it works for them..."
     ],
     "OPTIONS": [
-      "[Read] #gУдалить #gвсе Удары. #gПолучить #g3 #gУлучшенных Tackles.",
+      "[Read] #gRemove #gall Strikes. #gReceive #g3 #gUpgraded Tackles.",
       "[Take] #gObtain #gConsult #gPlaybook. #rTrigger #ra #rtrap.",
       "[Leave]",
       "[Dive] #rBecome #rCursed #r- #rIcky.",
@@ -85,9 +85,11 @@
       "After a short conversation, these fellow slimes are on your side as well - guarding for intruders. They can leave their post for a little while to assist you."
     ],
     "OPTIONS": [
-      "[Recruit] #gObtain #gDarklings.",
+      "[Recruit] #gObtain #gDarklings. #rLose ",
       "[Fight]",
-      "[Leave]"
+      "[Leave]",
+      ".",
+      "[Locked] Requires a Rare card."
     ]
   },
   "Slimebound:BackToBasics": {
@@ -100,5 +102,4 @@
       "[Locked] Requires a Strike or Defend."
     ]
   }
-
 }
