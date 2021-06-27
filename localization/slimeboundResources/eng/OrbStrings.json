@@ -1,0 +1,121 @@
+{
+  "Slimebound:EmptySlimeSlot": {
+    "NAME": "Slime Slot",
+    "DESCRIPTION": [
+      "Slime minions can be placed in these slots through #ySplitting."
+    ]
+  },
+  "Slimebound:BronzeSlime": {
+    "NAME": "Бронзовая слизь",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона и даёт #b",
+      " #yЗащиты в начале хода."
+    ]
+  },
+  "Slimebound:AttackSlime": {
+    "NAME": "Слизь борец",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона в начале хода."
+    ]
+  },
+  "Slimebound:ScrapOozeSlime": {
+    "NAME": "Мусорная слизь",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона в начале хода. NL Respawns at the end of your turn if #yAbsorbed. NL Не отнимает Макс. ОЗ."
+    ]
+  },
+  "Slimebound:GreedOozeSlime": {
+    "NAME": "Жадная слизь",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона в начале хода. NL Respawns at the end of your turn if #yAbsorbed. NL Не отнимает Макс. ОЗ."
+    ]
+  },
+  "Slimebound:TorchHeadSlime": {
+    "NAME": "Факелоголовая слизь",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона в начале хода. Получает удвоенный эффект от #yМощи."
+    ]
+  },
+  "Slimebound:CultistSlime": {
+    "NAME": "Слизь культист",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона в начале хода, затем увеличивает свой урон на #b1."
+    ]
+  },
+  "Slimebound:ShieldSlime": {
+    "NAME": "Leeching Slime",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона и даёт #b",
+      " #yЗащиты в начале хода."
+    ]
+  },
+  "Slimebound:PoisonSlime": {
+    "NAME": "Guerilla Slime",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона ВСЕМ врагам в начале хода."
+    ]
+  },
+  "Slimebound:SlimingSlime": {
+    "NAME": "Mire Slime",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона и накладывает #b",
+      " #yСлизи в начале хода."
+    ]
+  },
+  "Slimebound:HexSlime": {
+    "NAME": "Слизь гексаогня",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона и накладывает #b",
+      " #yГорения в начале хода."
+    ]
+  },
+  "Slimebound:ChampSlime": {
+    "NAME": "Унижающая слизь",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона и накладывает #b",
+      " #yУязвимость в начале хода."
+    ]
+  },
+  "Slimebound:SlowingSlime": {
+    "NAME": "Слизь времени",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона и накладывает #b",
+      " #yСлабость в начале хода."
+    ]
+  },
+  "Slimebound:ProtectorSlime": {
+    "NAME": "Слизь защитник",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона и даёт #b",
+      " #yЗащиты в начале хода."
+    ]
+  },
+  "Slimebound:DrawingSlime": {
+    "NAME": "Древняя слизь",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона и берёт #b",
+      " карту в начале хода."
+    ]
+  },
+  "Slimebound:DarklingSlime": {
+    "NAME": "Тёмная слизь",
+    "DESCRIPTION": [
+      "Наносит #b",
+      " урона в начале хода. Когда вы #yКомандуете одним из них, ВСЕ другие тёмные слизи тоже атакуют (regardless of position)."
+    ]
+  }
+}

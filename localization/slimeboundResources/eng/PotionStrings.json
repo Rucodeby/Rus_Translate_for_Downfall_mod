@@ -1,0 +1,30 @@
+{
+  "Slimebound:SlimedPotion": {
+    "NAME": "Бутылёк со Слизью",
+    "DESCRIPTIONS": [
+      "Накладывает #b",
+      " #yСлизи."
+    ]
+  },
+  "Slimebound:SlimyTonguePotion": {
+    "NAME": "Слизнексир",
+    "DESCRIPTIONS": [
+      "Накладывает ещё #b",
+      " #yСлизи, когда вы покрываете врага слизью."
+    ]
+  },
+  "Slimebound:SpawnSlimePotion": {
+    "NAME": "Армия в бутылке",
+    "DESCRIPTIONS": [
+      "Призывает #b",
+      " случайных Слизня (Обычных или Специальных)."
+    ]
+  },
+  "Slimebound:ThreeZeroPotion": {
+    "NAME": "Ooze-Infused Drink",
+    "DESCRIPTIONS": [
+      "Добавляет #b",
+      " случайные карты с 0 стоимостью в руку."
+    ]
+  }
+}
