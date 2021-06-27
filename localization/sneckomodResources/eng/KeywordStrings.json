@@ -1,0 +1,24 @@
+[
+  {
+    "PROPER_NAME": "Snekproof",
+    "NAMES": [
+      "snekproof"
+    ],
+    "DESCRIPTION": "Snekproof cards aren't affected by #yConfusion and cannot be #yMuddled."
+  },
+  {
+    "PROPER_NAME": "Muddle",
+    "NAMES": [
+      "muddle",
+      "muddled"
+    ],
+    "DESCRIPTION": "Muddling a card changes its cost to between 0 and 3."
+  },
+  {
+    "PROPER_NAME": "Offclass",
+    "NAMES": [
+      "offclass"
+    ],
+    "DESCRIPTION": "An Offclass card is any obtainable card from a class other than your own (including Colorless cards, Curses, and Statuses)."
+  }
+]

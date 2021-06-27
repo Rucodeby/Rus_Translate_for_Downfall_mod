@@ -1,0 +1,62 @@
+{
+  "sneckomod:Unknown": {
+    "TEXT": [
+      "Unknown",
+      " Upgraded ",
+      "At the start of combat, Unknown cards transform into other random cards from the chosen classes that satisfy certain constraints.",
+      " NL Chosen classes:",
+      "At the start of combat, Unknown cards transform into other random cards from ANY other class (other than basic Strikes and Defends) that satisfy certain constraints.",
+      "At the start of combat, Unknown cards transform into other random cards from other classes (other than basic Strikes and Defends) that satisfy certain constraints."
+    ]
+  },
+  "sneckomod:UnknownClass": {
+    "TEXT": [
+      "???",
+      "*Unknown ",
+      " Card.",
+      "Character",
+      "The ",
+      "You should never see this. Report to Vex"
+    ]
+  },
+  "sneckomod:UpgradedUnknownReward": {
+    "TEXT": [
+      "Add an Unknown+ card to your deck",
+      "Pick a Card."
+    ]
+  },
+  "sneckomod:FreeRetainMod": {
+    "TEXT": [
+      "Retain. NL "
+    ]
+  },
+  "sneckomod:ExhaustMod": {
+    "TEXT": [
+      " NL Exhaust."
+    ]
+  },
+  "sneckomod:ChallengeMode": {
+    "TEXT": [
+      "Challenge Mode - Pure Snecko",
+      "Unknown cards can be from any class. Recommended for experienced Snecko players."
+    ]
+  },
+  "sneckomod:LockInBonfireOptions": {
+    "TEXT": [
+      "Identify",
+      "Lock an Unknown into a permanent card.",
+      "Requires an Unknown card.",
+      "Select a card to add to your deck, removing its Unknown.",
+      "[Free Action] Lock an Unknown into a permanent card."
+    ]
+  },
+  "sneckomod:AtGameStart": {
+    "TEXT": [
+      "",
+      " Cards",
+      "Unknown cards can become ",
+      " cards this run.",
+      "Choose."
+    ]
+  }
+}
