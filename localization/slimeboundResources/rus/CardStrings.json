@@ -115,7 +115,7 @@
   },
   "Slimebound:CheckThePlaybook": {
     "NAME": "Consult Playbook",
-    "DESCRIPTION": "Добавляет 4 случайных slimeboundmod:Tackle в руку. Они стоят на 1 меньше до конца боя. NL Сжигается."
+    "DESCRIPTION": "Добавляет 4 случайных slimeboundmod:Сноса в руку. Они стоят на 1 меньше до конца боя. NL Сжигается."
   },
   "Slimebound:Recycling": {
     "NAME": "Переработка",
@@ -129,7 +129,7 @@
   },
   "Slimebound:RollThrough": {
     "NAME": "Сквозной перекат",
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Вы не получите урона от следующих !M! slimeboundmod:Tackle."
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Вы не получите урона от следующих !M! slimeboundmod:Сносов."
   },
   "Slimebound:MassRepurpose": {
     "NAME": "Массовая переделка",
@@ -232,8 +232,8 @@
   },
   "Slimebound:Chomp": {
     "NAME": "Chomp",
-    "DESCRIPTION": "Наносит !D! урона. NL Уменьшает стоимость случайного slimeboundmod:Tackle в руке до 0 в этом ходу.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Уменьшает стоимость случайного slimeboundmod:Tackle в руке до 0 в этом бою."
+    "DESCRIPTION": "Наносит !D! урона. NL Уменьшает стоимость случайного slimeboundmod:Сноса в руке до 0 в этом ходу.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Уменьшает стоимость случайного slimeboundmod:Сноса в руке до 0 в этом бою."
   },
   "Slimebound:DouseInSlime": {
     "NAME": "Douse in Slime",
@@ -241,7 +241,7 @@
   },
   "Slimebound:FlameTackle": {
     "NAME": "Огненный снос",
-    "DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL slimeboundmod:Tackles наносят на !M! больше урона в этом бою."
+    "DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL Увеличивает урон всех slimeboundmod:Сносов на !M! до конца боя."
   },
   "Slimebound:RainOfGoop": {
     "NAME": "Дождь слизи",
@@ -332,7 +332,7 @@
   },
   "Slimebound:BestDefense": {
     "NAME": "Recklessness",
-    "DESCRIPTION": "slimeboundmod:Tackles наносят на !M! больше урона врагам, и на 1 больше вам."
+    "DESCRIPTION": "slimeboundmod:Сносы теперь наносят на !M! больше урона врагам, и на 1 больше вам."
   },
   "Slimebound:Darklings": {
     "NAME": "Трио Темнышей",

@@ -1,6 +1,6 @@
 {
   "Slimebound:EmptySlimeSlot": {
-    "NAME": "Slime Slot",
+    "NAME": "Слот для Слизи",
     "DESCRIPTION": [
       "Slime minions can be placed in these slots through #ySplitting."
     ]
@@ -21,7 +21,7 @@
     ]
   },
   "Slimebound:ScrapOozeSlime": {
-    "NAME": "Мусорная слизь",
+    "NAME": "Хламослизь",
     "DESCRIPTION": [
       "Наносит #b",
       " урона в начале хода. NL Respawns at the end of your turn if #yAbsorbed. NL Не отнимает Макс. ОЗ."
@@ -115,7 +115,7 @@
     "NAME": "Тёмная слизь",
     "DESCRIPTION": [
       "Наносит #b",
-      " урона в начале хода. Когда вы #yКомандуете одним из них, ВСЕ другие тёмные слизи тоже атакуют (regardless of position)."
+      " урона в начале хода. Когда вы #yКомандуете одним из них, ВСЕ другие тёмные слизи тоже атакуют."
     ]
   }
 } 

@@ -37,7 +37,7 @@
     ]
   },
   "Slimebound:ScrapOozeRelic": {
-    "NAME": "Scrap Ooze",
+    "NAME": "Хламослизь",
     "FLAVOR": "",
     "DESCRIPTIONS": [
       "At the start of combat, spawn #yScrap #yOoze. NL At Rest Sites, you can donate a card to the Scrap Ooze, modifying it's damage: NL #b+1 damage for #gUncommons NL #b+2 damage for #yRares NL #b-1 damage for Commons NL #b-2 damage for #rCurses",
@@ -46,7 +46,7 @@
     ]
   },
   "Slimebound:GreedOozeRelic": {
-    "NAME": "Greed Ooze",
+    "NAME": "Слизь Жадности",
     "FLAVOR": "A friend found in the Spire who hoards gold.",
     "DESCRIPTIONS": [
       "At the start of combat, spawn #yGreed #yOoze. NL At Rest Sites, #yGreed #yOoze will take #b50 of your gold, increasing its damage by #b1."

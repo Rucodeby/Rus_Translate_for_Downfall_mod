@@ -7,8 +7,8 @@
       "You dispatch the Slime Boss with ease, claiming its prizes possession for yourself. It's a very stylish hat, after all."
     ],
     "OPTIONS": [
-      "[Confront] #rFight #rSlime #rBoss. Reward: #gTiny #gBowler #gHat.",
-      "[Flee in Terror] #rCursed #r- #rShame."
+      "[Confront] #rСразиться #rсо #rСлизнебоссом. #gПолучить #gМаленькую #gшляпу-котелок.",
+      "[Убежать в ужасе] #rПолучить #rПроклятие #r- #rShame."
     ]
   },
   "Slimebound:WorldofGoop": {
@@ -20,7 +20,7 @@
     ],
     "OPTIONS": [
       "[Gather Gold] #gПолучить #g75 #gЗолота.",
-      "[Recruit] #gПолучить #yЖадную #yСлизь.",
+      "[Нанять] #gПолучить #yЖадную #yСлизь.",
       "[Уйти]"
       "[Заблокировано] Требуется 75 Душ."
     ]
@@ -28,10 +28,10 @@
   "Slimebound:SlimeTalk": {
     "NAME": "TalkStrings",
     "DESCRIPTIONS": [
-      "~Don't~ ~absorb~ ~me!~",
+      "~Не~ ~поглощай~ ~меня!~",
       "~Taking~ ~our~ ~souls?~",
       "~It~ ~will~ ~feed~ ~on~ ~us...~",
-      "~The~ ~Boss!~",
+      "~Босс!~",
       "That hat... NL #r~I~ #r~must~ #r~have~ #r~it!~",
       "~Why~ ~would~",
       "~it~ ~not~",
@@ -39,20 +39,20 @@
       "~It~ ~will~ ~consume~ ~us...~",
       "~It's~ ~so~ ~strong...~",
       "~It's~ ~like~ ~us...~",
-      "~NICE~ #r~HAT!!!~"
+      "~СЛАВНАЯ~ #r~ШЛЯПА!!!~"
     ]
   },
   "Slimebound:ScrapOoze": {
-    "NAME": "Scrap Ooze",
+    "NAME": "Хламослизь",
     "DESCRIPTIONS": [
       "Any slime is a friend in your cause.  With offerings of new scrap and treasure, the Scrap Ooze joins your quest."
     ],
     "OPTIONS": [
-      "[Recruit] #rПотеряйте ",
-      ". Даёт #gScrap #gOoze. #rLocked if you Reach Inside.",
-      "[Recruit] Закрыто (Angered the Scrap Ooze)",
+      "[Нанять] #rПотерять ",
+      ". Получить #gХламослизь. #rLocked if you Reach Inside.",
+      "[Нанять] Закрыто (Angered the Scrap Ooze)",
       "[Уйти]",
-      "[Recruit] Закрыто (Требуется Обычная или Необычная реликвия)"
+      "[Нанять] Закрыто (Требуется Обычная или Необычная реликвия)"
     ]
   },
   "Slimebound:ArtOfSlimeWar": {
@@ -67,27 +67,27 @@
       "You can't figure out how the Slime minions are a threat to anyone - it appears the only tactic they use is to violently throw their bodies at enemies.  Well, if it works for them..."
     ],
     "OPTIONS": [
-      "[Read] #gУдалить #gвсе Удары. #gПолучить #g3 #gУлучшенных Tackles.",
+      "[Read] #gУдалить #gвсе Удары. #gПолучить #g3 #gУлучшенных #gСноса.",
       "[Take] #gObtain #gConsult #gPlaybook. #rTrigger #ra #rtrap.",
-      "[Leave]",
-      "[Dive] #rBecome #rCursed #r- #rIcky.",
-      "[Be Patient] #rTake #r",
-      " #rDamage.",
-      "[Grab and Run] #rLose #r",
-      " #rMax #rHP."
+      "[Уйти]",
+      "[Dive] #rПолучить #rПроклятие #r- #rМерзость.",
+      "[Be Patient] #rПолучить #r",
+      " #rУрона.",
+      "[Схватить и бежать] #rПотерять #r",
+      " #rМакс. #rОЗ."
     ]
   },
   "Slimebound:Darklings": {
-    "NAME": "Darklings",
+    "NAME": "Темныши",
     "DESCRIPTIONS": [
       "Three unfamiliar looking slimes stand(?) in your way. They look hostile, but as you approach, they note that you are of similar consistency and look at you with curiosity.",
       "As you ~prepare~ ~to~ ~battle,~ so do the inky black slimes!",
       "After a short conversation, these fellow slimes are on your side as well - guarding for intruders. They can leave their post for a little while to assist you."
     ],
     "OPTIONS": [
-      "[Recruit] #gObtain #gDarklings.",
-      "[Fight]",
-      "[Leave]"
+      "[Нанять] #gПолучить #gТемнышей.",
+      "[Драться]",
+      "[Уйти]"
     ]
   },
   "Slimebound:BackToBasics": {
@@ -96,8 +96,8 @@
       "When one sheep leads the way, all the rest follow."
     ],
     "OPTIONS": [
-      "[Inspiration] #gAdd #gCommand to all #gStrikes and #gDefends.",
-      "[Locked] Requires a Strike or Defend."
+      "[Inspiration] #gДобавить #gКомандование #gко #gвсем #gУдарам #gи #gОборонам.",
+      "[Закрыто] Требуется Удар или Оборона."
     ]
   }
 } 
