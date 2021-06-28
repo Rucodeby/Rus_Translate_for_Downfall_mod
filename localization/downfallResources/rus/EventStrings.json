@@ -237,7 +237,7 @@
       "Вы заходите в комнату и обнаруживаете широкую дыру в земле. Когда вы подходите ближе, оттуда вылезает огромный змей. NL NL ~«О-го-го!~ ~Привет,~ ~привет!~ ~Что~ ~это~ ~тут~ ~у~ ~нас?~ Вам, мой повелитель, я задам простой вопрос. NL Самое приятное в жизни — возможность #y~врезать~ #y~кому~ #y~угодно!~ NL Согласны?»",
       "~«Пссссссссссссс..~ ~..ссССс.....~ ~сс...~ ~ссссс....»~",
       "Змей бросает на вас крайне разочарованный взгляд.",
-      " NL NL Змей задирает голову и cries an awful scream. As its body goes limp and falls into the pit, the life force of the creature becomes readily available for harvesting. NL NL It is awe-inspiring, but you can't help but wonder if the serpent was speaking metaphorically. Perhaps it intended to aid and encourage you to do violence on others, but not itself..."
+      " NL NL Змей задирает голову и вопит ужасным криком. Когда его тело обмякает и падает в яму, жизненная сила существа становится легко доступной для сбора. NL NL It is awe-inspiring, but you can't help but wonder if the serpent was speaking metaphorically. Возможно он хотел побудить вас к насилию над другими, а не над собой..." //крик можно заменить на визг
     ],
     "OPTIONS": [
       "[Согласиться] [Врезать] #gПолучить #g",
@@ -247,21 +247,21 @@
     ]
   },
   "downfall:WingStatue": {
-    "NAME": "Wing Statue",
+    "NAME": "Статуя-крыло",
     "DESCRIPTIONS": [
-      "Among the stone and boulders, you notice an intricate large blue statue resembling a wing. NL You notice #yglittering #ycoins spilling from its cracks, but this has no value to you. The statue itself, however...",
+      "Среди камней и булыжников вы замечаете изящную голубую статую, похожую на крыло. NL Из её трещин сыпятся #yсверкающие #yмонеты, но они не представляют ценности для вас. Однако сама статуя...",
       "Knowing that you may encounter cultists of the Awakened One, you take the broken statue with you. It may prove useful to turn the cult's members to your cause.",
-      "With all your might, you hack away at the statue. NL It soon @crumbles,@ splintering into a sharp and deadly fragment. You grab the shard and continue onwards.",
-      "You walk past and continue onward.",
-      "КА...Кар?! Подарок для BIRD GOD?",
+      "Вы обрушиваете на статую всю свою мощь. NL Вскоре она @разламывается,@ разделившись на острый и тупой фрагмент. Вы берёте осколок и продолжаете путь.",
+      "Вы проходите мимо и продолжаете свой путь.",
+      "КА...Кар?! Подарок для ПТИЧЬЕГО БОГА?", //БОГА-ПТИЦЫ мб
       "КА-КАААР!!",
-      "An exchange? A fair offer...",
-      "The cult will be pleased."
+      "Обмен? Справедливое предложение...",
+      "Культ будет доволен."
     ],
     "OPTIONS": [
-      "[Destroy] #rПотерять #r",
+      "[Разрушить] #rПотерять #r",
       " #rОЗ. #gПолучить #gЗаострённый #gФрагмент.",
-      "[Collect] #gПолучить #gBroken #gWing #gStatue.",
+      "[Забрать] #gПолучить #gСломанную #gстатую-крыло.",
       "[Уйти]"
     ]
   },
@@ -287,8 +287,8 @@
     "NAME": "Клирик",
     "DESCRIPTIONS": [
       "К вам с улыбкой приближается странный синий гуманоид в золотом шлеме(?). NL Upon realizing just what you are, the creature's beaming grin swiftly turns to a look of pure terror. NL ~\"М-МОНСТР!!\"~ the figure shouts, turning around to flee.",
-      "The creature crumples in a single blow, falling into a pile of mangled blue flesh. You absorb its #ysoul and continue on your way.",
-      "\"Cleric help! Cleric help!\" the creature says as you approach menacingly. NL A cold blue flame envelops your body and dissipates. NL Immediately after, this \"Cleric\" flees."
+      "С одного удара существо расплющилось и превратилось в груду синей плоти. Вы поглощаете его #yдушу и продолжаете свой путь.",
+      "\"Cleric help! Cleric help!\" the creature says as you approach menacingly. NL Холодное голубое пламя охватывает вас и рассеивается. NL Immediately after, this \"Cleric\" flees."
     ],
     "OPTIONS": [
       "[Врезать] #gПолучить #y",
@@ -302,7 +302,7 @@
     "NAME": "Совет призраков",
     "DESCRIPTIONS": [
       "Вы продолжаете свой спуск, но внезапно комнату заполняет #p~густой~ #p~чёрный~ #p~дым,~ формируя три гигантские фигуры в масках. Они начинают говорить. NL NL ~«Очередная~ ~марионетка~ #y~Сердца,~ ~я~ ~полагаю.»~ NL #r@«ПОХОЖЕ@ #r@НА@ #r@ТО!@ #r@ОНО@ #r@ВСЕГДА@ #r@ПОСЫЛАЕТ@ #r@СЛАБЕЙШИХ@ #r@ПЕШЕК!»@ NL NL Вы видите невероятно широкую улыбку, когда третья фигура обращается к вам. NL «Не слушай их... Хочешь ли ты почувствовать нашу #y~силу?»~  ",
-      "\"@Подношение!@ Как ~заманчиво...\"~ NL NL Пока призрачная фигура говорит, вы видите, как её рот открывается всё шире и шире. Внутри вашего тела, вы чувствуете, как накопленные с мертвых #b~души~ неистово  высасывает  прямо в зияющий пустотой рот призрака. Требуется вся ваша сила, чтобы устоять и не быть высосанным самому. NL NL Just before your stamina gives out, the ghostly vortex stops, and the spirits fade into the ether. NL NL You continue on, feeling slightly #bhollow."
+      "\"@Подношение!@ Как ~заманчиво...\"~ NL NL Пока призрачная фигура говорит, вы видите, как её рот открывается всё шире и шире. Внутри вашего тела, вы чувствуете, как накопленные с мертвых #b~души~ неистово  высасывает  прямо в сияющий пустотой рот призрака. Требуется вся ваша сила, чтобы устоять и не быть высосанным самому. NL NL Но прямо перед тем, как ваша выносливость кончится, призрачный вихрь останавливается и духи растворяются в эфире. NL NL Вы продолжаете идти вперёд, ощущая в себе #bпустоту."
     ],
     "OPTIONS": [
       "[Поднести] #rПотерять #r",
@@ -319,13 +319,13 @@
     ]
   },
   "downfall:ForgottenAltar": {
-    "NAME": "Forgotten Altar",
+    "NAME": "Забытый алтарь",
     "DESCRIPTIONS": [
       "You stand on the altar and channel the spiritual energy from your inner being. NL As the #bsouls spill out in an offering to the goddess, the arms of the statue reach out and emanate a soothing #p~cursed~ #p~magic.~ NL Everything goes dark. NL You wake up a short time later, your wounds and injuries from battle suddenly healed.",
       "After taking a brief moment to admire the evil that resides within the statue, you depart, continuing through the City."
     ],
     "OPTIONS": [
-      "[Offer Souls] #rПотерять #r",
+      "[Предложить души] #rПотерять #r",
       " #rДуш. #gВосполнить #g",
       " #gОЗ.",
       "[Закрыто] Требуется ",
@@ -351,18 +351,18 @@
       "Deciding this bottom-feeder of a creature does not belong in the Spire, you deliver a swift and powerful blow directly to N'loths chest. NL NL As the creature recoils in agony, its tentacles @lash@ @out@ at you in reflex, leaving a #rpainful sting! NL NL When the creature's lifeless form hits the ground, you hear the rattling of charms and trinkets. Scouring through his body, just as it once scoured through the trash pile, you uncover a potent magical item."
     ],
     "OPTIONS": [
-      "[Врезать] #gПолучить #gслуч. #gреликвию. #rПолучить #rПроклятье #r- #rБоль."
+      "[Врезать] #gПолучить #gслуч. #gреликвию. #rПолучить #rПроклятие #r- #rБоль."
     ]
   },
   "downfall:KnowingSkull": {
     "NAME": "Всеведущий череп",
     "DESCRIPTIONS": [
       "Вы оказываетесь в старой украшенной палате. В центре комнаты расположен живописный пьедестал, на котором лежит большой череп. Как только вы приближаетесь, череп #g@воспламеняется@ и поворачивается к вам. NL NL «ЧТО ТЫ ИЩЕШЬ? ЧТО ПРЕДЛАГАЕШЬ?» NL В унисон его последним словам дверь позади вас @захлопывается.@",
-	"\"Heyheyheyheyhandsoffthenoggin-\" // эйэйэйэйрукипрочь*непонятныеслова*~ NL NL Ignoring the skull's complaints, you snatch it from the pedestal, momentarily #rscorched by its flames. Perhaps it will come in handy later...",
+	"~«Эйэйэйэйэйэйрукипрочьотбашки-»~ NL NL Ignoring the skull's complaints, you snatch it from the pedestal, momentarily #rscorched by its flames. Perhaps it will come in handy later...",
       "«СЗАДИ, СМЕРТНЫЙ». NL Вы заглядываете за череп. И вправду — дверь."
     ],
     "OPTIONS": [
-      "[Тебя.] #gПолучить #gЧереп. #rПотерять #r",
+      "[Тебя] #gПолучить #gЧереп. #rПотерять #r",
       "[Уйти]",
       " #rОЗ."
     ]
@@ -398,9 +398,9 @@
     ]
   },
   "downfall:Mausoleum": {
-    "NAME": "The Mausoleum",
+    "NAME": "Мавзолей",
     "DESCRIPTIONS": [
-      "Venturing through a series of tombs, you are faced with a large sarcophagus ~studded~ ~with~ ~gems~ in the center of a circular room. NL You cannot make out the writing on the coffin, however, you do notice #p~black~ #p~fog~ seeping out from the sides. NL You're familiar with this fog - a clear sign of #y~spirits.~",
+      "Вы проходите сквозь несколько гробниц и в центре круглой комнаты находите большой саркофаг ~инкрустированный~ ~самоцветами.~ NL Вы не можете разобрать надписи на гробе, однако замечаете #p~чёрный~ #p~туман,~ струящийся из его щелей. NL Вам знаком данный туман - явный признак #y~духов.~",
       "You absorb the #p~ghostly~ #p~fog~ into yourself, gathering their spirits. As you leave, however, you can't help but start to #r@feel@ #r@a@ #r@chill...@"
     ],
     "OPTIONS": [
@@ -420,8 +420,8 @@
       "#rYou #rplunge #rthe #rdagger #rinto #rthe #rcultist's #rheart! NL NL #b~\"КАР~ #b~КААААР~ #b~КАААААРРР!\"~ NL NL The ritual is completed, and the surviving cultists could not appear happier. They wave their sticks in celebration and continue to call out a cheering caw as you exit the cathedral."
     ],
     "OPTIONS": [
-      "[Вернуть статую] #rПотерять #rBroken #rWing #rStatue. #gПолучить #gмножество #gнаград.",
-      "[Закрыто] Requires Broken Wing Statue.",
+      "[Вернуть статую] #rПотерять #rСломанную #rстатую-крыло. #gПолучить #gмножество #gнаград.",
+      "[Закрыто] Требуется Сломанная статуя-крыло.",
       "[Принять] #gПолучить #gЗелье #gКультиста.",
       "[Украсть] #gObtain Ritual Dagger. #rПотерять #r",
       " #rОЗ.",
@@ -430,7 +430,7 @@
       "[Забрать кинжал] #gGain #gRitual #gDagger.",
       "[Смазать] #gУлучшите #gRitual #gDagger.",
       "[Пожертовать] #rУбить #rCultist with Ritual Dagger+.",
-      "[Be Praised] #gПолучить #gнаграды за возвращение #gBroken #gWing #gStatue."
+      "[Be Praised] #gПолучить #gнаграды за возвращение #gСломанной #gстатуи-крыло."
     ]
   },
   "downfall:Colosseum": {
