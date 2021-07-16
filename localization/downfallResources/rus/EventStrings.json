@@ -393,7 +393,7 @@
     ],
     "OPTIONS": [
       " #rПолучить #rПроклятие #r- #rPride.",
-      "[Fight]",
+      "[Сражаться]",
       "[Threaten] #gУберите #g2 #gкарты #gиз #gколоды."
     ]
   },
@@ -401,17 +401,17 @@
     "NAME": "Мавзолей",
     "DESCRIPTIONS": [
       "Вы проходите сквозь несколько гробниц и в центре круглой комнаты находите большой саркофаг ~инкрустированный~ ~самоцветами.~ NL Вы не можете разобрать надписи на гробе, однако замечаете #p~чёрный~ #p~туман,~ струящийся из его щелей. NL Вам знаком данный туман - явный признак #y~духов.~",
-      "You absorb the #p~ghostly~ #p~fog~ into yourself, gathering their spirits. As you leave, however, you can't help but start to #r@feel@ #r@a@ #r@chill...@"
+      "Вы впитываете #p~призрачный~ #p~туман~ в своё тело, собирая их души. As you leave, however, you can't help but start to #r@feel@ #r@a@ #r@chill...@"
     ],
     "OPTIONS": [
-      "[Feast] #gПолучить #g200 #gДуш. #rПолучить #rПроклятие #r- #rHaunted."
+      "[Пировать] #gПолучить #g200 #gДуш. #rПолучить #rПроклятие #r- #rHaunted."
     ]
   },
   "downfall:Nest": {
-    "NAME": "The Nest",
+    "NAME": "Гнездо",
     "DESCRIPTIONS": [
-      "A long line of #b~hooded~ #b~figures~ can be seen entering an #punassuming #pcathedral. NL The moment you enter the cathedral, the figures turn to you! NL NL Your ears are near-instantly filled with a cacophony of gasps, cheers, and caws. One of the cultists approaches you with an offering.",
-      "Eyeing a dangerous-looking weapon lying on an altar, you cut through the line of cultists and simply take your prize. You are quickly surrounded by #rCultists! NL NL #r@\"УБИЙЦА!!@ @УБИЙЦА@ #r@УБИЙЦА!!\"@ NL #b~\"КАР~ #b~КАР~ #b~КААААААААР!\"~ NL NL The cultists quickly draw their own daggers, #rslicing and #rslashing as you push through them to exit the building.",
+      "Перед вами столпотворение: некие #b~фигуры~ #b~в~ #b~глухих~ #b~балахонах~ проходят в #pнеприметный #pсобор. NL The moment you enter the cathedral, the figures turn to you! NL NL Your ears are near-instantly filled with a cacophony of gasps, cheers, and caws. One of the cultists approaches you with an offering.",
+      "Eyeing a dangerous-looking weapon lying on an altar, you cut through the line of cultists and simply take your prize. You are quickly surrounded by #rCultists! NL NL #r@\"УБИВАТЬ!!@ @УБИВАТЬ@ #r@УБИВАТЬ!!\"@ NL #b~\"КАР~ #b~КАР~ #b~КААААААААР!\"~ NL NL The cultists quickly draw their own daggers, #rslicing and #rslashing as you push through them to exit the building.",
       "Accepting the cultist's offering, you take the strange elixir from its hands. NL NL The cultists @chant@ and @holler@ for you! NL NL #b~\"КААР~ #b~КАР~ #b~КААААААР!!\"~ NL NL You chant, too. Why not? These cultists are an odd bunch, but they serve one of your fellow overlords well.",
       "#r@\"BIRDGOD!!@ #r@RETURNED!!\"@ NL #b~\"КАР~ #b~КАР~ #b~КАААААРРР!\"~ NL NL Wading through the cheering crowd of cultists, you soon come face-to-face with the leader. A well-dressed cultist hands you an #yOrnate #yDagger.",
       "You take the dagger, unsure of exactly what is about to transpire. The cultist leader reaches into his robe and offers you a #bblue #boily #bmixture.",
@@ -423,13 +423,13 @@
       "[Вернуть статую] #rПотерять #rСломанную #rстатую-крыло. #gПолучить #gмножество #gнаград.",
       "[Закрыто] Требуется Сломанная статуя-крыло.",
       "[Принять] #gПолучить #gЗелье #gКультиста.",
-      "[Украсть] #gObtain Ritual Dagger. #rПотерять #r",
+      "[Украсть] #gПооучить Ритуальный кинжал. #rПотерять #r",
       " #rОЗ.",
       "[Уйти]",
       "[Продолжить]",
-      "[Забрать кинжал] #gGain #gRitual #gDagger.",
-      "[Смазать] #gУлучшите #gRitual #gDagger.",
-      "[Пожертовать] #rУбить #rCultist with Ritual Dagger+.",
+      "[Забрать кинжал] #gПолучить #gРитуальный #gкинжал.",
+      "[Смазать] #gУлучшите #gРитуальный #gкинжал.",
+      "[Пожертовать] #rУбить #rКультиста с помощью Ритуального кинжала+.",
       "[Be Praised] #gПолучить #gнаграды за возвращение #gСломанной #gстатуи-крыло."
     ]
   },

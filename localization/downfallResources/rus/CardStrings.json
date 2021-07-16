@@ -1,7 +1,7 @@
 {
   "downfall:SummonMushrooms": {
-    "NAME": "Fungus Among Us",
-    "DESCRIPTION": "Kill all Mushrooms. Heal HP equal to their remaining HP. NL Summon two Mushrooms."
+    "NAME": "Грибы среди нас",
+    "DESCRIPTION": "Убивает всех Грибов. Восполняет ОЗ равное их оставшимся ОЗ. NL Призывает два Гриба."
   },
   "downfall:Aged": {
     "NAME": "Aged",
@@ -12,7 +12,7 @@
     "DESCRIPTION": "When you play another card, sneckomod:Muddle your hand, then discard this. NL Сжигается."
   },
   "downfall:Icky": {
-    "NAME": "Icky",
+    "NAME": "Мерзость",
     "DESCRIPTION": "Добавляет *В *слизи в руку. NL Сжигается."
   },
   "downfall:Haunted": {
@@ -25,6 +25,6 @@
   },
  "downfall:Scatterbrained": {
     "NAME": "Scatterbrained",
-    "DESCRIPTION": "Unplayable. NL When drawn, if it is your turn, fill your hand with Echoes of this card."
+    "DESCRIPTION": "Неиграбельная. NL When drawn, if it is your turn, fill your hand with Echoes of this card."
   }
 } 
