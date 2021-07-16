@@ -28,8 +28,8 @@
   },
   "Slimebound:Overexert": {
     "NAME": "Перенапряжение",
-    "DESCRIPTION": "Даёт 4 slimeboundmod:Мощи. NL slimeboundmod:Поглащает ВСЮ Слизь, через !M! хода.",
-    "UPGRADE_DESCRIPTION": "Даёт 4 slimeboundmod:Мощи. NL slimeboundmod:Командует дважды. NL slimeboundmod:Поглащает ВСЮ Слизь, через !M! хода."
+    "DESCRIPTION": "Даёт 4 slimeboundmod:Мощи. NL slimeboundmod:Поглощает ВСЮ Слизь, через !M! хода.",
+    "UPGRADE_DESCRIPTION": "Даёт 4 slimeboundmod:Мощи. NL slimeboundmod:Командует дважды. NL slimeboundmod:Поглощает ВСЮ Слизь, через !M! хода."
   },
   "Slimebound:Split": {
     "NAME": "Разделение",

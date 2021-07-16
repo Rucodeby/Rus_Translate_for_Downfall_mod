@@ -14,14 +14,14 @@
     ]
   },
   "Slimebound:AttackSlime": {
-    "NAME": "Слизь борец",
+    "NAME": "Слизь-борец",
     "DESCRIPTION": [
       "Наносит #b",
       " урона в начале хода."
     ]
   },
   "Slimebound:ScrapOozeSlime": {
-    "NAME": "Хламослизь",
+    "NAME": "Слизень-мусорщик",
     "DESCRIPTION": [
       "Наносит #b",
       " урона в начале хода. NL Respawns at the end of your turn if #yAbsorbed. NL Не отнимает Макс. ОЗ."
@@ -35,21 +35,21 @@
     ]
   },
   "Slimebound:TorchHeadSlime": {
-    "NAME": "Факелоголовая слизь",
+    "NAME": "Пламеголовая слизь",
     "DESCRIPTION": [
       "Наносит #b",
       " урона в начале хода. Получает удвоенный эффект от #yМощи."
     ]
   },
   "Slimebound:CultistSlime": {
-    "NAME": "Слизь культист",
+    "NAME": "Слизь-культист",
     "DESCRIPTION": [
       "Наносит #b",
       " урона в начале хода, затем увеличивает свой урон на #b1."
     ]
   },
   "Slimebound:ShieldSlime": {
-    "NAME": "Leeching Slime",
+    "NAME": "Слизь-пиявка",
     "DESCRIPTION": [
       "Наносит #b",
       " урона и даёт #b",
@@ -57,14 +57,14 @@
     ]
   },
   "Slimebound:PoisonSlime": {
-    "NAME": "Guerilla Slime",
+    "NAME": "Слизь-партизан",
     "DESCRIPTION": [
       "Наносит #b",
       " урона ВСЕМ врагам в начале хода."
     ]
   },
   "Slimebound:SlimingSlime": {
-    "NAME": "Mire Slime",
+    "NAME": "Болотная слизь",
     "DESCRIPTION": [
       "Наносит #b",
       " урона и накладывает #b",
@@ -96,7 +96,7 @@
     ]
   },
   "Slimebound:ProtectorSlime": {
-    "NAME": "Слизь защитник",
+    "NAME": "Слизь-защитник",
     "DESCRIPTION": [
       "Наносит #b",
       " урона и даёт #b",

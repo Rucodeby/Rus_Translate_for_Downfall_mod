@@ -19,8 +19,8 @@
       "You succeed in negotiating a deal with the creature to provide it with more shiny metal if it will aid you in your quest. NL You and your newfound #gfriend exit the slime bath together."
     ],
     "OPTIONS": [
-      "[Gather Gold] #gПолучить #g75 #gЗолота.",
-      "[Нанять] #gПолучить #yЖадную #yСлизь.",
+      "[Собрать золото] #gПолучить #g75 #gЗолота.",
+      "[Нанять] #rПотерять #r75 #rЗолота. # #gПолучить #yЖадную #yСлизь.",
       "[Уйти]"
       "[Заблокировано] Требуется 75 Душ."
     ]
@@ -43,13 +43,13 @@
     ]
   },
   "Slimebound:ScrapOoze": {
-    "NAME": "Хламослизь",
+    "NAME": "Слизень-мусорщик",
     "DESCRIPTIONS": [
-      "Any slime is a friend in your cause.  With offerings of new scrap and treasure, the Scrap Ooze joins your quest."
+      "В вашем случае, любой слизень - друг. За новый мусор и сокровища он согласился присоединиться к вам."
     ],
     "OPTIONS": [
       "[Нанять] #rПотерять ",
-      ". Получить #gХламослизь. #rLocked if you Reach Inside.",
+      ". Получить #gСлизня-мусорщика. #rLocked if you Reach Inside.",
       "[Нанять] Закрыто (Angered the Scrap Ooze)",
       "[Уйти]",
       "[Нанять] Закрыто (Требуется Обычная или Необычная реликвия)"
@@ -67,8 +67,8 @@
       "You can't figure out how the Slime minions are a threat to anyone - it appears the only tactic they use is to violently throw their bodies at enemies.  Well, if it works for them..."
     ],
     "OPTIONS": [
-      "[Read] #gУдалить #gвсе Удары. #gПолучить #g3 #gУлучшенных #gСноса.",
-      "[Take] #gObtain #gConsult #gPlaybook. #rTrigger #ra #rtrap.",
+      "[Прочитать] #gУбрать #gвсе Удары. #gПолучить #g3 #gУлучшенных #gСноса.",
+      "[Забрать] #gПолучить #gConsult #gPlaybook. #rTrigger #ra #rtrap.",
       "[Уйти]",
       "[Dive] #rПолучить #rПроклятие #r- #rМерзость.",
       "[Be Patient] #rПолучить #r",
