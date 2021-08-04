@@ -78,7 +78,7 @@
     "NAME": "Знамя Джереми",
     "FLAVOR": "Вы и армия слизи.",
     "DESCRIPTIONS": [
-      "В начале боя, #yslimeboundmod:Разделяет на #yslimeboundmod:Слизь-пиявку и даёт #b1 Слот для Слизи."
+      "В начале боя #yslimeboundmod:Разделяет на #yslimeboundmod:Слизь-пиявку и даёт #b1 Слот для Слизи."
     ]
   },
   "Slimebound:SelfDamagePreventRelic": {
@@ -92,7 +92,7 @@
     "NAME": "Смоллистый блёб",
     "FLAVOR": "Плохой вид Слизи.",
     "DESCRIPTIONS": [
-      "Даёт [E] в начале хода. Отнимает #b1 Слот для Слизи."
+      "Даёт [E] в начале вашего хода. Отнимает #b1 Слот для Слизи."
     ]
   },
   "Slimebound:StickyStick": {
