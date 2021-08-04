@@ -1,0 +1,73 @@
+{
+  "bronze:ShapeFactory": {
+    "NAME": "Фабрика дронов",
+    "DESCRIPTIONS": [
+      "Вы натыкаетесь на одну из нерабочих фабрик Преддверий по производству дронов. Удивительно, но панель управления всё ещё в рабочем состоянии. Если запустить и разобрать некоторые из этих существ, похожих на машины, вы можете унаследовать часть их оружия.", //проверить знаки препинания
+      "Ни один из этих дроном не имеет того, что вам могло бы пригодиться."
+    ],
+    "OPTIONS": [
+      "[Драться с Шипастым] #gПолучить #gSpike в награде боя.",
+      "[Драться с Отвратником] #gПолучить #gDazing #gPulse в награде боя.",
+      "[Драться со Взрывателем] #gПолучить #gExplode в награде боя.",
+      "[Уйти]",
+      "[Начать бой]",
+      "[Также драться с Шипастым] #gПолучить #gSpike в награде боя.",
+      "[Также драться с Отвратником] #gПолучить #gDazing #gPulse в награде боя.",
+      "[Также драться с Взрывателем] #gПолучить #gExplode в награде боя."
+    ]
+  },
+  "bronze:AncientFactory": {
+    "NAME": "Ancient Factory",
+    "DESCRIPTIONS": [
+      "As you continue your tireless descent, you have come across the ~original~ factory. You remember being here for your own assembly, when you met the ~Maker~ for the first time. NL Each one of the ancient constructs they created is as #yperfect as yourself. There are parts from the old prototypes that could be of use to you, but it will require activating them.",
+      "Even for unfinished prototypes, they are still formidable - no need for unnecessary risks."
+    ],
+    "OPTIONS": [
+      "[Fight Donu Prototype] #gGain #gProto-Beam.",
+      "[Fight Deca Prototype] #gGain #gProto-Shield.",
+      "[Fight Both] #gGain #gBoth #gCards.",
+      "[Leave]"
+    ]
+  },
+  "bronze:BackToBasics": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "Нет единства - нет силы."
+    ],
+    "OPTIONS": [
+      "[Единство] Сделать все карты #g«Удар» и #g«Оборона» с #gКодировкой.",
+      "[Закрыто] Требуется: Удар или Оборона."
+    ]
+  },
+  "bronze:AccursedBlacksmith": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "Вы решаете воспользоваться кузницей и... NL #y@ДЗЫНЬ@ #y@ДЗЫ-Ы-ЫНЬ@ #y@ДЗЫНЬ!@ NL ...усиливаете свой арсенал новыми улучшениями и сервоприводами." //сервоприводами?
+    ],
+    "OPTIONS": [
+      "[Подправить] #gУлучшить #g3 #gслучайные #gкарты #gс #gКодировкой #gв #gколоде.",
+      "[Закрыто] Требуется: улучшаемые карты с Кодировкой."
+    ]
+  },
+  "bronze:CrystalForge": {
+    "NAME": "Grim Forge",
+    "DESCRIPTIONS": [
+      "Through secret passages known only to the Constructs of the Spire, you enter a chamber designed for maintenance and repairs on Automaton models. The tools available here will be of certain use to you.",
+      "With the magic tongs, you carefully embed a weapon directly into your core. #y@Bzzzt!@ Seems like coding yourself is not as easy as you thought.",
+      "Using the enchanted anvil, you smash a precious piece of equipment into pieces, just to forge them into a burst of pure energy. It ~merges~ ~into~ ~your~ ~form,~ filling you with warmth and strength.",
+      "The Forge's ability to transmute matter is put to use immediately as you toss in an unneeded piece of equipment. Some moments later, the material dissolves and compresses into a new enhancement for your armor.",
+      "You escape through the same secret passage you came in, leaving the Grim Forge behind you. Your journey continues towards the Dawn awaiting at the top of the Spire.",
+      "Choose a card to Remove."
+    ],
+    "OPTIONS": [
+      "[Craft] #gGain #gBottled #gCode. #rLose #r10 #rMax #rHP.",
+      "[Transmute] #rRemove a Card. Gain a random #gCard #gwith #gEncode.",
+      "[Reforge] #rRemove a #yRare Card. #gGain #g10 #gMax #gHP #gand #gHeal #gto #gfull.",
+      "[Locked] Already used.",
+      "[Leave]",
+      "[Locked] Requires a card with Encode.",
+      "[Locked] Requires a Rare card.",
+      "Choose a card to remove."
+    ]
+  }
+}
