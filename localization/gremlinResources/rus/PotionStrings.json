@@ -1,0 +1,29 @@
+{
+  "gremlin:GremlinPotion": {
+    "NAME": "Eau de Grem",
+    "DESCRIPTIONS": [
+      "Активирует все #b5 способностей гремлинов #b",
+      " раза."
+    ]
+  },
+  "gremlin:NecromancyPotion": {
+    "NAME": "Гремлин в банке",
+    "DESCRIPTIONS": [
+      "Воскрешает случайного с #b",
+      "% от вашего Макс. ОЗ."
+    ]
+  },
+  "gremlin:SwapPotion": {
+    "NAME": "Bottled Dupe",
+    "DESCRIPTIONS": [
+      "#yМеняет на случайного гремлина."
+    ]
+  },
+  "gremlin:WizPotion": {
+    "NAME": "Pizazz Potion",
+    "DESCRIPTIONS": [
+      "Даёт #b",
+      " #yЧар."
+    ]
+  }
+}

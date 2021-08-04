@@ -1,0 +1,514 @@
+{
+  "Gremlin:AggressiveDefense": {
+    "NAME": "Агресивная оборона",
+    "DESCRIPTION": "Наносит !D! урона. NL В этом ходу данный враг будет терять !M! ОЗ за каждое получение Защиты"
+  }, //удушение безмолвной
+//Wards = Опеки
+  "Gremlin:ArmsTheft": {
+    "NAME": "Кража оружия",
+    "DESCRIPTION": "Ворует !M! Силы. NL Сжигается."
+  },
+
+  "Gremlin:Astound": {
+    "NAME": "Изумление",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Добавляет !M! *Опеки в руку, если у вас есть 3 или больше gremlin:Чар.",
+    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Добавляет !M! Улучшенных *Опеки в руку, если у вас есть 3 или больше gremlin:Чар."
+  },
+
+  "Gremlin:Bang": {
+    "NAME": "Стукнуть",
+    "DESCRIPTION": "Наносит !D! урона !M! раза. Добавляет 1 *Волшебство в стопку сброса. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона !M! раза. Добавляет 1 Улучшенное *Волшебство в стопку сброса. NL Сжигается."
+  },
+
+  "Gremlin:Bellow": {
+    "NAME": "Рёв",
+    "DESCRIPTION": "Эфирная. NL Даёт !M! Силы за каждого врага который не собирается атаковать. NL Сжигается."
+  },
+
+  "Gremlin:BrokenShin": {
+    "NAME": "Сломанная голень",
+    "DESCRIPTION": "Накладывает gremlin:Мучение за каждые !M! Слабости на враге. NL Сжигается."
+  },
+
+  "Gremlin:BubbleBarrier": {
+    "NAME": "Барьер пузырьков",
+    "DESCRIPTION": "Даёт !M! Защиты, когда вы разыгрываете карту в этом ходу."
+  },
+
+  "Gremlin:BulkUp": {
+    "NAME": "Утолщение кожи",
+    "DESCRIPTION": "Даёт !M! Временого ОЗ. NL gremlin:Меняет на gremlin:Толстого_Гремлина."
+  },
+
+  "Gremlin:BurlyBlow": {
+    "NAME": "Крепко вмазать",
+    "DESCRIPTION": "Наносит !D! урона за каждую Слабость на враге. NL (Наносит урон минимум один раз.)"
+  },
+
+  "Gremlin:CatScratch": {
+    "NAME": "Кошачье царапание",
+    "DESCRIPTION": "Наносит !D! урона !M! раза."
+  },
+
+  "Gremlin:Changeo": {
+    "NAME": "Смена-о!",
+    "DESCRIPTION": "Даёт !B! Защиты и !M! Чар."
+  },
+
+  "Gremlin:CongaLine": {
+    "NAME": "Танец конга",
+    "DESCRIPTION": "В начале каждого вашего хода, даёт [E] и gremlin:Меняет на следующего гремлина.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL В начале каждого вашего хода, даёт [E] и gremlin:Меняет на следующего гремлина."
+  },
+
+  "Gremlin:CounterStrike": {
+    "NAME": "Контрудар",
+    "DESCRIPTION": "Наносит !D! урона. Добавляет !M! *Опеки в руку, если враг собирается атаковать.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. Добавляет !M! Улучшеные *Опеки в руку, если враг собирается атаковать."
+  },
+
+  "Gremlin:CowerChoice": {
+    "NAME": "Дрожь мелких",
+    "DESCRIPTION": "Потерять всё золото.",
+    "EXTENDED_DESCRIPTION": ["МЕЛКИЕ ГРЕМЛИНЫ НЕ ТУПЫЕ."]
+  },
+
+  "Gremlin:CowerChoiceB": {
+    "NAME": "Дрожь мелких",
+    "DESCRIPTION": "Навсегда потерять самого правого Гремлина.",
+    "EXTENDED_DESCRIPTION": ["Хорошо. Теперь остальные бегите!", "Да! Бегите!"]
+  },
+
+  "Gremlin:DaggerDance": {
+    "NAME": "Танец кинжалов",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам !M! раза."
+  },
+
+  "Gremlin:Dazzle": {
+    "NAME": "Ослепление",
+    "DESCRIPTION": "Наносит !D! урона. NL Ворует 2 Силы, если у вас есть 3 или больше gremlin:Чар. NL Сжигается."
+  },
+
+  "Gremlin:Defend": {
+    "NAME": "Оборона",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+
+  "Gremlin:Duplicate": {
+    "NAME": "Дубликатор",
+    "DESCRIPTION": "Создаёт !M! gremlin:Отголоска Атаки в руке. Они стоят на 1 меньше. NL Сжигается.",
+    
+  },
+
+  "Gremlin:EdibleArmor": {
+    "NAME": "Съедобная броня",
+    "DESCRIPTION": "Превращает ВСЮ Защиту во Временое_ОЗ."
+  },
+
+  "Gremlin:Encore": {
+    "NAME": "На бис",
+    "DESCRIPTION": "Даёт 3 gremlin:Чар. NL Наносит !M! урона ВСЕМ врагам, когда вы поглощаете gremlin:Чары."
+  },
+
+  "Gremlin:Enthusiasm": {
+    "NAME": "Энтузиазм",
+    "DESCRIPTION": "Вы берёте карту, когда gremlin:Меняется гремлин."
+  },
+
+  "Gremlin:Erupt": {
+    "NAME": "Вспыхнуть",
+    "DESCRIPTION": "Даёт !M! Временой Силы. NL Сжигается."
+  },
+
+  "Gremlin:Exacerbate": {
+    "NAME": "Усугубить",
+    "DESCRIPTION": "Наносит !D! урона. Слабость на врагах больше не падает. NL Сжигается."
+  },
+
+  "Gremlin:FairyDust": {
+    "NAME": "Пыльца фей",
+    "DESCRIPTION": "Вы добавляете !M! *Опеки в руку и берёте !M! карты. NL Сжигается."
+  },
+
+  "Gremlin:SleeveOfAces": {
+    "NAME": "Туз в рукаве",
+    "DESCRIPTION": "Наносит !D! урона. NL Добавляет 1 *Заточку за каждый gremlin:Чар.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет 1 Улучшенную *Заточку за каждый gremlin:Чар."
+  },
+
+  "Gremlin:FatGremlin": {
+    "NAME": "Толстый гремлин",
+    "DESCRIPTION": "gremlin:Меняет на gremlin:Толстого_Гремлина."
+  },
+
+  "Gremlin:FeelTheAudience": {
+    "NAME": "Почувствовать публику",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Даёт !M! Чар за каждого врага, который собирается атаковать."
+  },
+
+  "Gremlin:FightChoice": {
+    "NAME": "Бой",
+    "DESCRIPTION": "Начать бой. NL Враг получает !M! Силы.",
+    "EXTENDED_DESCRIPTION": ["ГРЕМЛИНЫ СЕЙЧАС УМРУТ!", "Вижу вы бесстрашны!"]
+  },
+
+  "Gremlin:FlipOut": {
+    "NAME": "Сорваться", 
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам . NL Вместо получения Защиты, наносит урон ВСЕМ врагам до конца хода."
+  },
+
+  "Gremlin:Flurry": {
+    "NAME": "Шквал",
+    "DESCRIPTION": "Наносит !D! урона за каждую разыграную карту в этом ходу. NL Сжигается.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " карта разыграна.)",
+      " карты разыграны.)"
+    ]
+  },
+
+  "Gremlin:FollowThrough": {
+    "NAME": "Завершение",
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт !M! Временой Силы."
+  },
+
+  "Gremlin:Fury": {
+    "NAME": "Ярость",
+    "DESCRIPTION": "Стоит на [E] меньше за каждые 2 Силы, которые у вас есть. NL Наносит !D! урона 3 раза."
+  },
+
+  "Gremlin:Glimmer": {
+    "NAME": "Мерцание",
+    "DESCRIPTION": "Наносит !D! урона. NL Добавляет 2 *Опеки в руку.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет 2 Улучшенные  *Опеки в руку."
+  },
+
+  "Gremlin:GlitterGuard": {
+    "NAME": "Сверкающая оборона",
+    "DESCRIPTION": "Добавляет !M! *Опеки в руку. NL gremlin:Меняет на gremlin:Гремлина-щитоносца.",
+    "UPGRADE_DESCRIPTION": "Добавляет !M! Улучшенные *Опеки в руку. NL gremlin:Меняет на gremlin:Гремлина-щитоносца."
+  },
+
+  "Gremlin:GremlinArms": {
+    "NAME": "Греморужие",
+    "DESCRIPTION": "Добавляет !M! *Заточки или *Опеки в руку."
+  },
+
+  "Gremlin:GremlinMeal": {
+    "NAME": "Игра мышцами",
+    "DESCRIPTION": "Даёт !M! Временой Силы."
+  },
+
+  "Gremlin:GremlinDance": {
+    "NAME": "Танец гремлинов",
+    "DESCRIPTION": "Наносит !D! урона. NL Дополнительный эффект зависит от того каким гремлином вы являетесь на данный момент.",
+    "EXTENDED_DESCRIPTION": ["Наносит !D! урона",
+    "ВСЕМ врагам.", ". NL Враг теряет !M! Силы до конца своего хода.", //крик безмолвной
+    ". NL Даёт !B! Защиты.", ". NL Вы берёте !M! карты.", ". NL Даёт !M! gremlin:Чар.", ". NL Даёт !M! Силы."]
+  },
+
+  "Gremlin:GremlinOffensive": {
+    "NAME": "Наступление гремлинов",
+    "DESCRIPTION": "Наносит !D! урона. NL Добавляет *Наступление *гремлинов в руку. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет *Наступление *гремлинов+ в руку. NL Сжигается."
+  },
+
+  "Gremlin:GremlinToss": {
+    "NAME": "Бросок гремлина",
+    "DESCRIPTION": "Наносит урон равный текущему Временому_ОЗ и Защите.",
+    "UPGRADE_DESCRIPTION": "Даёт !M! Временого_ОЗ. NL Наносит урон равный текущему Временому_ОЗ и Защите.",
+    "EXTENDED_DESCRIPTION": ["NL (Наносит !D! урона.)"]
+  },
+
+  "Gremlin:GremlinWizard": {
+    "NAME": "Гремлин маг",
+    "DESCRIPTION": "gremlin:Меняет на gremlin:Гремлина-мага."
+  },
+
+  "Gremlin:Heckle": {
+    "NAME": "Кайф",
+    "DESCRIPTION": "Даёт !M! Временого ОЗ, когда вы накладываете отриц. эффект ."
+  },
+
+  "Gremlin:InfiniteBlocks": {
+    "NAME": "Бесконечная защита",
+    "DESCRIPTION": "В начале каждого вашего хода добавляет *Опеку в руку.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL В начале каждого вашего хода добавляет *Опеку в руку."
+  },
+
+  "Gremlin:IrksomeBlow": {
+    "NAME": "Надоедливо вмазать", 
+    "DESCRIPTION": "Наносит !D! урона. NL Сила влияет на эту карту !M! раза."
+  },
+
+  "Gremlin:Irritability": {
+    "NAME": "Раздражитель",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Даёт !M! Временных Шипов. NL gremlin:Меняет на gremlin:Безумного_Гремлина."
+  },
+
+  "Gremlin:Jeer": {
+    "NAME": "Насмешка",
+    "DESCRIPTION": "Наносит !D! урона. Даёт !M! Временного_ОЗ, если у врага есть отриц. эффект ."
+  },
+
+  "Gremlin:Kablamo": {
+    "NAME": "Кабламо!",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Данная Атака не поглощает gremlin:Чары."
+  },
+
+  "Gremlin:LeaderChoice": {
+    "NAME": "Сделать выбор",
+    "DESCRIPTION": "Предать ли друга?"
+  },
+
+  "Gremlin:MadGremlin": {
+    "NAME": "Безумный гремлин",
+    "DESCRIPTION": "gremlin:Меняет на gremlin:Безумного_Гремлина."
+  },
+
+  "Gremlin:MakeshiftArmor": {
+    "NAME": "Самодельная броня",
+    "DESCRIPTION": "Даёт 1 Артефакта каждые 7 Атак.",
+    "UPGRADE_DESCRIPTION": "Даёт !M! Артефакта. NL Даёт 1 Артефакта каждые 7 Атак."
+  },
+
+  "Gremlin:Mockery": {
+    "NAME": "Издевательство",
+    "DESCRIPTION": "Накладывает !M! Слабости. NL Даёт !B! Защиты, если у врага 3 или больше Слабости."
+  },
+
+  "Gremlin:Necromancy": {
+    "NAME": "Некромантия",
+    "DESCRIPTION": "Может быть разыграна только, если у вас 5 или более gremlin:Чар. NL Поглощает все gremlin:Чары и воскрешает случайного гремлина с !M! ОЗ. NL Сжигается.",
+    "EXTENDED_DESCRIPTION": ["Not enough mojo.", "Никто ещё не погиб.", "Not enough room."]
+  },
+
+  "Gremlin:Nob": {
+    "NAME": "ВЕРЗИЛА",
+    "DESCRIPTION": "Даёт !M! Временного_ОЗ. NL Мутируйте в гремлина Верзилу и оставайтесь им пока у вас не закончится Временное_ОЗ."
+  },
+
+  "Gremlin:NobChoice": {
+    "NAME": "Сделать выбор",
+    "DESCRIPTION": "Мелкие гремлины дадут Золото?"
+  },
+
+  "Gremlin:PartyStick": {
+    "NAME": "Палка веселья",
+    "DESCRIPTION": "Эфирная. Неиграбельная. NL Даёт [E] , когда вы gremlin:Меняетесь пока эта карта в руке.",
+    "UPGRADE_DESCRIPTION": "Неиграбельная. NL Даёт [E] , когда вы gremlin:Меняетесь пока эта карта в руке",
+    "EXTENDED_DESCRIPTION": ["Никому нельзя играть с этой палкой."]
+  },
+
+  "Gremlin:Patsy": {
+    "NAME": "Струсить",
+    "DESCRIPTION": "Даёт !B! Защиты. NL gremlin:Меняет на следующего гремлина."
+  },
+
+  "Gremlin:Pickpocket": {
+    "NAME": "Карманная кража",
+    "DESCRIPTION": "Ворует весь Артефакт. NL Наносит !D! урона. NL Сжигается."
+  },
+
+  "Gremlin:PinNeedle": {
+    "NAME": "Булавка", //уточнить
+    "DESCRIPTION": "Наносит !D! урона. NL Добавляет !M! *Уколов *булавкой в стопку добора. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет !M! *Уколов *булавкой+ в стопку добора. NL Сжигается."
+  },
+
+  "Gremlin:Pinprick": {
+    "NAME": "Укол булавкой", //уточнить
+    "DESCRIPTION": "Наносит !D! урона. NL Вы берёте карту. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Добавляет свой gremlin:Отголосок в руку, когда вы берёте эту карту. NL Наносит !D! урона. NL Вы берёте карту. NL Сжигается."
+  },
+
+  "Gremlin:Polish": {
+    "NAME": "Полирнуть",
+    "DESCRIPTION": "*Заточки наносят на !M! больше урона. NL *Опеки дают на !M! больше Защиты."
+  },
+
+  "Gremlin:PourSalt": {
+    "NAME": "Насолить врагу",
+    "DESCRIPTION": "Наносит !D! урона. Добавляет !M! *Заточки в руку и снимает 1 Слабость, если у врага есть Слабость ."
+  },
+
+  "Gremlin:Presto": {
+    "NAME": "Престо!",
+    "DESCRIPTION": "Наносит !D! урона. Даёт !M! gremlin:Чар."
+  },
+
+  "Gremlin:Pretaliation": {
+    "NAME": "Подготовка",
+    "DESCRIPTION": "Наносит !D! урона если враг собирается атаковать. NL Иначе наносит !blamage! урона."
+  },
+
+  "Gremlin:ProperTools": {
+    "NAME": "Нужные предметы",
+    "DESCRIPTION": "Наносит !D! урона. Добавляет !M! *Опеки в руку если враг собирается атаковать. Иначе, добавляет !M! *Заточки в руку."
+  },
+
+  "Gremlin:RageBreak": {
+    "NAME": "Яростный прорыв",
+    "DESCRIPTION": "Удваивает вашу Силу. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Удваивает вашу Силу."
+  },
+
+  "Gremlin:Raid": {
+    "NAME": "Рейд",
+    "DESCRIPTION": "Вы берёте 1 карту за каждого живого гремлина. NL Сбрасывает !M! карты.",
+    "UPGRADE_DESCRIPTION": "Вы берёте 1 карту за каждого живого гремлина. NL Сбрасывает !M! карты."
+  },
+
+  "Gremlin:Revel": {
+    "NAME": "Кутить", 
+    "DESCRIPTION": "Даёт [E] за каждого живого гремлина."
+  },
+
+  "Gremlin:Rhythm": {
+    "NAME": "Ритм",
+    "DESCRIPTION": "gremlin:Меняет на следующего гремлина. NL Кладёт базовую карту из стопки добора в руку. Она стоит 0 в этом ходу."
+  },
+
+  "Gremlin:Rush": {
+    "NAME": "Прорыв",
+    "DESCRIPTION": "Эфирная. NL Наносит !D! урона. NL Сжигается."
+  },
+
+  "Gremlin:Scatter": {
+    "NAME": "В разброс!",
+    "DESCRIPTION": "gremlin:Меняет на случайного гремлина предотвращая след. потерю ОЗ. NL Сжигается"
+  },
+
+  "Gremlin:SecondVolley": {
+    "NAME": "Второй залп",
+    "DESCRIPTION": "Наносит !D! урона. Добавляет *Заточку в руку за каждую карту разыгранную в этом ходу",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. Добавляет *Заточку+ в руку за каждую карту разыгранную в этом ходу",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " карта разыграна.)",
+      " карты разыграны.)"
+    ]
+  },
+
+  "Gremlin:ShadowShiv": {
+    "NAME": "Теневая Заточка",
+    "DESCRIPTION": "Добавляет *Заточку в руку, когда вы разыгрываете Атаку, которая не Сжигается."
+  },
+
+  "Gremlin:ShankStone": {
+    "NAME": "Остаток камня",
+    "DESCRIPTION": "Неиграбельная. Добавляет !M! *Заточки в руку, когда вы берёте эту карту.",
+    "EXTENDED_DESCRIPTION": ["Я не могу разыграть эту карту."]
+  },
+
+  "Gremlin:SharpenBlades": {
+    "NAME": "Заострить лезвия",
+    "DESCRIPTION": "Понижает стоимость всех Атак в руке до 0 на этот ход.",
+    "UPGRADE_DESCRIPTION": "Вы берёте карту. NL Понижает стоимость всех Атак в руке до 0 на этот ход."
+  },
+
+  "Gremlin:ShieldGremlin": {
+    "NAME": "Гремлин-щитоносец",
+    "DESCRIPTION": "gremlin:Меняет на gremlin:Гремлина-щитоносца."
+  },
+
+  "Gremlin:ShowOfHands": {
+    "NAME": "Шоу рук",
+    "DESCRIPTION": "Даёт !M! Защиты за каждую карту в руке.",
+    "UPGRADE_DESCRIPTION": "Вы берёте карту. NL Даёт !M! Защиты за каждую карту в руке."
+  },
+
+  "Gremlin:ShowStopper": {
+    "NAME": "Заканчиватель шоу",
+    "DESCRIPTION": "Может быть разыграна только когда у вас есть ровно 7 gremlin:Чар. NL Наносит !D! урона ВСЕМ врагам 5 раз.",
+    "EXTENDED_DESCRIPTION": ["Недостаточно suspense.", "Много suspense."]
+  },
+
+  "Gremlin:SkullBash": {
+    "NAME": "Пролом черепа",
+    "DESCRIPTION": "Эфирная. NL Наносит !D! урона. NL Накладывает !M! Уязвимости. NL Сжигается."
+  },
+
+  "Gremlin:SneakyGremlin": {
+    "NAME": "Коварный гремлин",
+    "DESCRIPTION": "gremlin:Меняет на gremlin:Коварного_Гремлина."
+  },
+
+  "Gremlin:Strike": {
+    "NAME": "Удар",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+
+  "Gremlin:Stupend": {
+    "NAME": "Необычность",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Наносит !D! урона. NL gremlin:Чары влияют на Защиту."
+  },
+
+  "Gremlin:SupplyScrollCard": {
+    "NAME": "Свиток снабжения",
+    "DESCRIPTION": "Добавляет 4 *Заточки или *Опеки в руку. NL Сжигается."
+  },
+
+  "Gremlin:Tadah": {
+    "NAME": "Тада!",
+    "DESCRIPTION": "Добавляет gremlin:Отголосок случайного Навыка в руку. NL gremlin:Меняет на gremlin:Гремлина-мага.",
+    "UPGRADE_DESCRIPTION": "Добавляет gremlin:Отголосок случайного Улучшенного Навыка в руку. Он стоит на 1 меньше. NL gremlin:Меняет на gremlin:Гремлина-мага."
+  },
+
+  "Gremlin:TagTeam": {
+    "NAME": "Обмен местами",
+    "DESCRIPTION": "gremlin:Меняет на любого живого гремлина.",
+    "UPGRADE_DESCRIPTION": "Оставляется. NL gremlin:Меняет на любого живого гремлина."
+  },
+
+  "Gremlin:TargetWeakness": {
+    "NAME": "Пометить раны",
+    "DESCRIPTION": "Увеличивает урон по врагам со Слабостью на !M!."
+  },
+
+  "Gremlin:Tricksy": {
+    "NAME": "Шалости",
+    "DESCRIPTION": "Вы берёте !M! карты. Сбрасывает каждую Атаку, которую вы берёте. NL gremlin:Меняет на gremlin:Коварного_Гремлина."
+  },
+
+  "Gremlin:TwistTheKnife": {
+    "NAME": "Скручивать нож",
+    "DESCRIPTION": "Наносит !D! урона. NL Добавляет 1 *Заточку в руку.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет 1 *Заточку+ в руку."
+  },
+
+  "Gremlin:ToeStub": {
+    "NAME": "Расшибить палец",
+    "DESCRIPTION": "Наносит !D! урона. Накладывает !M! Уязвимости, если у врага есть Слабость."
+  },
+
+  "Gremlin:Unforgiving": {
+    "NAME": "Неумолимость",
+    "DESCRIPTION": "Вы больше не теряете Силу."
+  },
+
+  "Gremlin:Ward": {
+    "NAME": "Опека",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Сжигается."
+  },
+
+  "Gremlin:Whiz": {
+    "NAME": "Волшебство",
+    "DESCRIPTION": "Даёт !M! gremlin:Чар. Добавляет 1 *Стукнуть в руку, на следующий ход. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Даёт !M! gremlin:Чар. Добавляет 1 Улучшенный *Стукнуть в руку, на следующий ход. NL Сжигается."
+  },
+
+  "Gremlin:Wizardry": {
+    "NAME": "Колдунство",
+    "DESCRIPTION": "В начале каждого вашего хода, даёт !M! gremlin:Чар.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL В начале каждого вашего хода, даёт !M! gremlin:Чар."
+  },
+
+  "Gremlin:Placeholder": {
+    "NAME": "",
+    "DESCRIPTION": "",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [""]
+  }
+}

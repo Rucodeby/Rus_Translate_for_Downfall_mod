@@ -1,0 +1,111 @@
+{
+  "Gremlin:CursedTome": {
+    "OPTIONS": [
+      "[Взять] #gПолучить #gКнигу. #rВсе #rГремлины #rТеряют #r"
+    ]
+  },
+  "Gremlin:BackToBasics": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "A flexible mind is not burdened by doubt."
+    ],
+    "OPTIONS": [
+      "[Caprice] #gЗаменить все #gУдары и #gОбороны на #gЗаточки и #gОпеки.",
+      "[Закрыто] Требуется «Удар» или «Оборона»."
+    ]
+  },
+  "Gremlin:KnowingSkull": {
+    "OPTIONS": [
+      "[Информацию?] #gУзнать #gкто #gбосс. #rВсе #rгремлины #rтеряют #r",
+      "[Успех?] #gПолучить #gбесцветную #gкарту. #rВсе #rгремлины #rтеряют #r",
+      "[Взбодриться?] #gПолучить #gзелье. #rВсе #rгремлины #rтеряют #r",
+      " #gзолота. #rВсе #rгремлины #rтеряют #r",
+      "[Как уйти?] #rВсе #rгремлины #rтеряют #r"
+
+    ]
+  },
+  "Gremlin:MatchingGame": {
+    "DESCRIPTIONS": [
+      "\" #bTwelve cards! Match them to keep them! #bFive tries-\" NL NL  \" #bTen tries!\" you interrupt. NL NL The gremlin scowls. \" #bFive tries!\" NL NL \" #bEight.\" NL NL \" #bSix,\" he spits. \"And I hope you get #pCursed.\" NL NL You hope he gets #pCursed.",
+      "You complete the gremlin's game and look up. NL He ran away before you could get more #y~free~ #y~stuff!~ ",
+      "A gremlin is madly shuffling cards on a table. He seems to be offering #y~free~ #y~stuff.~ You want #y~free~ #y~stuff.~ "
+    ]
+  },
+  "Gremlin:Nest": {
+    "OPTIONS": [
+      "[Дождаться очереди] #gПолучить Ритуальный кинжал. #rВсе #rгремлины #rтеряют #r"
+    ]
+  },
+  "Gremlin:ScrapOoze": {
+    "OPTIONS": [
+      "[Засунуть руку] #rВсе #rгремлины #rтеряют #r",
+      "[Глубже] #rВсе #rгремлины #rтеряют #r"
+    ]
+  },
+  "Gremlin:ScrapOozeReplacement": {
+    "NAME": "Scrap Ooze",
+    "DESCRIPTIONS": [
+      "As you walk into the room you hear a ~gurgling~ and the @grinding@ of metals. It's a #yScrap #yOoze! These funny little slimes always find #ygoodies. Even better, they are too slow and too weak to stop you from taking them! You know the best ways of getting around their spiky acid. Unfortunately, it is slow and takes some #rfocus.",
+      "Careful, careful. You avoid the scrapy bits and and the stabby bits. If only it weren't so #r@boring.@ NL But if you keep at it, you know you'll get a shiny #yrelic...",
+      "#gSuccess! NL After rummaging through the metal and burning acid, you finally grab hold of a #yrelic and yank it out. NL You pull your way out of the ooze clutching your new toy.",
+      "This is way too #rboring. What were you even doing again?",
+      "You decide to leave the area. NL The slime pays no attention, content with its meal."
+    ],
+    "OPTIONS": [
+      "[Reach Carefully] #r",
+      "%: #rBecome #rCursed #r- #rScatterbrained. #g",
+      "%: #gFind #ga #gRelic.",
+      "[Уйти]",
+      "[Be Careful] #r"
+    ]
+  },
+  "Gremlin:SensoryStone": {
+    "OPTIONS": [
+      "[Вспомнить] #gДобавить #g2 #gбесцветные #gкарты #gв #gколоду. #rВсе #rгремлины #rтеряют #r",
+      "[Вспомнить] #gДобавить #g3 #gбесцветные #gкарты #gв #gколоду. #rВсе #rгремлины #rтеряют #r"
+    ]
+  },
+  "Gremlin:Trenchcoat": {
+    "NAME": "Suspicious Merchant",
+    "DESCRIPTIONS": [
+      "You come across a strange figure that looks suspiciously like five gremlins in a trench coat. NL \"Hello, traveller,\" the squeaky voice calls out. NL \"It is I, the #yfriendly #yMerchant, who is certainly not five gremlins in a trench coat. Would you like to purchase any of my ~fine~ ~wares~ that are definitely not stolen?\"",
+      "You cannot resist a sale, even from one a suspicious as the merchant. NL You make your purchase, but as soon as it is complete, your vendor bolts. NL NL In the distance you can almost make out a faint yell of frustration: #r\"Blasted, #rthieving #rGremlins!\".",
+      "You have no need to enrich the despicable merchant. You will keep your money to yourself. The Merchant flees as soon as it is clear you would not be partaking."
+    ],
+    "OPTIONS": [
+      "[Купить] #rПотерять #r",
+      " #rЗолота",
+      ". #gПолучить #g1 #gслучайную #gбесцветную #gкарту.",
+      ". #gПолучить #g2 #gслучайные #gбесцветные #gкарты.",
+      ". #gПолучить #g3 #gслучайные #gбесцветные #gкарты.",
+      "[Уйти]",
+      "[Закрыто] Требуется не менее ",
+      " Золота.",
+      "[Refuse]"
+    ]
+  },
+  "Gremlin:Vampires": {
+    "DESCRIPTIONS": [
+      "Пробираясь по тёмной улице, вы застаёте несколько таинственных фигур в процессе какого-то тёмного ритуала. Вы подходите ближе, и все они одновременно поворачиваются к вам. Самый высокий из них оголяет клыки и протягивает к вам длинную бледную руку. NL ~«Станьте~ ~одними~ ~из~ ~нас,~ ~самые~ ~жадные,~ ~и~ ~ощутите~ ~тепло~ ~Шпиля».~"
+    ]
+  },
+  "Gremlin:WheelGame": {
+    "DESCRIPTIONS": [
+      "He lunges at you, but you are ready. NL You slash him open before he can get you with his shiv. NL You treat yourself to your prize, but sadly the Wheel disappears before you can loot it too."
+    ],
+    "OPTIONS": [
+      "[Приз!] #gPREEMPTIVE #gSTRIKE!",
+      "[Loot]"
+    ]
+  },
+  "Gremlin:WingStatue": {
+    "OPTIONS": [
+      "[Молиться] #gУбрать #gкарту #gиз #gколоды. #rВсе #rгремлины #rтеряют #r"
+    ]
+  },
+  "Gremlin:WorldOfGoop": {
+    "OPTIONS": [
+      " #gзолота. #rВсе #rгремлины #rтеряют #r"
+    ]
+  }
+}
