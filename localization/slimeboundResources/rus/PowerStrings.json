@@ -10,27 +10,27 @@
     "NAME": "Слизь",
     "DESCRIPTIONS": [
       "Следующая #yАтака нанесёт на #b",
-      " урона больше ему, поглощая всю #yСлизь."
+      " урона больше данному врагу, поглощая всю #yСлизь."
     ]
   },
   "Slimebound:PreventTackleDamagePower": {
-    "NAME": "Protected",
+    "NAME": "Защищённый",
     "DESCRIPTIONS": [
-      "You do not take damage from the next #b",
-      " #yTackles you play."
+      "Вы не получите урона от следующего(их) #b",
+      " #yСноса(ов)."
     ]
   },
   "Slimebound:SplitDailyTriggerPower": {
-    "NAME": "Slime Split",
+    "NAME": "Слизнеделение",
     "DESCRIPTIONS": [
-      "When its HP is at or below #b50%, will split into #b2 Slime enemies with ",
-      "'s current HP."
+      "Делится на #b2 Слизневрага, потеряв #b50% ОЗ. Запас ОЗ, который имеет ",
+      " на момент деления, определяет ОЗ слизней."
     ]
   },
   "Slimebound:SplitDailyPower": {
-    "NAME": "Splitting",
+    "NAME": "Делится",
     "DESCRIPTIONS": [
-      "This enemy is splitting this turn."
+      "Враг делится в этом ходу."
     ]
   },
   "Slimebound:BuffAttackSlimesPower": {
@@ -70,11 +70,11 @@
     ]
   },
   "Slimebound:ProtectTheBoss": {
-    "NAME": "Protect the Boss",
+    "NAME": "За короля!",
     "DESCRIPTIONS": [
-      "Prevent the next time you would be damaged by an enemy attack, #yAbsorbing your leading Slime instead.",
-      "Prevent the next #b",
-      " times you would damaged by an enemy attack, #yAbsorbing your leading Slime instead."
+      "Предотвращает следующий урон от атаки врага #yПоглощая первую Слизь.",
+      "Предотвращает #b",
+      " следующих урона от атак врагов #yПоглощая первую Слизь."
     ]
   },
   "Slimebound:SplitForLessPower": {
@@ -87,124 +87,124 @@
     ]
   },
   "Slimebound:ComboAttackPower": {
-    "NAME": "Lead By Example",
+    "NAME": "Подать пример",
     "DESCRIPTIONS": [
-      "The first targeted card you play each turn causes your leading Slime to also attack.",
-      "The first #b",
-      " targeted cards you play each turn causes your leading Slime to also attack.",
-      " NL This effect can be triggered #b",
-      " more times this turn.",
-      " more time this turn.",
-      " NL This effect cannot be triggered again this turn."
+      "В начале каждого вашего хода первая нацеленная на врагов карта #yКомандует",
+      "В начале каждого вашего хода первые #b",
+      " нацеленные на врагов карты #yКомандуют.",
+      " NL Данный эффект может быть активирован ешё #b",
+      " раз в этом ходу.",
+      " раза в этом ходу.",
+      " NL Данный эффект больше не может быть активирован в этом ходу."
     ]
   },
   "Slimebound:RetainCardsOneTurnPower": {
     "NAME": "Preparing Cards",
     "DESCRIPTIONS": [
-      "Retain #b",
-      " card this turn.",
-      " cards this turn."
+      "Оставляет #b",
+      " карту в этом ходу.",
+      " карты в этом ходу."
     ]
   },
   "Slimebound:EnergizedSlimeboundPower": {
-    "NAME": "Energized",
+    "NAME": "Энергичность",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [E] next turn.",
-      " additional [E] next turn.",
+      "Даёт #b",
+      " [E] в вашем след. ходу.",
+      " [E] в вашем след. ходу.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
   "Slimebound:SelfFormingGooPower": {
-    "NAME": "Reformation",
+    "NAME": "Переделка",
     "DESCRIPTIONS": [
-      "Whenever you Absorb a Slime, gain #b",
-      " Strength."
+      "Даёт #b",
+      " #yСилы, когда вы #yПоглощаете Слизь."
     ]
   },
   "Slimebound:SelfFormingGooPowerPlus": {
-    "NAME": "Reformation+",
+    "NAME": "Переделка+",
     "DESCRIPTIONS": [
-      "Whenever you Absorb a Slime, gain #b",
-      " Dexterity."
+      "Даёт #b",
+      " #yЛовкости, когда вы #yПоглощаете Слизь."
     ]
   },
   "Slimebound:LoseSlimesPower": {
-    "NAME": "Overexert",
+    "NAME": "Перенапряжение",
     "DESCRIPTIONS": [
-      "Next turn, #yAbsorb all of your spawned Slimes.",
+      "#yПоглощает всю Слизь в следующем ходу.",
       " turns from now, #yAbsorb all of your spawned Slimes."
     ]
   },
   "Slimebound:TackleModifyDamagePower": {
-    "NAME": "Battered",
+    "NAME": "Потрёпанный",
     "DESCRIPTIONS": [
-      "Receives #b",
-      " more damage from cards containing \"Tackle\"."
+      "Получает на #b",
+      " больше урона от карт содержащих \"Снос\"."
     ]
   },
   "Slimebound:LoseThornsPower": {
-    "NAME": "Retracting Spikes",
+    "NAME": "Втягивание шипов",
     "DESCRIPTIONS": [
-      "Lose #b",
-      " #yThorns at the start of your next turn."
+      "Отнимает #b",
+      " #yШипов в начале следующего хода."
     ]
   },
   "Slimebound:SlimedThornsPower": {
-    "NAME": "Living Wall",
+    "NAME": "Живая стена",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yGoop to attackers this turn."
+      "Накладывает #b",
+      " #yСлизи в ответ на каждую атаку в этом ходу."
     ]
   },
   "Slimebound:PreventSlimeDecayPower": {
     "NAME": "Doused in Slime",
     "DESCRIPTIONS": [
-      "The next time an #yAttack is used on this enemy, #yGoop benefits will apply without consuming #yGoop.",
-      "The next #b",
-      " times an #yAttack is used on this enemy, #yGoop benefits will apply without consuming #yGoop."
+      "Следующая #yАтака не снимет #yСлизь с данного врага.",
+      "Следующие #b",
+      " #yАтаки не снимут #yСлизь с данного врага."
     ]
   },
   "Slimebound:DuplicatedFormPower": {
-    "NAME": "Duplicated Form",
+    "NAME": "Облик Двойника",
     "DESCRIPTIONS": [
-      "The first card you play that targets enemies each turn is played twice.",
-      "The first #b",
-      " cards you play that target enemies each turn are played twice."
+      "В начале каждого вашего хода первая нацеленная на врага карта разыгрывается дважды.",
+      "В начале каждого вашего хода первые #b",
+      " нацеленные на врага карты разыгрываются дважды."
     ]
   },
   "Slimebound:DuplicatedFormNoHealPower": {
-    "NAME": "Split",
+    "NAME": "Деление",
     "DESCRIPTIONS": [
-      "Max HP is temporarily reduced by #b",
+      "Макс. ОЗ временно уменьшено на #b",
       "."
     ]
   },
   "Slimebound:DuplicatedFormEnergyPower": {
-    "NAME": "Tag-Team",
+    "NAME": "Парная команда",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " [E] each turn."
+      "В начале каждого вашего хода даёт #b",
+      " [E] ."
     ]
   },
   "Slimebound:GluttonyPower": {
-    "NAME": "Gluttony",
+    "NAME": "Обжорство",
     "DESCRIPTIONS": [
-      "The first time you #yConsume each turn, add a random #yLick card to your hand.",
-      "The first ",
-      " times you #yConsume each turn, add a random #yLick card to your hand.",
-      " NL This effect can be triggered #b",
-      " more times this turn.",
-      " more time this turn.",
-      " NL This effect cannot be triggered again this turn."
+      "В начале каждого вашего хода первое #yСлизывание добавляет случайный #yЛизь в руку.",
+      "В начале каждого вашего хода первые ",
+      " #yСлизывания добавляют случайный *Лизь в руку.",
+      " NL Данный эффект может быть активирован ешё #b",
+      " раза в этом ходу.",
+      " раз в этом ходу.",
+      " NL Данный эффект больше не может быть активирован в этом ходу."
     ]
   },
   "Slimebound:GluttonyPowerUpgraded": {
-    "NAME": "Gluttony+",
+    "NAME": "Обжорство+",
     "DESCRIPTIONS": [
-      "Add #b",
-      " random #yUpgraded #yLick card to your hand each turn.",
-      " random #yUpgraded #yLick cards to your hand each turn."
+      "В начале каждого вашего хода добавляет #b",
+      " случайный #yУлучшенный #yЛизь в руку.",
+      " случайных #yУлучшенных #yЛизей в руку."
     ]
   },
   "Slimebound:PoisonThornsPower": {
@@ -215,25 +215,25 @@
     ]
   },
   "Slimebound:SlimeRitualPower": {
-    "NAME": "Ritual",
+    "NAME": "Ритуал",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yStrength at the start of each turn."
+      "В начале каждого хода даёт #b",
+      " #yСилы."
     ]
   },
   "Slimebound:RecyclingPower": {
-    "NAME": "Recycling",
+    "NAME": "Переработка",
     "DESCRIPTIONS": [
-      "At the start of your turn, return #b",
-      " random 0-Cost card from your #yexhaust pile to your hand.",
-      " random 0-Cost cards from your #yexhaust pile to your hand."
+      "В начале каждого вашего хода возвращает #b",
+      " случайную #yСожжённую карту с 0 стоимостью в руку.",
+      " случайные #yСожжённые карты с 0 стоимостью в руку."
     ]
   },
   "Slimebound:RecyclingPowerUpgraded": {
-    "NAME": "Recycling+",
+    "NAME": "Переработка+",
     "DESCRIPTIONS": [
-      "Heal #b",
-      " HP and draw a card when you #yExhaust a 0-cost card."
+      "Вы восполняете #b",
+      " ОЗ и берёте карту, когда #yСжигается карта с 0 стоимостью."
     ]
   },
   "Slimebound:AcidTonguePower": {
@@ -244,10 +244,10 @@
     ]
   },
   "Slimebound:AcidTonguePowerUpgraded": {
-    "NAME": "Slimy Tongue",
+    "NAME": "Рассеивание cлизи",
     "DESCRIPTIONS": [
-      "Effects that apply #yGoop apply #b",
-      " more."
+      "Накладывает ещё #b",
+      " #yСлизи, когда вы покрываете врага #yСлизью."
     ]
   },
   "Slimebound:SelfDamageSlimedPower": {
@@ -483,20 +483,20 @@
   "Slimebound:BuffSecondarySlimeEffectsPower": {
     "NAME": "Minion Master",
     "DESCRIPTIONS": [
-      "Whenever you play a card with Command, Command again.",
-      "Whenever you play a card with Command, Command #b",
-      " additional times."
+      "Вы #yКомандуете доп. раз, когда #yКомандуете.",
+      "Вы #yКомандуете доп. #b",
+      " раза, когда #yКомандуете."
     ]
   },
   "Slimebound:TackleSelfDamagePreventPower": {
     "NAME": "Reckless",
     "DESCRIPTIONS": [
-      "Cards containing \"Tackle\" deal #b",
-      " more damage to you."
+      "Карты содержащие \"Снос\" в названии наносят на #b",
+      " больше урона вам."
     ]
   },
   "Slimebound:GoopArmorPower": {
-    "NAME": "Goop Armor",
+    "NAME": "Слизнеброня",
     "DESCRIPTIONS": [
       "Whenever you #yAttack an enemy who has #yGoop, gain #b",
       " #yBlock."
@@ -511,10 +511,10 @@
     ]
   },
   "Slimebound:GoopPerTurnPower": {
-    "NAME": "Ooze Bath",
+    "NAME": "Ванна слизи",
     "DESCRIPTIONS": [
-      "Adds ",
-      " Goop at the start of this enemy's turn."
+      "В начале каждого хода данного врага накладывает ",
+      " #yСлизи на него."
     ]
   }
 }

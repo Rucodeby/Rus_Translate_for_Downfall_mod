@@ -18,45 +18,45 @@
     "NAME": "Слизнехвост",
     "FLAVOR": "Фальшивый хвост поможет обмануть врагов, полностью покрыт слизью.",
     "DESCRIPTIONS": [
-      "When you fall below #b50% of your Maximum HP, #yslimeboundmod:Split into a #yslimeboundmod:Слизь-борца, and the next time you take damage, your leading slime is #yslimeboundmod:Absorbed instead. (один раз за бой).",
-      "This relic has been used this combat. It will become active again next combat."
+      "#yslimeboundmod:Разделяет на #yslimeboundmod:Слизь-борца, если ваш запас ОЗ не более #b50%, и вместо того, чтобы получить в след. раз урон, #yslimeboundmod:Поглощает первую слизь. (один раз за бой).",
+      "Эта реликвия израсходована в данном бою и будет снова активна в следующем."
     ]
   },
   "Slimebound:PotencyRelic": {
     "NAME": "Вязкий камень",
-    "FLAVOR": "It is said to gain power based on your mood.",
+    "FLAVOR": "Говорят, его сила зависит от настроения.",
     "DESCRIPTIONS": [
       "#yslimeboundmod:Разделяет на #yslimeboundmod:Болотную Слизь и даёт #b1 #yslimeboundmod:Мощь в начале боя."
     ]
   },
   "Slimebound:DailySplitRelic": {
     "NAME": "Слизьнешпиль",
-    "FLAVOR": "ALWAYS Split.  Why is this a relic? Cause I can't figure out how to add the custom mod to the list of active mods UI!",
+    "FLAVOR": "ПОСТОЯННОЕ деление. Почему это реликвия? Потому что я не могу понять, как добавить свой мод в список активных UI модов!",
     "DESCRIPTIONS": [
-      "#bCustom #bRun #bModifier NL ВСЕ враги в облике 2 Слизней с #b50% ОЗ."
+      "#bCustom #bRun #bModifier. NL ВСЕ враги теперь в облике 2 Слизней с #b50% ОЗ."
     ]
   },
   "Slimebound:ScrapOozeRelic": {
     "NAME": "Слизень-мусорщик",
     "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Призывает #yСлизь-мусорщика в начале боя. NL Позволяет пожертвовать карту #yСлизню-мусорщику в лагере, для изменения его урона. NL #b+1 урона за #gНеобычные NL #b+2 урона за #yРедкие NL #b-1 урона за Обычные NL #b-2 урона за #rПроклятия",
+      "Призывает #yСлизь-мусорщика в начале боя. NL Позволяет пожертвовать карту #yСлизню-мусорщику в лагере, для изменения его урона. NL #b+1 урона за #gНеобычные. NL #b+2 урона за #yРедкие. NL #b-1 урона за Обычные. NL #b-2 урона за #rПроклятия.",
       "Уберите карту из колоды, чтобы изменить урон Слизня-мусорщика.",
       "Нечего дать Слизню-мусорщику."
     ]
   },
   "Slimebound:GreedOozeRelic": {
     "NAME": "Слизь Жадности",
-    "FLAVOR": "A friend found in the Spire who hoards gold.",
+    "FLAVOR": "В Шпиле нашёлся друг, который копит золото.",
     "DESCRIPTIONS": [
       "Призывает #yЖадную #yСлизь в начале боя. NL Позволяет отдать #yЖадной #yСлизи #b50 золота, в лагере, чтобы увеличить её урон на #b1."
     ]
   },
   "Slimebound:PreparedRelic": {
     "NAME": "Слизнесуп",
-    "FLAVOR": "Tastes awful, but incredibly healthy.",
+    "FLAVOR": "На вкус ужасен, но невероятно полезен.",
     "DESCRIPTIONS": [
-      "When you enter a Rest Site, begin the next combat with a #yPrepare card that costs #b0."
+      "#yPrepare card that costs #b0 в начале первого боя после лагеря."
     ]
   },
   "Slimebound:AggressiveSlimeRelic": {
@@ -68,7 +68,7 @@
   },
   "Slimebound:SlimedSkullRelic": {
     "NAME": "Слизнечереп",
-    "FLAVOR": "A Snecko skull in absolutely awful condition. Unclean and slimy, dirt and grime stick to it like glue.",
+    "FLAVOR": "Череп Змекко в абсолютно ужасном состоянии. Unclean and slimy, dirt and grime stick to it like glue.",
     "DESCRIPTIONS": [
       "Накладывает ещё #b",
       " #yslimeboundmod:Слизи, когда вы покрываете врага #yСлизью." //Череп змекко

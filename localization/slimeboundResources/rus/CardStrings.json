@@ -14,8 +14,8 @@
   },
   "Slimebound:ProtectTheBoss": {
     "NAME": "За короля!",
-    "DESCRIPTION": "Предотвращает следующий урон от атаки врага и slimeboundmod:Поглощает первую Слизь.",
-    "UPGRADE_DESCRIPTION": "Предотвращает 2 следующих урона от атак врагов и slimeboundmod:Поглощает первую Слизь."
+    "DESCRIPTION": "Предотвращает следующий урон от атаки врага slimeboundmod:Поглощая первую Слизь.",
+    "UPGRADE_DESCRIPTION": "Предотвращает 2 следующих урона от атак врагов slimeboundmod:Поглощая первую Слизь."
   },
   "Slimebound:SamplingLick": {
     "NAME": "Дегустриующий лизь",
@@ -38,8 +38,8 @@
   },
   "Slimebound:LeadByExample": {
     "NAME": "Подать пример",
-    "DESCRIPTION": "Первая разыгранная карта каждый ход, нацеленная на врагов, также slimeboundmod:Командует.",
-    "UPGRADE_DESCRIPTION": "Первые !M! разыгранные карты каждый ход, нацеленные на врагов, также slimeboundmod:Командуют."
+    "DESCRIPTION": "В начале каждого вашего хода первая нацеленная на врагов карта slimeboundmod:Командует.",
+    "UPGRADE_DESCRIPTION": "В начале каждого вашего хода первые !M! нацеленные на врагов карты slimeboundmod:Командуют."
   },
   "Slimebound:SlimeTap": {
     "NAME": "Слизнесжатие",
@@ -65,7 +65,8 @@
   },
   "Slimebound:SpikyOuterGoop": {
     "NAME": "Слизнеброня",
-    "DESCRIPTION": "Даёт !M! Защиты, когда вы slimeboundmod:Слизываете."  },
+    "DESCRIPTION": "Даёт !M! Защиты, когда вы slimeboundmod:Слизываете."
+  },
   "Slimebound:SelfFormingGoo": {
     "NAME": "Переделка",
     "DESCRIPTION": "Даёт !M! Силы, когда вы slimeboundmod:Поглощаете Слизь.",
@@ -91,8 +92,8 @@
   },
   "Slimebound:DuplicatedForm": {
     "NAME": "Облик Двойника",
-    "DESCRIPTION": "Отнимает !M! ОЗ и !M! Макс ОЗ на этот бой. NL Первая разыгранная в каждом ходу карта, нацеленная на врага, разыгрывается дважды.",
-    "UPGRADE_DESCRIPTION": "Отнимает !M! ОЗ и !M! Макс ОЗ на этот бой. NL Даёт [E] каждый ход. NL Первая разыгранная в каждом ходу карта, нацеленная на врага, разыгрывается дважды.",
+    "DESCRIPTION": "Отнимает !M! ОЗ и !M! Макс ОЗ на этот бой. NL В начале каждого вашего хода первая нацеленная на врага карта разыгрывается дважды.",
+    "UPGRADE_DESCRIPTION": "Отнимает !M! ОЗ и !M! Макс ОЗ на этот бой. NL Даёт [E] в начале каждого хода. NL В начале каждого вашего хода первая нацеленная на врага карта разыгрывается дважды.",
     "EXTENDED_DESCRIPTION": [
       "Нужно... Здоровье..."
     ]
@@ -158,8 +159,8 @@
   },
   "Slimebound:Gluttony": {
     "NAME": "Обжорство",
-    "DESCRIPTION": "В начале каждого вашего хода первое slimeboundmod:Слизывание добавляет *Лизь в руку.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL В начале каждого вашего хода первое slimeboundmod:Слизывание добавляет *Лизь в руку."
+    "DESCRIPTION": "В начале каждого вашего хода первое slimeboundmod:Слизывание добавляет случайный *Лизь в руку.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL В начале каждого вашего хода первое slimeboundmod:Слизывание добавляет случайный *Лизь в руку."
   },
   "Slimebound:PressTheAttack": {
     "NAME": "Начать наступление",
@@ -301,29 +302,29 @@
     "DESCRIPTION": "Даёт !B! Защиты и 1 bronze:Неуловимости за каждую Слизь. NL slimeboundmod:Поглощает всю Слизь. NL Сжигается."
   },
   "Slimebound:SplitBruiser": {
-    "NAME": "Разделение: Борец",
-    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Слизь_Борца. NL slimeboundmod:Командует !M! раза. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Слизь_Борца. NL slimeboundmod:Командует три раза. NL Сжигается."
+    "NAME": "Борцовское деление",
+    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Слизь-борца. NL slimeboundmod:Командует !M! раза. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Слизь-борца. NL slimeboundmod:Командует три раза. NL Сжигается."
   },
   "Slimebound:SplitLeeching": {
-    "NAME": "Разделение: Leeching",
-    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Leeching_Slime. NL slimeboundmod:Командует !M! раза. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Leeching_Slime. NL slimeboundmod:Командует 3 раза. NL Сжигается."
+    "NAME": "Пиявочное деление",
+    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Слизь-пиявку. NL slimeboundmod:Командует !M! раза. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Слизь-пиявку. NL slimeboundmod:Командует 3 раза. NL Сжигается."
   },
   "Slimebound:SplitAcid": {
-    "NAME": "Разделение: Guerilla",
-    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Guerilla_Slime. NL slimeboundmod:Командует !M! раза. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Guerilla_Slime. NL slimeboundmod:Командует 3 раза. NL Сжигается."
+    "NAME": "Партизанское деление",
+    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Слизь-партизана. NL slimeboundmod:Командует !M! раза. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Слизь-партизана. NL slimeboundmod:Командует 3 раза. NL Сжигается."
   },
   "Slimebound:SplitMire": {
-    "NAME": "Разделение: Mire",
-    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Mire_Slime. NL slimeboundmod:Командует !M! раза. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Mire_Slime. NL slimeboundmod:Командует 3 раза. NL Сжигается."
+    "NAME": "Болотное деление",
+    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Болотную_Слизь. NL slimeboundmod:Командует !M! раза. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Болотную_Слизь. NL slimeboundmod:Командует 3 раза. NL Сжигается."
   },
   "Slimebound:SplitSpecialist": {
-    "NAME": "Разделение: Специальная",
-    "DESCRIPTION": "Выберите 1 из 3 уникальных Слизей и slimeboundmod:Разделитесь на неё. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Выберите 1 из 3 уникальных Слизей и slimeboundmod:Разделитесь на неё. NL slimeboundmod:Командует. NL Сжигается."
+    "NAME": "Специальное деление",
+    "DESCRIPTION": "Выберите 1 из 3 slimeboundmod:Специальных Слизей и slimeboundmod:Разделитесь на неё. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Выберите 1 из 3 slimeboundmod:Специальных Слизей и slimeboundmod:Разделитесь на неё. NL slimeboundmod:Командует. NL Сжигается."
   },
   "Slimebound:MinionMaster": {
     "NAME": "Minion Master",
