@@ -6,27 +6,27 @@
       "Ни один из этих дроном не имеет того, что вам могло бы пригодиться."
     ],
     "OPTIONS": [
-      "[Драться с Шипастым] #gПолучить #gSpike в награде боя.",
-      "[Драться с Отвратником] #gПолучить #gDazing #gPulse в награде боя.",
-      "[Драться со Взрывателем] #gПолучить #gExplode в награде боя.",
+      "[Драться с Шипастым] #gПолучить карту #g«Шип» в награде боя.",
+      "[Драться с Отвратником] #gПолучить карту #g«Dazing #gPulse» в награде боя.",
+      "[Драться со Взрывателем] #gПолучить карту #g«Взорваться» в награде боя.",
       "[Уйти]",
       "[Начать бой]",
-      "[Также драться с Шипастым] #gПолучить #gSpike в награде боя.",
-      "[Также драться с Отвратником] #gПолучить #gDazing #gPulse в награде боя.",
-      "[Также драться с Взрывателем] #gПолучить #gExplode в награде боя."
+      "[Также драться с Шипастым] #gПолучить #g«Шип» в награде боя.",
+      "[Также драться с Отвратником] #gПолучить #g«Dazing #gPulse» в награде боя.",
+      "[Также драться с Взрывателем] #gПолучить #g«Взорваться» в награде боя."
     ]
   },
   "bronze:AncientFactory": {
-    "NAME": "Ancient Factory",
+    "NAME": "Древняя фабрика",
     "DESCRIPTIONS": [
-      "As you continue your tireless descent, you have come across the ~original~ factory. You remember being here for your own assembly, when you met the ~Maker~ for the first time. NL Each one of the ancient constructs they created is as #yperfect as yourself. There are parts from the old prototypes that could be of use to you, but it will require activating them.",
-      "Even for unfinished prototypes, they are still formidable - no need for unnecessary risks."
+      "Продолжая свой неутомимый спуск, вы наткнулись на место своего ~создания.~ Вы помните, как вас собирали здесь по деталькам, как вы впервые встретили своего ~Создателя.~ NL Каждая созданная ими древняя конструкция была такой же #yидеальной, как и вы. Детали со старых прототипов могут быть полезны для вас, но для их использования потребуется активация прототипов.",
+      "Даже если они незавершённые прототипы, они всё равно могут быть опасны - не стоит рисковать лишний раз."
     ],
     "OPTIONS": [
-      "[Fight Donu Prototype] #gGain #gProto-Beam.",
-      "[Fight Deca Prototype] #gGain #gProto-Shield.",
-      "[Fight Both] #gGain #gBoth #gCards.",
-      "[Leave]"
+      "[Драться с прототипом Дону] #gПолучить #gПротолуч.",
+      "[Драться с прототипом Деки] #gПолучить #gПротощит.",
+      "[Драться с обоими] #gПолучить #gобе #gкарты.",
+      "[Уйти]"
     ]
   },
   "bronze:BackToBasics": {

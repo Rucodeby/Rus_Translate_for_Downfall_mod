@@ -15,7 +15,7 @@
     ]
   },
   "bronze:BurnAndBuffPotion": {
-    "NAME": "Vexing Draught", //Раздражающая выпивка
+    "NAME": "Жгучая выпивка", //Жгучая выпивка
     "DESCRIPTIONS": [
       "Даёт #b",
       " Силы и #b",

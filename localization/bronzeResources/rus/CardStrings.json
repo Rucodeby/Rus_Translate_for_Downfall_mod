@@ -1,58 +1,58 @@
 {
   "bronze:DazingPulse": {
-    "NAME": "Dazing Pulse",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block NL bronze:Compile *Error - bronze:Insert !M! *Dazed.",
+    "NAME": "Dazing Pulse", //Оглушающий импульс
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт !B! Защиты NL bronze:Компиляция с *Ошибкой - bronze:Вставляет !M! *Головокружения.",
     "EXTENDED_DESCRIPTION": [
-      "dazing",
-      "Pulse"
+      "оглушающий", //только не прилагательные...
+      "Импульс"
     ]
   },
   "bronze:Spike": {
-    "NAME": "Spike",
-    "DESCRIPTION": "Deal !D! damage. NL bronze:Compile - Gain !M! Thorns.",
+    "NAME": "Шип",
+    "DESCRIPTION": "Наносит !D! урона. NL bronze:Компиляция - даёт !M! Шипов.",
     "EXTENDED_DESCRIPTION": [
-      "spiky",
-      "Spike"
+      "колючий",
+      "Шип"
     ]
   },
   "bronze:Explode": {
-    "NAME": "Explode",
-    "DESCRIPTION": "Apply !M! hexamod:Soulburn to ALL enemies. NL bronze:Compile *Error - bronze:Insert !bauto! *Burn.",
+    "NAME": "Взорваться",
+    "DESCRIPTION": "Накладывает !M! hexamod:Soulburn на ВСЕХ врагов. NL bronze:Компиляция с *Ошибкой - bronze:Вставляет !bauto! *Ожога.",
     "EXTENDED_DESCRIPTION": [
-      "unstable",
-      "Bomb"
+      "нестабильный",
+      "Бомба"
     ]
   },
   "bronze:DonuBeam": {
-    "NAME": "Proto-Beam",
-    "DESCRIPTION": "Deal !D! damage !M! times. NL bronze:Compile - Gain !M! Strength and lose !bauto! Dexterity.",
+    "NAME": "Протолуч",
+    "DESCRIPTION": "Наносит !D! урона !M! раза. NL bronze:Компиляция - даёт !M! Силы и отнимает !bauto! Ловкости.",
     "EXTENDED_DESCRIPTION": [
-      "smooth",
-      "Blast"
+      "smooth", //размытый
+      "Blast" //Заряд
     ]
   },
   "bronze:DecaBeam": {
-    "NAME": "Proto-Shield",
-    "DESCRIPTION": "Gain !B! Block. NL bronze:Compile - Gain !M! Plated Armor and bronze:Insert !bauto! *Dazed.",
+    "NAME": "Протощит",
+    "DESCRIPTION": "Даёт !B! Защиты. NL bronze:Компиляция - даёт !M! Панциря и bronze:Вставляет !bauto! *Головокружения.",
     "EXTENDED_DESCRIPTION": [
-      "jagged",
-      "Barrier"
+      "jagged", //хлипкий
+      "Барьер"
     ]
   },
   "bronze:Strike": {
-    "NAME": "Strike",
-    "DESCRIPTION": "Deal !D! damage.",
+    "NAME": "Удар",
+    "DESCRIPTION": "Наносит !D! урона.",
     "EXTENDED_DESCRIPTION": [
-      "simple",
-      "Strike"
+      "простой",
+      "Удар"
     ]
   },
   "bronze:Defend": {
-    "NAME": "Defend",
-    "DESCRIPTION": "Gain !B! Block.",
+    "NAME": "Оборона",
+    "DESCRIPTION": "Даёт !B! Защиты.",
     "EXTENDED_DESCRIPTION": [
-      "basic",
-      "Defend"
+      "обычный",
+      "Оборона"
     ]
   },
   "bronze:FunctionCard": {
@@ -65,20 +65,20 @@
     ]
   },
   "bronze:Goto": {
-    "NAME": "Goto",
-    "DESCRIPTION": "Draw !M! card. NL bronze:Compile - Next turn, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL bronze:Compile - Next turn, draw !M! cards.",
+    "NAME": "Перейти на метку",
+    "DESCRIPTION": "Вы берёте !M! карту. NL bronze:Компиляция - в след. ходу вы возьмёте на !M! карту больше.",
+    "UPGRADE_DESCRIPTION": "Вы берёте !M! карты. NL bronze:Компиляция - в след. ходу вы возьмёте на !M! карты больше.",
     "EXTENDED_DESCRIPTION": [
-      "running",
-      "Sprint"
+      "running", //переход
+      "Спринт"
     ]
   },
   "bronze:Replicate": {
-    "NAME": "Replicate",
-    "DESCRIPTION": "Deal !D! damage.",
+    "NAME": "Репликация",
+    "DESCRIPTION": "Наносит !D! урона.",
     "EXTENDED_DESCRIPTION": [
-      "copying",
-      "Copy"
+      "копирование",
+      "Копия"
     ]
   },
   "bronze:Branch": {
@@ -92,19 +92,19 @@
     ]
   },
   "bronze:DelayedSlice": {
-    "NAME": "Delayed Slice",
-    "DESCRIPTION": "Deal !D! damage. NL bronze:Compile - ALL enemies lose !M! HP.",
+    "NAME": "Задержанный порез", //Delay - задерживание программы на некоторое время
+    "DESCRIPTION": "Наносит !D! урона. NL bronze:Компиляция - ВСЕ враги теряют !M! ОЗ.",
     "EXTENDED_DESCRIPTION": [
-      "delayed",
-      "Slice"
+      "задержанный",
+      "Порез"
     ]
   },
   "bronze:WhirlingStrike": {
-    "NAME": "Пронзающий выстрел",
+    "NAME": "Пронзающая пуля",
     "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам.",
     "EXTENDED_DESCRIPTION": [
       "пронзающий",
-      "Выстрел"
+      "Пуля"
     ]
   },
   "bronze:Iterate": {
