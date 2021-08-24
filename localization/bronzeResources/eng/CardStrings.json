@@ -292,7 +292,7 @@
   },
   "bronze:BronzeOrb": {
     "NAME": "Bronze Orb",
-    "DESCRIPTION": "Innate. NL Deal !D! damage. NL Gain !B! Block. NL bronze:Encode a random card with bronze:Encode in your draw pile. NL Exhaust."
+    "DESCRIPTION": "Innate. NL Gain !B! Block. NL Deal !D! damage. NL bronze:Encode a random card with bronze:Encode in your draw pile. NL Exhaust."
   },
   "bronze:Virus": {
     "NAME": "Virus",
@@ -614,8 +614,8 @@
   },
   "bronze:FindAndReplace": {
     "NAME": "Find and Replace",
-    "DESCRIPTION": "Ethereal. NL Fetch a card from your draw or discard pile. NL Add a Dazed where it was. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Fetch a card from your draw or discard pile. NL Add a Dazed where it was. NL Exhaust.",
+    "DESCRIPTION": "Ethereal. NL Fetch a card from your draw or discard pile. NL Add a *Dazed where it was. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Fetch a card from your draw or discard pile. NL Add a *Dazed where it was. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       "Choose."
     ]
