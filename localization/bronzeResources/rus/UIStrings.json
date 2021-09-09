@@ -1,51 +1,51 @@
 {
   "bronze:SpecificCardReward": {
     "TEXT": [
-      "Add ",
-      " to your deck",
-      "Pick a Card."
+      "Добавьте карту «",
+      "» в колоду",
+      "Добавьте карту."
     ]
   },
   "bronze:UnplayableMod": {
     "TEXT": [
-      "Unplayable. NL ",
+      "Неиграбельная. NL ", //Unplayable
       "ERR_NULL_PTR"
     ]
   },
   "bronze:EncodeAndShuffleMod": {
     "TEXT": [
-      " NL bronze:Encode, then add a copy of this into your discard pile."
+      " NL bronze:Кодируется, затем добавляет свою копию в стопку сброса."
     ]
   },
   "bronze:DoublePlayModifier": {
     "TEXT": [
-      " NL Play this again."
+      " NL Разыгрывается дважды." //Play this again
     ]
   },
   "bronze:MiscStrings": {
     "TEXT": [
-      "Choose a card to return to your hand. It gains Retain.",
-      " - Increase #yCultist #yStrike's damage by #b",
+      "Выберите карту, которую хотите вернуть в руку с Оставляемостью.",
+      " - навсегда повышает наносимый урон #yУдаром #yкультиста на #b",
       " permanently.",
       "ERR: SEQUENCE_EMPTY",
-      " - Add a copy of #yInfinite #yLoop to your hand with #b",
-      " more damage.",
-      " to Mutate.",
-      " to Encode.",
+      " - добавляет в руку копию #yВечного #yцикла с уроном на #b",
+      " больше.",
+      " мутировать.",
+      " Закодировать.", //<- это не работает правильно, надо будет сообщить
       ""
     ]
   },
   "bronze:AutoTextHelper": {
     "TEXT": [
-      " NL bronze:Compile",
+      " NL bronze:Компиляция",
       "bronze:Compile",
-      " NL bronze:Encode.",
-      "bronze:Encode. NL "
+      " NL bronze:Кодируется.",
+      "bronze:Кодируется. NL "
     ]
   },
   "bronze:CompileDisplayPanel": {
     "TEXT": [
-      "When Compiled:",
+      "Когда Скомпилируется:",
       "bronze:Compile"
     ]
   }

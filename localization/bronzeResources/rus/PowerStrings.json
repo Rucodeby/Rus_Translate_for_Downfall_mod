@@ -1,71 +1,71 @@
 {
   "bronze:Cloning": {
-    "NAME": "Merge",
+    "NAME": "Слияние",
     "DESCRIPTIONS": [
-      "The next time you add a card to the Sequence, add an extra copy of it.",
-      "The next time you add a card to the Sequence, add #b",
-      " extra copies of it."
+      "Когда в след. раз вы добавите карту в Последовательность, вы добавите ещё её копию.",
+      "Когда в след. раз вы добавите карту в Последовательность, вы добавите ещё #b",
+      " её копии."
     ]
   },
   "bronze:Default": {
-    "NAME": "Class Default",
+    "NAME": "Базовый класс",
     "DESCRIPTIONS": [
-      "Add a copy of ",
-      " to the next Sequence.",
-      " to the next #b",
-      " Sequences."
+      "Добавляет копию ",
+      " в след. Последовательность.",
+      " в след. #b",
+      " Последовательности."
     ]
   },
   "bronze:Feature": {
-    "NAME": "It's A Feature",
+    "NAME": "Такая особенность",
     "DESCRIPTIONS": [
-      "Whenever you draw a #rCurse or #yStatus card, gain #b",
-      " temporary #yStrength and #b",
-      " temporary #yDexterity."
+      "Даёт #b",
+      " Временной #yСилы и #b",
+      " Временной #yЛовкости, когда вы берёте #rПроклятие или #yСтатус."
     ]
   },
   "bronze:InfiniteBeams": {
-    "NAME": "Infinite Beams",
+    "NAME": "Нескончаемые лучи",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b1 #yMinor #yBeam into your hand.",
-      "At the start of your turn, add #b1 #yMinor #yBeam+ into your hand.",
-      "At the start of your turn, add #b",
-      " #yMinor #yBeams into your hand.",
-      "At the start of your turn, add #b",
-      " #yMinor #yBeam+s into your hand."
+      "Добавляет в руку #b1 #yМалый #yлуч в начале вашего хода.",
+      "Добавляет в руку #b1 #yМалый #yлуч+ в начале вашего хода.",
+      "Добавляет в руку #b",
+      " #yМалых #yлуча в начале вашего хода.",
+      "Добавляет в руку #b",
+      " #yМалых #yлуча+ в начале вашего хода."
     ]
   },
   "bronze:Optimize": {
-    "NAME": "Optimized",
+    "NAME": "Оптимизированный",
     "DESCRIPTIONS": [
-      "#yUpgrade the next card you #yEncode that can be #yUpgraded.",
-      "#yUpgrade the next #b",
-      " cards you #yEncode that can be #yUpgraded."
+      "Если это возможно, #yУлучшает след. карту, которую вы #yЗакодируете.",
+      "Если это возможно, #yУлучшает след. #b",
+      " карты, которые вы #yЗакодируете."
     ]
   },
   "bronze:MaxOutput": {
-    "NAME": "Max Output",
+    "NAME": "На всю мощность",
     "DESCRIPTIONS": [
-      "Draw #b1 additional card and add #b1 #yDazed into your draw pile each turn.",
-      "Draw #b",
-      " additional cards and add #b",
-      " #yDazed into your draw pile each turn."
+      "В начале вашего хода вы берёте #b1 доп. карту и добавляете #b1 #yГоловокружение в стопку добора.",
+      "В начале вашего хода вы берёте #b",
+      " доп. карты и добавляете #b",
+      " #yГоловокружения в стопку добора."
     ]
   },
   "bronze:Return": {
-    "NAME": "Returning",
+    "NAME": "Возвращение",
     "DESCRIPTIONS": [
-      "At the start of your next turn, gain [E] and draw #b1 card.",
-      "At the start of your next #b",
-      " turns, gain [E] and draw #b1 card."
+      "Вы получаете [E] и берёте #b1 доп. карту в начале вашего след. хода.",
+      "Вы получаете [E] и берёте #b1 доп. карту в начале #b",
+      " ваших след. ходов."
     ]
   },
   "bronze:Library": {
-    "NAME": "Library",
+    "NAME": "Библиотека",
     "DESCRIPTIONS": [
-      "At the start of your turn, add a random card with #yEncode to your hand. NL It costs #b0.",
-      "At the start of your turn, add #b",
-      " random cards with #yEncode to your hand. NL They cost #b0."
+      "Добавляет в руку случайную карту с #yКодировкой в начале вашего хода. NL Она стоит #b0.",
+      "Добавляет в руку #b",
+      " случайные карты с #yКодировкой в начале вашего хода. NL Они стоят #b0."
     ]
   },
   "bronze:LibraryMod": {
@@ -83,11 +83,11 @@
     ]
   },
   "bronze:HardenedForm": {
-    "NAME": "Summon Orb",
+    "NAME": "С вами сфера",
     "DESCRIPTIONS": [
-      "Whenever you create or play a Function, gain #b",
-      " #yBlock and deal #b",
-      " damage to a random enemy."
+      "Даёт #b",
+      " #yЗащиты и наносит #b",
+      " урона случайному врагу, когда вы создаёте или разыгрываете Функцию."
     ]
   },
   "bronze:Hardcode": {
@@ -99,27 +99,27 @@
     ]
   },
   "bronze:Verify": {
-    "NAME": "Sentient Form",
+    "NAME": "Облик сознания",
     "DESCRIPTIONS": [
-      "The first time you draw or create a Function each turn, increase all numbers on it by #b1.",
-      "The first #b",
-      " times you draw or create a Function each turn, increase all numbers on it by #b1."
+      "Когда вы создаёте или берёте Функцию впервые в своём ходу, повышает все числа на ней на #b1.",
+      "Когда вы создаёте или берёте первые #b",
+      " Функции в своём ходу, повышает все числа на них на #b1."
     ]
   },
   "bronze:FreeFunction": {
-    "NAME": "Free Function",
+    "NAME": "Бесплатная функция",
     "DESCRIPTIONS": [
-      "The next Function you create costs #b0.",
-      "The next #b",
-      " Functions you create cost #b0."
+      "След. созданная Функция стоит #b0.",
+      "След. #b",
+      " созданные Функции стоят #b0."
     ]
   },
   "bronze:CleanCode": {
-    "NAME": "Clean Code",
+    "NAME": "Чистый код",
     "DESCRIPTIONS": [
-      "Remove all #yCompile Error effects from cards in the Sequence. Lasts for #b1 more Function.",
-      "Remove all #yCompile Error effects from cards in the Sequence. Lasts for #b",
-      " Functions."
+      "Удаляет все Ошибки #yКомпиляций карт в Последовательности. Действует ещё на #b1 Функцию.",
+      "Удаляет все Ошибки #yКомпиляций карт в Последовательности. Действует на #b",
+      " Функции."
     ]
   },
   "bronze:CopyPaste": {
@@ -131,17 +131,17 @@
     ]
   },
   "bronze:FullRelease": {
-    "NAME": "Full Release",
+    "NAME": "Релиз",
     "DESCRIPTIONS": [
-      "At the start of your turn, NL "
+      "В начале вашего хода NL "
     ]
   },
   "bronze:RemoveNextError": {
-    "NAME": "Remove Errors",
+    "NAME": "Удаление ошибок",
     "DESCRIPTIONS": [
-      "Remove the next #yCompile #yError #yEncoded.",
-      "Remove the next #b",
-      " #yCompile #yErrors #yEncoded."
+      "Удаляет след. #yЗакодированную #yКомпиляцию с #yОшибкой.",
+      "Удаляет след. #b",
+      " #yЗакодированные #yКомпиляции с #yОшибками."
     ]
   }
 }
