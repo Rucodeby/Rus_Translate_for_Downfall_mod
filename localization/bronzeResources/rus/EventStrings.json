@@ -36,7 +36,7 @@
     ],
     "OPTIONS": [
       "[Единство] Сделать все карты #g«Удар» и #g«Оборона» с #gКодировкой.",
-      "[Закрыто] Требуется: Удар или Оборона."
+      "[Закрыто] Требуется Удар или Оборона."
     ]
   },
   "bronze:AccursedBlacksmith": {
@@ -46,28 +46,28 @@
     ],
     "OPTIONS": [
       "[Подправить] #gУлучшить #g3 #gслучайные #gкарты #gс #gКодировкой #gв #gколоде.",
-      "[Закрыто] Требуется: улучшаемые карты с Кодировкой."
+      "[Закрыто] Требуются улучшаемые карты с Кодировкой."
     ]
   },
   "bronze:CrystalForge": {
-    "NAME": "Grim Forge",
+    "NAME": "Мрачная кузница",
     "DESCRIPTIONS": [
-      "Through secret passages known only to the Constructs of the Spire, you enter a chamber designed for maintenance and repairs on Automaton models. The tools available here will be of certain use to you.",
-      "With the magic tongs, you carefully embed a weapon directly into your core. #y@Bzzzt!@ Seems like coding yourself is not as easy as you thought.",
-      "Using the enchanted anvil, you smash a precious piece of equipment into pieces, just to forge them into a burst of pure energy. It ~merges~ ~into~ ~your~ ~form,~ filling you with warmth and strength.",
-      "The Forge's ability to transmute matter is put to use immediately as you toss in an unneeded piece of equipment. Some moments later, the material dissolves and compresses into a new enhancement for your armor.",
-      "You escape through the same secret passage you came in, leaving the Grim Forge behind you. Your journey continues towards the Dawn awaiting at the top of the Spire.",
-      "Choose a card to Remove."
+      "Через потайные пути, известные только Конструкциям Шпиля, вы входите в отсек по обслуживанию и ремонту моделей Автоматонов. Здешние инструменты явно могут быть полезны для вас.",
+      "С помощью волшебных щипцов вы осторожно внедряете прямо в своё ядро орудие. #y@Бзззы!@ Всё-таки кодировать самого себя не так просто, как вам казалось.",
+      "Используя зачарованную наковальню, вы раскалываете вдребезги драгоценное оборудование, просто чтобы сковать их в скопление чистой энергии. Оно... ~сливается~ ~с~ ~вашей~ ~формой,~ наполняя вас теплом и силой.",
+      "Способность Кузни к преобразованию вещей срабатывает сразу же, как только вы жертвуете ненужную часть экипировки. Чуть-чуть подождав, вещь растворяется и сжимается в новое усиление для ваших доспехов.",
+      "Вы уходите через тот же потайной путь, через который пришли, оставляя Мрачную кузницу позади. Ваше путешествие продолжается прямиком к Рассвету, ожидающему на верхушке Шпиля.",
+      "Выберите карту, которую хотите убрать."
     ],
     "OPTIONS": [
-      "[Craft] #gGain #gBottled #gCode. #rLose #r10 #rMax #rHP.",
-      "[Transmute] #rRemove a Card. Gain a random #gCard #gwith #gEncode.",
-      "[Reforge] #rRemove a #yRare Card. #gGain #g10 #gMax #gHP #gand #gHeal #gto #gfull.",
-      "[Locked] Already used.",
-      "[Leave]",
-      "[Locked] Requires a card with Encode.",
-      "[Locked] Requires a Rare card.",
-      "Choose a card to remove."
+      "[Смастерить] #gПолучить #gЗакупоренный #gкод. #rПотерять #r10 #rМакс. #rОЗ.",
+      "[Преобразование] #rУбрать карту. Получить случайную #gкарту #gс #gКодировкой.",
+      "[Перековать] #rУбрать #yРедкую карту. #gПолучить #g10 #gМакс. #gОЗ #gи #gвосполнить #gвсе #gОЗ.",
+      "[Закрыто] Уже использовано.",
+      "[Уйти]",
+      "[Закрыто] Требуется карта с Кодировкой.",
+      "[Закрыто] Требуется Редкая карта.",
+      "Выберите карту, которую хотите убрать."
     ]
   }
 }

@@ -10,9 +10,9 @@
   "bronze:Default": {
     "NAME": "Базовый класс",
     "DESCRIPTIONS": [
-      "Добавляет копию ",
-      " в след. Последовательность.",
-      " в след. #b",
+      "Добавляет копию карты «",
+      "» в след. Последовательность.",
+      "» в след. #b",
       " Последовательности."
     ]
   },
@@ -69,17 +69,17 @@
     ]
   },
   "bronze:LibraryMod": {
-    "NAME": "External Library",
+    "NAME": "Внешняя библиотека",
     "DESCRIPTIONS": [
-      "At the start of your turn, add a random card with #yEncode to your hand and give it Ethereal."
+      "Добавляет в руку случайную карту с #yКодировкой и #yЭфирностью в начале вашего хода."
     ]
   },
   "bronze:BronzeHeatsink": {
-    "NAME": "Bronze Heatsink",
+    "NAME": "Бронзовый радиатор",
     "DESCRIPTIONS": [
-      "Whenever you play a #yFunction, draw #b1 card.",
-      "Whenever you play a #yFunction, draw #b",
-      " cards."
+      "Вы берёте #b1 карту, когда разыгрываете #yФункцию.",
+      "Вы берёте #b",
+      " карты, когда разыгрываете #yФункцию."
     ]
   },
   "bronze:HardenedForm": {
@@ -123,11 +123,11 @@
     ]
   },
   "bronze:CopyPaste": {
-    "NAME": "Copy Paste",
+    "NAME": "Копировать-вставить",
     "DESCRIPTIONS": [
-      "Your next Function is played twice this turn.",
-      "Your next #b",
-      " Functions are played twice this turn."
+      "В этом ходу след. Функция разыгрывается дважды.",
+      "В этом ходу след. #b",
+      " Функции разыгрываются дважды."
     ]
   },
   "bronze:FullRelease": {
@@ -141,7 +141,7 @@
     "DESCRIPTIONS": [
       "Удаляет след. #yЗакодированную #yКомпиляцию с #yОшибкой.",
       "Удаляет след. #b",
-      " #yЗакодированные #yКомпиляции с #yОшибками."
+      " #yЗакодированные #yКомпиляции с #yОшибкой."
     ]
   }
 }

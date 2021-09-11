@@ -1,9 +1,9 @@
 {
   "bronze:DazingPulse": {
-    "NAME": "Dazing Pulse", //Оглушающий импульс
+    "NAME": "Оглушающий импульс", //Оглушающий импульс
     "DESCRIPTION": "Наносит !D! урона. NL Даёт !B! Защиты NL bronze:Компиляция с *Ошибкой - bronze:Вставляет !M! *Головокружения.",
     "EXTENDED_DESCRIPTION": [
-      "оглушающий", //только не прилагательные...
+      "оглушающий",
       "Импульс"
     ]
   },
@@ -27,15 +27,15 @@
     "NAME": "Протолуч",
     "DESCRIPTION": "Наносит !D! урона !M! раза. NL bronze:Компиляция - даёт !M! Силы и отнимает !bauto! Ловкости.",
     "EXTENDED_DESCRIPTION": [
-      "smooth", //размытый
-      "Заряд" //Заряд
+      "ровный", //гладкий
+      "Заряд"
     ]
   },
   "bronze:DecaBeam": {
     "NAME": "Протощит",
     "DESCRIPTION": "Даёт !B! Защиты. NL bronze:Компиляция - даёт !M! Панциря и bronze:Вставляет !bauto! *Головокружения.",
     "EXTENDED_DESCRIPTION": [
-      "jagged", //хлипкий
+      "пьянящий", //пьянящий???
       "Барьер"
     ]
   },
@@ -60,7 +60,7 @@
     "DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       "функция()",
-      "Perfection()", //безупречность, завершённость
+      "Завершённость()", //безупречность, завершённость
       "()"
     ]
   },
@@ -108,10 +108,10 @@
     ]
   },
   "bronze:Iterate": {
-    "NAME": "Итерация", //Итерация - повторение одних и тех действий
+    "NAME": "Итерация", //Итерация - повторение одних и тех же действий
     "DESCRIPTION": "Наносит !D! урона !M! раза.",
     "EXTENDED_DESCRIPTION": [
-      "parsed", //разобранный, проанализированный, парсинг - парсед?
+      "разобранный", //проанализированный
       "Итерация"
     ]
   },
@@ -120,7 +120,7 @@
     "DESCRIPTION": "Наносит !D! урона. π NL Когда bronze:Закодирована, наносит на !M! урона больше, если не в первом и последнем слоте.", //число пи, лол - π
     "EXTENDED_DESCRIPTION": [
       "разделение",
-      "Child" //дочерний? Типа дочерний класс...
+      "Дочерний" //Дочерний? Типа дочерний класс...
     ]
   },
   "bronze:Overheat": {
@@ -128,10 +128,10 @@
     "DESCRIPTION": "Наносит !D! урона. NL Удаляет след. bronze:Закодированную bronze:Компиляцию с *Ошибкой."
   },
   "bronze:CutThrough": {
-    "NAME": "Cut Through", //просто разрезать, мейби?
+    "NAME": "Разрезать", //Разрезать
     "DESCRIPTION": "Наносит !D! урона. NL Вы Предсказываете !M! карты. NL bronze:Компиляция - вы берёте !bauto! карту.",
     "EXTENDED_DESCRIPTION": [
-      "cutting", //режущий
+      "режущий",
       "Порез"
     ]
   },
@@ -169,7 +169,7 @@
     ]
   },
   "bronze:Frontload": {
-    "NAME": "Frontload", //Фронтальная загрузка?
+    "NAME": "Передняя загрузка", //Передняя загрузка
     "DESCRIPTION": "Даёт !B! Защиты. NL bronze:Компиляция - Функция Оставляется.",
     "EXTENDED_DESCRIPTION": [
       "крепкий",
@@ -177,7 +177,7 @@
     ]
   },
   "bronze:DelayedGuard": {
-    "NAME": "Задержанный щит", //найти синоним слову "Щит"
+    "NAME": "Задержанный щит",
     "DESCRIPTION": "Даёт !B! Защиты в начале вашего след. хода.",
     "EXTENDED_DESCRIPTION": [
       "задержанный",
@@ -193,7 +193,7 @@
     ]
   },
   "bronze:Deprecate": {
-    "NAME": "Депрекация", //не рекомендуется? или неодобрение?
+    "NAME": "Неодобрение",
     "DESCRIPTION": "Накладывает !M! Слабости на ВСЕХ врагов. NL bronze:Компиляция с *Ошибкой - накладывает на вас Слабость.",
     "EXTENDED_DESCRIPTION": [
       "устаревший",
@@ -219,13 +219,13 @@
   },
   "bronze:BitShift": {
     "NAME": "Битовый сдвиг",
-    "DESCRIPTION": "Выберите карту в Последовательности и верните её в руку с Оставляемостью. NL Сжигается.", //с Оставляемостью?
-    "UPGRADE_DESCRIPTION": "Оставляется. NL Выберите карту в Последовательности и верните её в руку с Оставляемостью. NL Сжигается."
+    "DESCRIPTION": "Выберите карту в Последовательности и верните её в руку с bronze:Оставляемостью. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Оставляется. NL Выберите карту в Последовательности и верните её в руку с bronze:Оставляемостью. NL Сжигается."
   },
   "bronze:ByteShift": {
     "NAME": "Байтовый сдвиг",
-    "DESCRIPTION": "Возвращает все карты в Последовательности в руку с Оставляемостью. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Оставляется. NL Возвращает все карты в Последовательности в руку с Оставляемостью. NL Сжигается."
+    "DESCRIPTION": "Возвращает все карты в Последовательности в руку с bronze:Оставляемостью. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Оставляется. NL Возвращает все карты в Последовательности в руку с bronze:Оставляемостью. NL Сжигается."
   },
   "bronze:Batch": {
     "NAME": "Пакет",
@@ -259,10 +259,10 @@
     "DESCRIPTION": "Добавляет в руку случ. карту с bronze:Кодировкой. NL Она стоит 0. NL Сжигается."
   },
   "bronze:Flail": {
-    "NAME": "Молотить", //Размахивание
+    "NAME": "Молотить",
     "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам !bauto! раза. NL bronze:Компиляция - даёт !M! Артефакта.",
     "EXTENDED_DESCRIPTION": [
-      "молотящий",
+	  "молотящий",
       "Молотить"
     ]
   },
@@ -296,7 +296,7 @@
   },
   "bronze:Virus": {
     "NAME": "Вирус",
-    "DESCRIPTION": "Оставляется. NL Наносит !D! урона. NL Преобразует все карты в руке в *Малый *луч. NL Сжигается.", //Transform???
+    "DESCRIPTION": "Оставляется. NL Наносит !D! урона. NL Преобразует все карты в руке в *Малый *луч. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "Оставляется. NL Наносит !D! урона. NL Преобразует все карты в руке в *Малый *луч+. NL Сжигается."
   },
   "bronze:Backtrace": {
@@ -309,11 +309,11 @@
   },
   "bronze:CloningBeam": {
     "NAME": "Конфликт слияния",
-    "DESCRIPTION": "Наносит !D! урона. NL Когда в след. раз вы bronze:Закодируете карту, вы bronze:Закодируете ещё её копию. NL Сжигается.", //тупая формулировка какая-то. Скорее всего, поменяю
+    "DESCRIPTION": "Наносит !D! урона. NL Когда в след. раз вы bronze:Закодируете карту, вы bronze:Закодируете ещё её копию. NL Сжигается.", //скорее всего, поменяю формулировку
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Когда в след. раз вы bronze:Закодируете карту, вы bronze:Закодируете ещё её копию."
   },
   "bronze:FollowUp": {
-    "NAME": "Follow Through", //Завершить
+    "NAME": "Завершить", //Завершить
     "DESCRIPTION": "Наносит !D! урона. NL Даёт !B! Защиты. NL Разыгрывается дважды, если последняя разыгранная в бою карта - Функция."
   },
   "bronze:ChosenStrike": {
@@ -325,7 +325,7 @@
     ]
   },
   "bronze:ClassDefault": {
-    "NAME": "Базовый класс", //Базовый?
+    "NAME": "Базовый класс", //Базовый
     "DESCRIPTION": "Автоматически добавляет в след. !M! Последовательности копию первой карты в текущей Последовательности.",
     "UPGRADE_DESCRIPTION": "Оставляется. NL Автоматически добавляет в след. !M! Последовательности копию первой карты в текущей Последовательности."
   },
@@ -339,17 +339,17 @@
     "DESCRIPTION": "Наносит !D! урона.",
     "EXTENDED_DESCRIPTION": [
       "малый",
-      "Scratch"
+      "Поцарапать" //Поцарапать
     ]
   },
   "bronze:InfiniteBeams": {
-    "NAME": "Нескончаемые лучи", //Нескончаемые
+    "NAME": "Нескончаемые лучи",
     "DESCRIPTION": "Добавляет в руку *Малый *луч в начале каждого вашего хода.",
     "UPGRADE_DESCRIPTION": "Добавляет в руку *Малый *луч+ в начале каждого вашего хода."
   },
   "bronze:Optimize": {
     "NAME": "Оптимизировать",
-    "DESCRIPTION": "Если это возможно, Улучшает след. !M! bronze:Закодированные карты." //тупая формулировка. Поменяю, скорее всего
+    "DESCRIPTION": "Если это возможно, Улучшает след. !M! bronze:Закодированные карты." //поменяю, скорее всего формулировку
   },
   "bronze:MaxOutput": {
     "NAME": "На всю мощность",
@@ -361,7 +361,7 @@
     "UPGRADE_DESCRIPTION": "Оставляется. NL Даёт 1 Силы. NL Вы Преобразуете Статус из руки в копию этой карты."
   },
   "bronze:Allocate": {
-    "NAME": "Распределить", //Распределить (память)???
+    "NAME": "Распределить", //Распределить (память)
     "DESCRIPTION": "Даёт [E] за каждый Статус в стопке добора.",
     "EXTENDED_DESCRIPTION": [
       " NL (Даёт ",
@@ -377,7 +377,7 @@
     "NAME": "Активизировать", //Invoke
     "DESCRIPTION": "Даёт !B! Защиты. NL bronze:Компиляция - даёт [E] , равную суммарной стоимости карт в Последовательности.",
     "EXTENDED_DESCRIPTION": [
-      "активизированный", // <- слишком длинно, менять надо
+      "запущенный",
       "Энергия"
     ]
   },
@@ -385,7 +385,7 @@
     "NAME": "Починка",
     "DESCRIPTION": "Даёт !B! Защиты. NL bronze:Компиляция - восполняет !M! ОЗ.",
     "EXTENDED_DESCRIPTION": [
-      "tinkers", //медники, жестянщики
+      "жестянщики", //медники, жестянщики
       "Гаечный ключ"
     ]
   },
@@ -415,7 +415,7 @@
   },
   "bronze:ForLoop": {
     "NAME": "Цикл со счётчиком", //For loop
-    "DESCRIPTION": "След. bronze:Закодированная карта bronze:Кодируется X доп. раз. NL Сжигается.", //вроде, нормальная формулировка?
+    "DESCRIPTION": "След. bronze:Закодированная карта bronze:Кодируется X доп. раз. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "Оставляется. NL След. bronze:Закодированная карта bronze:Кодируется X доп. раз. NL Сжигается."
   },
   "bronze:Philosophize": {
@@ -444,7 +444,7 @@
     "NAME": "Фрагмент",
     "DESCRIPTION": "Наносит !D! урона. NL Даёт !B! Защиты.",
     "EXTENDED_DESCRIPTION": [
-      "чистый", //clean
+      "чистый",
       "Фрагмент"
     ]
   },
@@ -461,7 +461,7 @@
     "DESCRIPTION": "Наносит !D! урона. NL Наносит по !M! доп. урона за КАЖДЫЙ ваш Статус."
   },
   "bronze:Break": {
-    "NAME": "Сломать", //может быть, просто Брейк
+    "NAME": "Сломать",
     "DESCRIPTION": "Наносит !D! урона. NL bronze:Компиляция с *Ошибкой - bronze:Вставляет !M! случ. Статуса.",
     "EXTENDED_DESCRIPTION": [
       "сломанный",
@@ -470,7 +470,7 @@
   },
   "bronze:InfiniteLoop": {
     "NAME": "Вечный цикл",
-    "DESCRIPTION": "Наносит !D! урона. NL bronze:Компиляция - добавляет свою копию в руку и повышает свой урон на !M!.", //свой урон?
+    "DESCRIPTION": "Наносит !D! урона. NL bronze:Компиляция - добавляет свою копию в руку и повышает свой урон на !M!.",
     "UPGRADE_DESCRIPTION": "Оставляется. NL Наносит !D! урона. NL bronze:Компиляция - добавляет свою копию в руку и повышает свой урон на !M!.",
     "EXTENDED_DESCRIPTION": [
       "вечный",
@@ -487,23 +487,23 @@
     "UPGRADE_DESCRIPTION": "Повышает все числа на Функции на 1, когда вы создаёте или берёте её впервые в своём ходу."
   },
   "bronze:BronzeHeatsink": {
-    "NAME": "Bronze Heatsink",
-    "DESCRIPTION": "Whenever you play a Function, draw a card.",
-    "UPGRADE_DESCRIPTION": "Whenever you play a Function, draw 2 cards."
+    "NAME": "Бронзовый радиатор",
+    "DESCRIPTION": "Вы берёте карту, когда разыгрываете Функцию.",
+    "UPGRADE_DESCRIPTION": "Вы берёте 2 карты, когда разыгрываете Функцию."
   },
   "bronze:HardenedForm": {
     "NAME": "Призыв сферы",
     "DESCRIPTION": "Даёт !M! Защиты и наносит !M! урона случ. врагу, когда вы создаёте или разыгрываете Функцию."
   },
   "bronze:CopyPaste": {
-    "NAME": "Copy Paste",
-    "DESCRIPTION": "This turn, your next Function is played twice.",
-    "UPGRADE_DESCRIPTION": "Retain. NL This turn, your next Function is played twice."
+    "NAME": "Копировать-вставить",
+    "DESCRIPTION": "В этом ходу след. Функция разыгрывается дважды.",
+    "UPGRADE_DESCRIPTION": "Оставляется. NL В этом ходу след. Функция разыгрывается дважды."
   },
   "bronze:LegacyCode": {
-    "NAME": "Legacy Code",
-    "DESCRIPTION": "Retain. NL Put !M! card from your discard pile into your hand.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Put !M! cards from your discard pile into your hand."
+    "NAME": "Код наследства",
+    "DESCRIPTION": "Оставляется. NL Вы кладёте !M! выбранную карту из стопки сброса в руку.",
+    "UPGRADE_DESCRIPTION": "Оставляется. NL Вы кладёте !M! выбранные карты из стопки сброса в руку."
   },
   "bronze:Repulsor": {
     "NAME": "Репульсор",
@@ -557,29 +557,29 @@
     ]
   },
   "bronze:Ignite": {
-    "NAME": "Ignite",
-    "DESCRIPTION": "Apply !M! hexamod:Soulburn. NL At the end of your turn, take 2 damage.",
-    "UPGRADE_DESCRIPTION": "Apply !M! hexamod:Soulburn. NL At the end of your turn, take 4 damage."
+    "NAME": "Загораеться", //Загораеться?
+    "DESCRIPTION": "Накладывает !M! hexamod:Soulburn. NL Наносит 2 урона вам в конце вашего хода.",
+    "UPGRADE_DESCRIPTION": "Накладывает !M! hexamod:Soulburn. NL Наносит 4 урона вам в конце вашего хода."
   },
   "bronze:IntoTheVoid": {
-    "NAME": "Into the Void",
-    "DESCRIPTION": "Ethereal. NL Enemy loses !M! Strength this turn. NL Whenever this card is drawn, lose 1 Energy. NL Exhaust."
+    "NAME": "В бездне",
+    "DESCRIPTION": "Эфирная. NL Враг теряет !M! Силы до конца своего хода. NL Вы теряете 1 энергию, когда берёте эту карту. NL Сжигается."
   },
   "bronze:Lubricant": {
-    "NAME": "Lubricant",
-    "DESCRIPTION": "Draw !M! cards. NL Exhaust."
+    "NAME": "Смазка",
+    "DESCRIPTION": "Вы берёте !M! карты. NL Сжигается."
   },
   "bronze:GrievousWound": {
-    "NAME": "Grievous Wound",
-    "DESCRIPTION": "Apply !M! Vulnerable."
+    "NAME": "Тяжёлая рана",
+    "DESCRIPTION": "Накладывает !M! Уязвимости."
   },
   "bronze:Daze": {
-    "NAME": "Daze",
-    "DESCRIPTION": "Ethereal. NL Apply !M! Weak. NL Exhaust."
+    "NAME": "Ошеломление", //Ошеломление?
+    "DESCRIPTION": "Эфирная. NL Накладывает !M! Слабости. NL Сжигается."
   },
   "bronze:UnknownStatus": {
     "NAME": "Perplex",
-    "DESCRIPTION": "Deal !B! Block."
+    "DESCRIPTION": "Deal !B! Block." //наносит Защиту, лол
   },
   "bronze:TinkerersToolbox": {
     "NAME": "Набор разработчика", //Dev Tools
@@ -638,8 +638,8 @@
     ]
   },
   "bronze:BetaBuild": {
-    "NAME": "Бета-версия", //Beta Build
-    "DESCRIPTION": "Даёт !B! Защиты. NL bronze:Вставляет случ. Статус. NL bronze:Компиляция - bronze:Вставляет *Полный *выпуск.",
+    "NAME": "Бета-версия",
+    "DESCRIPTION": "Даёт !B! Защиты. NL bronze:Вставляет случ. Статус. NL bronze:Компиляция - bronze:Вставляет *Релиз.",
     "EXTENDED_DESCRIPTION": [
       "ранний",
       "Бета"
