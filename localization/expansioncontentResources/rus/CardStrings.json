@@ -39,7 +39,7 @@
   "expansioncontent:PolyBeam": {
     "NAME": "Заряд Дону",
     "DESCRIPTION": "expansioncontent:Босс - Древние. NL Наносит !D! урона дважды. Увеличивает свой урон на !M!. NL Добавляет *Щит *Дека в руку или expansioncontent:Эксгумирует её на следующий ход. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "expansioncontent:Босс - Древние. NL Наносит !D! урона дважды. Увеличивает свой урон на !M!. NL Добавляет *Щит *Дека+ в руку или expansioncontent:Эксгумирует на следующий ход. NL Сжигается.""
+    "UPGRADE_DESCRIPTION": "expansioncontent:Босс - Древние. NL Наносит !D! урона дважды. Увеличивает свой урон на !M!. NL Добавляет *Щит *Дека+ в руку или expansioncontent:Эксгумирует на следующий ход. NL Сжигается."
   },
   "expansioncontent:DecaShield": {
     "NAME": "Щит Дека",
