@@ -2,7 +2,7 @@
   "Slimebound:EmptySlimeSlot": {
     "NAME": "Слот для Слизи",
     "DESCRIPTION": [
-      "Slime minions can be placed in these slots through #ySplitting."
+      "Данные места предназначенные для Слизи, которую можно получить путём #yРазделения."
     ]
   },
   "Slimebound:BronzeSlime": {
@@ -24,14 +24,14 @@
     "NAME": "Слизень-мусорщик",
     "DESCRIPTION": [
       "Наносит #b",
-      " урона в начале хода. NL Respawns at the end of your turn if #yAbsorbed. NL Не отнимает Макс. ОЗ."
+      " урона в начале хода. NL Может быть воскрешён при #yПоглощении. NL Не отнимает Макс. ОЗ."
     ]
   },
   "Slimebound:GreedOozeSlime": {
     "NAME": "Жадная слизь",
     "DESCRIPTION": [
       "Наносит #b",
-      " урона в начале хода. NL Respawns at the end of your turn if #yAbsorbed. NL Не отнимает Макс. ОЗ."
+      " урона в начале хода. NL Может быть воскрешён при #yПоглощении. NL Не отнимает Макс. ОЗ."
     ]
   },
   "Slimebound:TorchHeadSlime": {

@@ -107,15 +107,15 @@
     ]
   },
   "Slimebound:FormOfPuddle": {
-    "NAME": "Shape of Puddle",
+    "NAME": "Форма лужи",
     "DESCRIPTION": "Даёт 1 Неосязаемости. NL Сжигается."
   },
   "Slimebound:GrowthPunch": {
-    "NAME": "Growth Punch",
+    "NAME": "Растущий кулак",
     "DESCRIPTION": "Наносит !D! урона. NL Даёт !B! Защиты. NL slimeboundmod:Слизывание увеличивает урон и защиту карты на !M! ."
   },
   "Slimebound:CheckThePlaybook": {
-    "NAME": "Consult Playbook",
+    "NAME": "Совет по страте",
     "DESCRIPTION": "Добавляет 4 случайных slimeboundmod:Сноса в руку. Они стоят на 1 меньше до конца боя. NL Сжигается."
   },
   "Slimebound:Recycling": {
@@ -228,16 +228,16 @@
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL Добавляет случайный Улучшенный slimeboundmod:Снос в руку. Он стоит 0 в этом ходу."
   },
   "Slimebound:CorrosiveSpit": {
-    "NAME": "Corrosive Spit",
+    "NAME": "Едкое деление",
     "DESCRIPTION": "Накладывает !SlimeboundSlimed! slimeboundmod:Слизи."
   },
   "Slimebound:Chomp": {
-    "NAME": "Chomp",
+    "NAME": "Чавкать",
     "DESCRIPTION": "Наносит !D! урона. NL Уменьшает стоимость случайного slimeboundmod:Сноса в руке до 0 в этом ходу.",
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Уменьшает стоимость случайного slimeboundmod:Сноса в руке до 0 в этом бою."
   },
   "Slimebound:DouseInSlime": {
-    "NAME": "Douse in Slime",
+    "NAME": "Залить слизью",
     "DESCRIPTION": "Накладывает !SlimeboundSlimed! slimeboundmod:Слизи. NL Следующая Атака не снимет slimeboundmod:Слизь."
   },
   "Slimebound:FlameTackle": {
@@ -250,11 +250,11 @@
     "UPGRADE_DESCRIPTION": "Накладывает !SlimeboundSlimed! slimeboundmod:Слизи на случайного врага !M! раза."
   },
   "Slimebound:GoopSpray": {
-    "NAME": "Goop Spray",
+    "NAME": "Вязкая струя",
     "DESCRIPTION": "Даёт !B! Защиты. Накладывает !SlimeboundSlimed! slimeboundmod:Слизи и !M! Слабости на ВСЕХ врагов."
   },
   "Slimebound:MassFeed": {
-    "NAME": "Mass Feed",
+    "NAME": "Сожрать всех",
     "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Повышает Макс ОЗ на !M! , если Казнит врага. NL Сжигается."
   },
   "Slimebound:ViciousTackle": {
@@ -272,11 +272,11 @@
     "DESCRIPTION": "Наносит !D! урона. NL slimeboundmod:Слизывание восполняет ОЗ равное slimeboundmod:Слизи на враге до !M!. NL Сжигается."
   },
   "Slimebound:Equalize": {
-    "NAME": "Equalize",
+    "NAME": "Уравнять",
     "DESCRIPTION": "Наносит !D! урона. NL Восполняет !M! ОЗ. NL slimeboundmod:Слизывание разыгрывает дважды. NL Сжигается."
   },
   "Slimebound:DisruptingSlam": {
-    "NAME": "Disrupting Slam",
+    "NAME": "Прервать хлопком",
     "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. Накладывает !M! Слабости на каждого врага, который собирается атаковать."
   },
   "Slimebound:PrepareCrush": {
@@ -294,11 +294,11 @@
     "DESCRIPTION": "Добавляет *В *слизи в руку. NL Сжигается."
   },
   "Slimebound:DivideAndConquer": {
-    "NAME": "Divide & Conquer",
+    "NAME": "Разделяй & Властвуй",
     "DESCRIPTION": "Наносит !D! урона случайному врагу за каждую Слизь. NL slimeboundmod:Поглощает всю Слизь. NL Сжигается."
   },
   "Slimebound:ServeAndProtect": {
-    "NAME": "Serve & Protect",
+    "NAME": "Служи & Защищай",
     "DESCRIPTION": "Даёт !B! Защиты и 1 bronze:Неуловимости за каждую Слизь. NL slimeboundmod:Поглощает всю Слизь. NL Сжигается."
   },
   "Slimebound:SplitBruiser": {
@@ -327,12 +327,12 @@
     "UPGRADE_DESCRIPTION": "Выберите 1 из 3 slimeboundmod:Специальных Слизей и slimeboundmod:Разделитесь на неё. NL slimeboundmod:Командует. NL Сжигается."
   },
   "Slimebound:MinionMaster": {
-    "NAME": "Minion Master",
+    "NAME": "Мастер слуг",
     "DESCRIPTION": "Вы slimeboundmod:Командуете доп. раз, когда slimeboundmod:Командуете.",
     "UPGRADE_DESCRIPTION": "Начальная. NL Вы slimeboundmod:Командуете доп. раз, когда slimeboundmod:Командуете."
   },
   "Slimebound:BestDefense": {
-    "NAME": "Recklessness",
+    "NAME": "Безрассудство",
     "DESCRIPTION": "slimeboundmod:Сносы теперь наносят на !M! больше урона врагам, и на 1 больше вам."
   },
   "Slimebound:Darklings": {
@@ -340,7 +340,7 @@
     "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Тёмную_Слизь 3 раза. NL Сжигается."
   },
   "Slimebound:SlimeSlap": {
-    "NAME": "Slime Slap",
+    "NAME": "Слизнешлёп",
     "DESCRIPTION": "Наносит !D! урона. NL Не slimeboundmod:Слизывает slimeboundmod:Слизь."
   },
   "Slimebound:OneTwoCombo": {
@@ -350,11 +350,11 @@
   },
   "Slimebound:ForwardTackle": {
     "NAME": "Командующий снос",
-    "DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL slimeboundmod:Командует дважды."
+    "DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL slimeboundmod:Командует дважды.",
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. Получите !SlimeboundSelfharm! урона. NL slimeboundmod:Командует трижды."
   },
   "Slimebound:TagTeam": {
-    "NAME": "Tag Team",
+    "NAME": "Работа в паре",
     "DESCRIPTION": "Наносит !D! урона. NL slimeboundmod:Разделяет на случайную Слизь. NL slimeboundmod:Командует !M! раза.",
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL slimeboundmod:Разделяет на случайную slimeboundmod:Специальную Слизь. NL slimeboundmod:Командует !M! раза."
   },
@@ -368,15 +368,15 @@
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет случайную Улучшенную карту с 0 стоимостью в руку. NL Сжигается."
   },
   "Slimebound:Schlurp": {
-    "NAME": "Schlurp",
+    "NAME": "Schlurp", //Я не наю как это переводить т.к. оно немецкое
     "DESCRIPTION": "Даёт !B! Защиты. NL Добавляет !M! *Лизя в руку."
   },
   "Slimebound:SplitGreed": {
-    "NAME": "Оживить Greed",
-    "DESCRIPTION": "Оставляется. NL Призывает Greed Ooze. NL Сжигается."
+    "NAME": "Оживить жадность",
+    "DESCRIPTION": "Оставляется. NL Призывает Жадную слизь. NL Сжигается."
   },
   "Slimebound:SplitScrap": {
-    "NAME": "Оживить Scrap",
-    "DESCRIPTION": "Оставляется. NL Призывает Scrap Ooze. NL Сжигается."
+    "NAME": "Оживить мусор",
+    "DESCRIPTION": "Оставляется. NL Призывает Слизьня-мусорщика. NL Сжигается."
   }
 } 

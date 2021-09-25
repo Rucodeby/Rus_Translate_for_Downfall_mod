@@ -2,7 +2,7 @@
   "Slimebound:Hunted": {
     "NAME": "The Boss Approaches",
     "DESCRIPTIONS": [
-      "A booming voice echoes the spire... NL NL #r~SLIME CRUSH!!!~ NL NL The hulking slime quickly catches up to you, blocking your path forward. It appears it has grown since the Exordium, consuming and strengthening itself as it followed your trail up the Spire.",
+      "A booming voice echoes the spire... NL NL #r~СЛИЗЬ КРУШИТЬ!!!~ NL NL The hulking slime quickly catches up to you, blocking your path forward. It appears it has grown since the Exordium, consuming and strengthening itself as it followed your trail up the Spire.",
       "Can it really be this easy?",
       "You dispatch the Slime Boss with ease, claiming its prizes possession for yourself. It's a very stylish hat, after all."
     ],
@@ -20,7 +20,7 @@
     ],
     "OPTIONS": [
       "[Собрать золото] #gПолучить #g75 #gЗолота.",
-      "[Нанять] #rПотерять #r75 #rЗолота. # #gПолучить #yЖадную #yСлизь.",
+      "[Нанять] #rПотерять #r75 #rЗолота. #gПолучить #yЖадную #yСлизь.",
       "[Уйти]"
       "[Заблокировано] Требуется 75 Душ."
     ]
@@ -41,7 +41,7 @@
       "~It's~ ~like~ ~us...~",
       "~СЛАВНАЯ~ #r~ШЛЯПА!!!~"
     ]
-  },
+  }, //строчки темнышей
   "Slimebound:ScrapOoze": {
     "NAME": "Слизень-мусорщик",
     "DESCRIPTIONS": [
