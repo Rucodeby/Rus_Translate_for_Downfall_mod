@@ -34,39 +34,39 @@
     ]
   },
   "Slimebound:BuffAttackSlimesPower": {
-    "NAME": "Upgrade: Bruiser",
+    "NAME": "Борцовское улучшение",
     "DESCRIPTIONS": [
-      "#yBruiser Slimes deal #b",
-      " more damage."
+      "#yСлизь-борца наносит на #b",
+      " больше урона."
     ]
   },
   "Slimebound:BuffPoisonSlimesPower": {
-    "NAME": "Upgrade: Acid",
+    "NAME": "Кислотное улучшение",
     "DESCRIPTIONS": [
-      "#yPoisoning Slimes apply #b",
-      " more #yPoison."
+      "#yЯдослизь накладывает на #b",
+      " больше #yЯда."
     ]
   },
   "Slimebound:BuffSlimingSlimesPower": {
-    "NAME": "Upgrade: Mire",
+    "NAME": "Болотное улучшение",
     "DESCRIPTIONS": [
-      "#ySliming Slimes apply #b",
-      " more #yGoop."
+      "#yБолотная #yСлизь накладывает на #b",
+      " больше #yСлизи."
     ]
   },
   "Slimebound:BuffShieldSlimesPower": {
-    "NAME": "Upgrade: Leeching",
+    "NAME": "Пиявочное улучшение",
     "DESCRIPTIONS": [
-      "#yLeeching Slimes deal #b",
-      " more damage."
+      "#yСлизь-пиявка наносит на #b",
+      " больше урона."
     ]
   },
   "Slimebound:HexSlimePerTurnPower": {
-    "NAME": "Hex Power",
+    "NAME": "Гексаталант",
     "DESCRIPTIONS": [
-      "Spawn a #yGhostflame slime at the start of your next turn.",
-      "Spawn a #yGhostflame slime at the start of your next #b",
-      " turns."
+      "Призывает #yСлизь #yГексаогня в начале вашего следующего хода.",
+      "Призывает #yСлизь #yГексаогня в начале ваших следующих #b",
+      " ходов."
     ]
   },
   "Slimebound:ProtectTheBoss": {
@@ -74,16 +74,16 @@
     "DESCRIPTIONS": [
       "Предотвращает следующий урон от атаки врага #yПоглощая первую Слизь.",
       "Предотвращает #b",
-      " следующих урона от атак врагов #yПоглощая первую Слизь."
+      " следующих урона от атак врага #yПоглощая первую Слизь."
     ]
   },
   "Slimebound:SplitForLessPower": {
-    "NAME": "Efficient Goo",
+    "NAME": "Эффективность слизи",
     "DESCRIPTIONS": [
-      "#ySplitting costs #b",
-      " less HP.  Add #b",
-      " random #ySplit card to your hand each turn.",
-      " random #ySplit cards to your hand each turn."
+      "#yРазделение стоит на #b",
+      " ОЗ меньше. Добавляет #b",
+      " случайную карту с #yРазделением в руку в начале каждого вашего хода.",
+      " случайные карты с #yРазделением в руку в начале каждого вашего хода."
     ]
   },
   "Slimebound:ComboAttackPower": {
@@ -99,7 +99,7 @@
     ]
   },
   "Slimebound:RetainCardsOneTurnPower": {
-    "NAME": "Preparing Cards",
+    "NAME": "Заготовка карт",
     "DESCRIPTIONS": [
       "Оставляет #b",
       " карту в этом ходу.",
@@ -133,7 +133,7 @@
     "NAME": "Перенапряжение",
     "DESCRIPTIONS": [
       "#yПоглощает всю Слизь в следующем ходу.",
-      " turns from now, #yAbsorb all of your spawned Slimes."
+      " следующих хода вся Слизь будет #yПоглощаться."
     ]
   },
   "Slimebound:TackleModifyDamagePower": {
@@ -158,7 +158,7 @@
     ]
   },
   "Slimebound:PreventSlimeDecayPower": {
-    "NAME": "Doused in Slime",
+    "NAME": "Залить слизью",
     "DESCRIPTIONS": [
       "Следующая #yАтака не снимет #yСлизь с данного врага.",
       "Следующие #b",
@@ -208,10 +208,10 @@
     ]
   },
   "Slimebound:PoisonThornsPower": {
-    "NAME": "Acidic Goop",
+    "NAME": "Кислотная слизь",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yPoison when you #yAttack an enemy who has #yGoop."
+      "Накладывает #b",
+      " #yЯда, когда вы атакуете врага покрытым #yСлизью."
     ]
   },
   "Slimebound:SlimeRitualPower": {
@@ -237,10 +237,10 @@
     ]
   },
   "Slimebound:AcidTonguePower": {
-    "NAME": "Acid Tongue",
+    "NAME": "Кислотный язык",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yPoison whenever you apply #yGoop."
+      "Накладывает #b",
+      " #yЯда когда вы накладываете #yСлизь."
     ]
   },
   "Slimebound:AcidTonguePowerUpgraded": {
@@ -251,17 +251,17 @@
     ]
   },
   "Slimebound:SelfDamageSlimedPower": {
-    "NAME": "Stray Goop",
+    "NAME": "Бродячая слизь",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yGoop to a random enemy whenever you lose HP."
+      "Накладывает #b",
+      " #yСлизи на случайного врага, когда вы теряете ОЗ."
     ]
   },
   "Slimebound:TackleBuffPower": {
-    "NAME": "Offensive Tackle",
+    "NAME": "Снос наступления",
     "DESCRIPTIONS": [
-      "Cards containing \"Tackle\" deal #b",
-      " more damage to enemies."
+      "Карты содержащие \"Снос\" в названии наносят на #b",
+      " больше урона врагам."
     ]
   },
   "Slimebound:PolyBeamAgainPower": {
@@ -278,10 +278,10 @@
       "#yPoly #yBeam+ will be played at the start of your next turn. ",
       "#yPoly #yBeam+ will be played at the start of your next #b",
       " turns."
-    ]
+    ]//Это стража
   },
   "Slimebound:FirmFortitudePower": {
-    "NAME": "Feel Our Pain",
+    "NAME": "Почувствуй нашу боль",
     "DESCRIPTIONS": [
       "The next time you would take damage or lose HP on your turn, an enemy takes that much damage instead.",
       "The next #b",
@@ -293,28 +293,28 @@
     ]
   },
   "Slimebound:NextTurnGainStrengthPower": {
-    "NAME": "Charging Up",
+    "NAME": "Зарядка",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yStrength on your next turn."
+      "Даёт #b",
+      " #yСилы в начале вашего следующего хода."
     ]
   },
   "Slimebound:NextTurnGainSlimeCrush": {
-    "NAME": "Preparing to Crush",
+    "NAME": "Приготовиться крушить",
     "DESCRIPTIONS": [
-      "Gain a #gSLIME #gCRUSH on your next turn.",
-      "Gain a #gSLIME #gCRUSH+ on your next turn.",
-      "Gain #b",
-      " copies of #gSLIME #gCRUSH on your next turn.",
-      " copies of #gSLIME #gCRUSH+ on your next turn."
+      "Добавляет #gСЛИЗЬ #gКРУШИТЬ в руку на след. ход.",
+      "Добавляет #gСЛИЗЬ #gКРУШИТЬ+ в руку на след. ход.",
+      "Добавляет #b",
+      " копии #gСЛИЗЬ #gКРУШИТЬ в руку на след. ход.",
+      " копии #gСЛИЗЬ #gКРУШИТЬ+ в руку на след. ход."
     ]
   },
   "Slimebound:StunnedPower": {
-    "NAME": "Completely Exhausted",
+    "NAME": "Полное истощение",
     "DESCRIPTIONS": [
-      "Skip your next turn.",
-      "Skip your next #b",
-      " turns."
+      "Вы пропускаете следующий ход.",
+      "Вы пропускаете #b",
+      " следующих хода."
     ]
   },
   "Slimebound:NextTurnGainHyperBeam": {
@@ -323,165 +323,165 @@
       "Gain a #yHyper #yBeam on your next turn.",
       "Gain #b",
       " copies of #yHyper #yBeam on your next turn."
-    ]
+    ]//Тер, это твоё сам переводи
   },
   "Slimebound:NextTurnGainDivider": {
-    "NAME": "Preparing to Divide",
+    "NAME": "Приготовиться разделять",
     "DESCRIPTIONS": [
-      "Gain a #yDivide on your next turn.",
-      "Gain #b",
-      " copies of #yDivide on your next turn."
-    ]
+      "Добавляет #yРазедлять в руку на следующий ход.",
+      "Добавляет #b",
+      " копии #yРазделять в руку на следующий ход."
+    ]//Вероятно неиспользуемая куча текста ниже, но переведу если кто то вдруг захочет консолью пользоваться
   },
   "Slimebound:StudyAutomatonPower": {
-    "NAME": "Study Automaton",
+    "NAME": "Обучение автоматона",
     "DESCRIPTIONS": [
-      "Gain a random Automaton card at the start of next turn.",
-      "Gain a random Automaton card at the start of your next ",
-      " turns."
+      "Добавляет случайную карту Автоматона в руку на следующий ход.",
+      "Добавляет случайную карту Автоматона в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyAutomatonPowerUpgraded": {
-    "NAME": "Study Automaton+",
+    "NAME": "Обучение автоматона+",
     "DESCRIPTIONS": [
-      "Gain a random Upgraded Automaton card at the start of next turn.",
-      "Gain a random Upgraded Automaton card at the start of your next ",
-      " turns."
+      "Добавляет случайную улучшенную карту Автоматона в руку на следующий ход.",
+      "Добавляет случайную улучшенную карту Автоматона в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyAwakenedPower": {
-    "NAME": "Study Awakened One",
+    "NAME": "Обучение пробуждённого",
     "DESCRIPTIONS": [
-      "Gain a random Awakened One card at the start of next turn.",
-      "Gain a random Awakened One card at the start of your next ",
-      " turns."
+      "Добавляет случайную карту Пробуждённого в руку на следующий ход.",
+      "Добавляет случайную карту Пробуждённого в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyAwakenedPowerUpgraded": {
-    "NAME": "Study Awakened One+",
+    "NAME": "Обучение пробуждённого+",
     "DESCRIPTIONS": [
-      "Gain a random Upgraded Awakened One card at the start of next turn.",
-      "Gain a random Upgraded Awakened One card at the start of your next ",
-      " turns."
+      "Добавляет случайную улучшенную карту Пробуждённого в руку на следующий ход.",
+      "Добавляет случайную улучшенную карту Пробуждённого в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:AwakenedOnePower": {
-    "NAME": "Dark Ritual",
+    "NAME": "Тёмный ритуал",
     "DESCRIPTIONS": [
-      "Gain ",
-      " Strength if this enemy does not attack on its turn."
+      "Даёт ",
+      " #yСилы если данный враг не собирается атаковать."
     ]
   },
   "Slimebound:StudyChampPower": {
-    "NAME": "Study Champ",
+    "NAME": "Обучение чемпиона",
     "DESCRIPTIONS": [
-      "Gain a random Champ card at the start of next turn.",
-      "Gain a random Champ card at the start of your next ",
-      " turns."
+      "Добавляет случайную карту Чемпиона в руку на следующий ход.",
+      "Добавляет случайную карту Чемпиона в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyChampPowerUpgraded": {
-    "NAME": "Study Champ+",
+    "NAME": "Обучение чемпиона+",
     "DESCRIPTIONS": [
-      "Gain a random Upgraded Champ card at the start of next turn.",
-      "Gain a random Upgraded Champ card at the start of your next ",
-      " turns."
+      "Добавляет случайную улучшенную карту Чемпиона в руку на следующий ход.",
+      "Добавляет случайную улучшенную карту Чемпиона в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyCollectorPower": {
-    "NAME": "Study Collector",
+    "NAME": "Обучение коллекционера",
     "DESCRIPTIONS": [
-      "Gain a random Collector card at the start of next turn.",
-      "Gain a random Collector card at the start of your next ",
-      " turns."
+      "Добавляет случайную карту Коллекционера в руку на следующий ход.",
+      "Добавляет случайную карту Коллекционера в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyCollectorPowerUpgraded": {
-    "NAME": "Study Collector+",
+    "NAME": "Обучение коллекционера+",
     "DESCRIPTIONS": [
-      "Gain a random Upgraded Collector card at the start of next turn.",
-      "Gain a random Upgraded Collector card at the start of your next ",
-      " turns."
+      "Добавляет случайную улучшенную карту Коллекционера в руку на следующий ход.",
+      "Добавляет случайную улучшенную карту Коллекционера в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyGuardianPower": {
-    "NAME": "Study Guardian",
+    "NAME": "Обучение стража",
     "DESCRIPTIONS": [
-      "Gain a random Guardian card at the start of next turn.",
-      "Gain a random Guardian card at the start of your next ",
-      " turns."
+      "Добавляет случайную карту Стража в руку на следующий ход.",
+      "Добавляет случайную карту Стража в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyGuardianPowerUpgraded": {
-    "NAME": "Study Guardian+",
+    "NAME": "Обучение стража+",
     "DESCRIPTIONS": [
-      "Gain a random Upgraded Guardian card at the start of next turn.",
-      "Gain a random Upgraded Guardian card at the start of your next ",
-      " turns."
+      "Добавляет случайную улучшенную карту Стража в руку на следующий ход.",
+      "Добавляет случайную улучшенную карту Стража в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyHexaghostPower": {
-    "NAME": "Study Hexaghost",
+    "NAME": "Обучение гексадуха",
     "DESCRIPTIONS": [
-      "Gain a random Hexaghost card at the start of next turn.",
-      "Gain a random Hexaghost card at the start of your next ",
-      " turns."
+      "Добавляет случайную карту Гексадуха в руку на следующий ход.",
+      "Добавляет случайную карту Гексадуха в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyHexaghostPowerUpgraded": {
-    "NAME": "Study Hexaghost+",
+    "NAME": "Обучение гексадуха+",
     "DESCRIPTIONS": [
-      "Gain a random Upgraded Hexaghost card at the start of next turn.",
-      "Gain a random Upgraded Hexaghost card at the start of your next ",
-      " turns."
+      "Добавляет случайную улучшенную карту Гексадуха в руку на следующий ход.",
+      "Добавляет случайную улучшенную карту Гексадуха в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyShapesPower": {
-    "NAME": "Study Donu & Deca",
+    "NAME": "Обучение Дону & Дэки",
     "DESCRIPTIONS": [
-      "Gain a random Donu & Deca card at the start of next turn.",
-      "Gain a random Donu & Deca card at the start of your next ",
-      " turns."
+      "Добавляет случайную карту Дону & Дэки в руку на следующий ход.",
+      "Добавляет случайную карту Дону & Дэки в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyShapesPowerUpgraded": {
-    "NAME": "Study Donu & Deca+",
+    "NAME": "Обучение Дону & Дэки+",
     "DESCRIPTIONS": [
-      "Gain a random Upgraded Donu & Deca card at the start of next turn.",
-      "Gain a random Upgraded Donu & Deca card at the start of your next ",
-      " turns."
+      "Добавляет случайную улучшенную карту Дону & Дэки в руку на следующий ход.",
+      "Добавляет случайную улучшенную карту Дону & Дэки в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyTimeEaterPower": {
-    "NAME": "Study Time Eater",
+    "NAME": "Обучение пожирателя времени",
     "DESCRIPTIONS": [
-      "Gain a random Time Eater card at the start of next turn.",
-      "Gain a random Time Eater card at the start of your next ",
-      " turns."
+      "Добавляет случайную карту Пожирателя времени в руку на следующий ход.",
+      "Добавляет случайную карту Пожирателя времени в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:StudyTimeEaterPowerUpgraded": {
-    "NAME": "Study Time Eater+",
+    "NAME": "Обучение пожирателя времени+",
     "DESCRIPTIONS": [
-      "Gain a random Upgraded Time Eater card at the start of next turn.",
-      "Gain a random Upgraded Time Eater card at the start of your next ",
-      " turns."
+      "Добавляет случайную улучшенную карту Пожирателя времени в руку на следующий ход.",
+      "Добавляет случайную улучшенную карту Пожирателя времени в руку следующие ",
+      " хода."
     ]
   },
   "Slimebound:GreedRespawnPower": {
-    "NAME": "Greed Recovering",
+    "NAME": "Восстановление жадности",
     "DESCRIPTIONS": [
-      "#yGreed #yOoze will respawn at the end of your turn."
+      "#yЖадная #yСлизь возродится в конце вашего хода."
     ]
   },
   "Slimebound:ScrapRespawnPower": {
-    "NAME": "Scrap Recovering",
+    "NAME": "Восстановление мусора",
     "DESCRIPTIONS": [
-      "#yScrap #yOoze will respawn at the end of your turn."
+      "#yСлизень-мусорщик возродится в конце вашего хода."
     ]
   },
   "Slimebound:BuffSecondarySlimeEffectsPower": {
-    "NAME": "Minion Master",
+    "NAME": "Мастер слуг",
     "DESCRIPTIONS": [
       "Вы #yКомандуете доп. раз, когда #yКомандуете.",
       "Вы #yКомандуете доп. #b",
@@ -489,25 +489,25 @@
     ]
   },
   "Slimebound:TackleSelfDamagePreventPower": {
-    "NAME": "Reckless",
+    "NAME": "Безрассудство",
     "DESCRIPTIONS": [
-      "Карты содержащие \"Снос\" в названии наносят на #b",
+      "Карты содержащие «Снос» в названии наносят на #b",
       " больше урона вам."
     ]
   },
   "Slimebound:GoopArmorPower": {
     "NAME": "Слизнеброня",
     "DESCRIPTIONS": [
-      "Whenever you #yAttack an enemy who has #yGoop, gain #b",
-      " #yBlock."
+      "Даёт #b",
+      " #yЗащиты, когда вы #yСлизываете."
     ]
   },
   "Slimebound:CommandOnPlayPower": {
-    "NAME": "Rallying",
+    "NAME": "Сплочение",
     "DESCRIPTIONS": [
-      "The next time you play a card this turn, #yCommand.",
-      "The next ",
-      " times you play a card this turn, #yCommand."
+      "Следующая разыгранная карта #yКомандует.",
+      "Следующие ",
+      " разыгранные карты #yКомандуют."
     ]
   },
   "Slimebound:GoopPerTurnPower": {
