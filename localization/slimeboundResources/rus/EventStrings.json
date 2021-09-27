@@ -1,14 +1,14 @@
 {
   "Slimebound:Hunted": {
-    "NAME": "The Boss Approaches",
+    "NAME": "Стычка боссов",
     "DESCRIPTIONS": [
-      "A booming voice echoes the spire... NL NL #r~СЛИЗЬ КРУШИТЬ!!!~ NL NL The hulking slime quickly catches up to you, blocking your path forward. It appears it has grown since the Exordium, consuming and strengthening itself as it followed your trail up the Spire.",
-      "Can it really be this easy?",
-      "You dispatch the Slime Boss with ease, claiming its prizes possession for yourself. It's a very stylish hat, after all."
+      "Гулкий голос эхом проносится по шпилю... NL NL #r~СЛИЗЬ КРУШИТЬ!!!~ NL NL Громоздкая слизь быстро настигает вас и преграждает путь вперёд. Похоже оно следовало за вами с самого Преддверия, укрепляя себя поглощением остатков на пути.",//немного отсебятины...
+      "Неужели это и правда так просто?",
+      "Вы с лёгкостью расправляетесь со Слизнебоссом и забираете все его награды с пути, себе. В конце концов, это очень моднявая шляпа."
     ],
     "OPTIONS": [
-      "[Confront] #rСразиться #rсо #rСлизнебоссом. #gПолучить #gМаленькую #gшляпу-котелок.",
-      "[Убежать в ужасе] #rПолучить #rПроклятие #r- #rShame."
+      "[Столкнуться] #rСразиться #rсо #rСлизнебоссом. #gПолучить #gМаленькую #gшляпу-котелок.",
+      "[Убежать в ужасе] #rПолучить #rПроклятие #r- #rСтыд."
     ]
   },
   "Slimebound:WorldofGoop": {
@@ -29,16 +29,16 @@
     "NAME": "TalkStrings",
     "DESCRIPTIONS": [
       "~Не~ ~поглощай~ ~меня!~",
-      "~Taking~ ~our~ ~souls?~",
-      "~It~ ~will~ ~feed~ ~on~ ~us...~",
+      "~Забираешь~ ~наши~ ~души?~",//*starts play soviet anthem*
+      "~Оно~ ~хочет~ ~наесться~ ~на~ ~нас...~",//не уверен что правильно перевёл, но вроде норм
       "~Босс!~",
-      "That hat... NL #r~I~ #r~must~ #r~have~ #r~it!~",
-      "~Why~ ~would~",
-      "~it~ ~not~",
-      "~let~ ~us~ ~play?~",
-      "~It~ ~will~ ~consume~ ~us...~",
-      "~It's~ ~so~ ~strong...~",
-      "~It's~ ~like~ ~us...~",
+      "Эта шляпа... NL #r~Я~ #r~должен~ #r~заполучить~ #r~её!~",
+      "~Зачем~",
+      "~it~ ~not~",//к чему это вообще...
+      "~Позволишь~ ~нам~ ~поиграть?~",
+      "~Оно~ ~хочет~ ~поглотить~ ~нас...~",
+      "~Оно~ ~слишком~ ~сильное...~",
+      "~Оно~ ~похоже~ ~на~ ~нас...~",
       "~СЛАВНАЯ~ #r~ШЛЯПА!!!~"
     ]
   }, //строчки темнышей
@@ -49,8 +49,8 @@
     ],
     "OPTIONS": [
       "[Нанять] #rПотерять ",
-      ". Получить #gСлизня-мусорщика. #rLocked if you Reach Inside.",
-      "[Нанять] Закрыто (Angered the Scrap Ooze)",
+      ". Получить #gСлизня-мусорщика. #rЗакрывается если залезть внутрь.",
+      "[Нанять] Закрыто (Слизень-мусорщик был разозлён)",
       "[Уйти]",
       "[Нанять] Закрыто (Требуется Обычная или Необычная реликвия)"
     ]
@@ -58,17 +58,17 @@
   "Slimebound:ArtOfSlimeWar": {
     "NAME": "Искусство войны Слизней",
     "DESCRIPTIONS": [
-      "You come across a disgusting pedestal with a #gglowing #gbook sitting atop. It appears this book contains the complicated and advanced combat techniques used by the #gSlime #gBoss and its minions.",
+      "Вы наткнулись на омерзительный пьедестал с #gсветящейся #gкнигой, лежащая на вершине. Похоже, в ней описаны сложные и продвинутые боевые приёмы #gСлизнебосса и его приспешников.",//Светится зелёненьким?!!??!
       "As you reach for the book, you hear several traps activate.  You won't be able to avoid them all.",
-      "You steal the book and manage to avoid the traps, but fall into a horrible puddle of goop.",
+      "Вам удаётся украсть книгу и чудом избежать ловушек, но вы падаете в ужасную лужу слизи.",
       "Grabbing the book revealed a trap of spikes below the floor, which you narrowly escape, but not without a severe gash.",
       "As soon as the book leaves the pedestal, you feel it draining your very life essence. It had better be worth it.",
-      "You decide to leave the book where it is and continue on.",
+      "Вы решаете оставить книгу на своём месте и продолжить путь.",
       "You can't figure out how the Slime minions are a threat to anyone - it appears the only tactic they use is to violently throw their bodies at enemies.  Well, if it works for them..."
     ],
     "OPTIONS": [
       "[Прочитать] #gУбрать #gвсе Удары. #gПолучить #g3 #gУлучшенных #gСноса.",
-      "[Забрать] #gПолучить #gConsult #gPlaybook. #rTrigger #ra #rtrap.",
+      "[Забрать] #gПолучить #gConsult #gPlaybook. #rАктивировать #rловушку.",
       "[Уйти]",
       "[Dive] #rПолучить #rПроклятие #r- #rМерзость.",
       "[Be Patient] #rПолучить #r",
@@ -93,10 +93,10 @@
   "Slimebound:BackToBasics": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "When one sheep leads the way, all the rest follow."
+      "Когда одна овца идёт впереди, все остальные идут за ней."
     ],
     "OPTIONS": [
-      "[Inspiration] #gДобавить #gКомандование #gко #gвсем #gУдарам #gи #gОборонам.",
+      "[Вдохновиться] #gДобавить #gКомандование #gко #gвсем #gУдарам #gи #gОборонам.",
       "[Закрыто] Требуется Удар или Оборона."
     ]
   }
