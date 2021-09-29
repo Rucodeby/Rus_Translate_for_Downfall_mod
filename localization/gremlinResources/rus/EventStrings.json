@@ -7,10 +7,10 @@
   "Gremlin:BackToBasics": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "A flexible mind is not burdened by doubt."
+      "Гибкий ум не захватить сомнениями."
     ],
     "OPTIONS": [
-      "[Caprice] #gЗаменить все #gУдары и #gОбороны на #gЗаточки и #gОпеки.",
+      "[Прихоть] #gЗаменить все #gУдары и #gОбороны на #gЗаточки и #gОпеки.",
       "[Закрыто] Требуется «Удар» или «Оборона»."
     ]
   },
@@ -43,20 +43,20 @@
     ]
   },
   "Gremlin:ScrapOozeReplacement": {
-    "NAME": "Scrap Ooze",
+    "NAME": "Слизень-мусорщик",
     "DESCRIPTIONS": [
-      "As you walk into the room you hear a ~gurgling~ and the @grinding@ of metals. It's a #yScrap #yOoze! These funny little slimes always find #ygoodies. Even better, they are too slow and too weak to stop you from taking them! You know the best ways of getting around their spiky acid. Unfortunately, it is slow and takes some #rfocus.",
-      "Careful, careful. You avoid the scrapy bits and and the stabby bits. If only it weren't so #r@boring.@ NL But if you keep at it, you know you'll get a shiny #yrelic...",
-      "#gSuccess! NL After rummaging through the metal and burning acid, you finally grab hold of a #yrelic and yank it out. NL You pull your way out of the ooze clutching your new toy.",
-      "This is way too #rboring. What were you even doing again?",
-      "You decide to leave the area. NL The slime pays no attention, content with its meal."
+      "Вы заходите в комнату, заслышав ~бульканье~ и @скрежет@ @металла.@ Это же #yСлизень-мусорщик! Эти маленькие слизни постоянно находят всякие #yвкусности. А ещё прекрасно то, что они такие медленные и слишком слабые, чтобы помешать вам что то забрать у них! И вы знаете лучшие способы обхода их колючек и кислоты. К сожалению они требуют #rконцентрации и неспешливости.",
+      "Аккуратно, аккуратно. Вы избегаете острых и колющих кусочков. Только если бы это не было так #r@скучно.@ NL Но если продолжить в том же духе можно получить сверкающую #yреликвию...",
+      "#gУспех! NL Порывшись в ржавых обломках и обжигающей кислоте, вы наконец-то ухватываетесь за #yреликвию и выдёргиваете её наружу. NL Вы достаёте руку из слизи, сжимая в руках новую игрушку.",
+      "Это слишком #rскучно. What were you even doing again?",
+      "Вы решаете покинуть это место. NL Слизень вас даже не замечает, наслаждаясь своим обедом."
     ],
     "OPTIONS": [
-      "[Reach Carefully] #r",
-      "%: #rBecome #rCursed #r- #rScatterbrained. #g",
-      "%: #gFind #ga #gRelic.",
+      "[Аккуратно достать] #r",
+      "%: #rполучить #rпроклятие #r- #rScatterbrained. #g",
+      "%: #gнайти #gреликвию.",
       "[Уйти]",
-      "[Be Careful] #r"
+      "[Быть аккуратнее] #r"
     ]
   },
   "Gremlin:SensoryStone": {
@@ -94,8 +94,8 @@
       "He lunges at you, but you are ready. NL You slash him open before he can get you with his shiv. NL You treat yourself to your prize, but sadly the Wheel disappears before you can loot it too."
     ],
     "OPTIONS": [
-      "[Приз!] #gPREEMPTIVE #gSTRIKE!",
-      "[Loot]"
+      "[Приз!] #gУДАР #gНА #gУПРЕЖДЕНИЕ!",
+      "[Кража]"
     ]
   },
   "Gremlin:WingStatue": {
