@@ -25,6 +25,6 @@
   },
  "downfall:Scatterbrained": {
     "NAME": "Scatterbrained",
-    "DESCRIPTION": "Неиграбельная. NL When drawn, if it is your turn, fill your hand with Echoes of this card."
+    "DESCRIPTION": "Неиграбельная. NL Добавляет в руку свои gremlin:Отголоски, заполняя всю руку, когда вы берёте эту карту в свой ход."
   }
 } 
