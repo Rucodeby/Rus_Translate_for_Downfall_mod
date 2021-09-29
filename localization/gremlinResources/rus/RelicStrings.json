@@ -1,16 +1,16 @@
 {
   "Gremlin:ImpeccablePecs": {
-    "NAME": "Impeccable Pecs",
-    "FLAVOR": "Glorious.",
+    "NAME": "Безупречная грудь",
+    "FLAVOR": "Восхитительно.",
     "DESCRIPTIONS": [
       "Когда вы получаете #yСилу, даёт столько же #yВременного #yОЗ. NL Даёт #b1 #yСилы в начале боя."
     ]
   },
   "Gremlin:FragmentationGrenade": {
-    "NAME": "Fragmentation Grenade",
-    "FLAVOR": "Nobody dares to ask where the Gremlin got it from.",
+    "NAME": "Осколочная граната",
+    "FLAVOR": "Никто не осмеливается спросить, откуда гремлины достали это.",
     "DESCRIPTIONS": [
-      "Увеличивает урон наносимый случайным противникам на #b", "."
+      "Увеличивает урон по случайным целям на #b", "."
     ]
   },
   "Gremlin:GremlinBomb": {
@@ -23,20 +23,20 @@
   },
   "Gremlin:GremlinGravestone": {
     "NAME": "Могила гремлинов",
-    "FLAVOR": "Where do gremlins go when they die? Not bloody far enough.",
+    "FLAVOR": "Куда отправляются Гремлины после смерти? Недостаточно далеко, чёрт возьми!.",
     "DESCRIPTIONS": [
       "Позволяет воскресить погибших гремлинов в лагере не требуя действия."
     ]
   },
   "Gremlin:GremlinKnob": {
-    "NAME": "Mob Leader's Staff",
+    "NAME": "Посох лидера шайки",
     "FLAVOR": "Among gremlin mobs, the one with the best horn maintains complete command over the troupe, until another one manages to steal it.",
     "DESCRIPTIONS": [
       "Вы получаете [E] , берёте #b1 карту и #yМеняетесь на следующего гремлина в начале каждого боя."
     ]
   },
   "Gremlin:GremlinKnobUpgrade": {
-    "NAME": "Mob Leader's Crown",
+    "NAME": "Корона лидера шайки",
     "FLAVOR": "The fancier the symbol of office, the more likely it is to be stolen.",
     "DESCRIPTIONS": [
       "Заменяет ",
@@ -45,7 +45,7 @@
   },
   "Gremlin:LeaderVoucher": {
     "NAME": "Gremlin Leader's Voucher",
-    "FLAVOR": "IOU 1 Gremlin",
+    "FLAVOR": "Залог: 1 Гремлин",
     "DESCRIPTIONS": [
       "Даёт [E] в начале вашего хода. NL При получении, #rотнимает #rгремлина #rдо #rконца #rзабега.",
       " NL #r( #rТолстый #rгремлин #r)",
@@ -74,7 +74,7 @@
     "FLAVOR": "Гремлины используют эту вещицу , и как щит , и как орудие.",
     "DESCRIPTIONS": [
       "Наносит #b", 
-     " урона случайному врагу, когда вы получаете #yЗащиту." //джагер
+     " урона случайному врагу, когда вы получаете #yЗащиту."
     ]
   },
   "Gremlin:ShortStature": {
@@ -87,7 +87,7 @@
   },
   "Gremlin:StolenMerchandise": {
     "NAME": "Украденные товары",
-    "FLAVOR": "«Сраные , ворующие гремлины!».", //проверить англ текст
+    "FLAVOR": "«Хреновы, ворующие гремлины!».",
     "DESCRIPTIONS": [
       "Когда вы устраиваете #yЗамену, добавьте #yОтголосок случайной Бесцветной карты в руку.",
       "You no good, blasted, thieves!",
