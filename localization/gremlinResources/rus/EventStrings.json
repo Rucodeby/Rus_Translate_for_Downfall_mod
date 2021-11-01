@@ -26,9 +26,9 @@
   },
   "Gremlin:MatchingGame": {
     "DESCRIPTIONS": [
-      "\" #bTwelve cards! Match them to keep them! #bFive tries-\" NL NL  \" #bTen tries!\" you interrupt. NL NL The gremlin scowls. \" #bFive tries!\" NL NL \" #bEight.\" NL NL \" #bSix,\" he spits. \"And I hope you get #pCursed.\" NL NL You hope he gets #pCursed.",
-      "You complete the gremlin's game and look up. NL He ran away before you could get more #y~free~ #y~stuff!~ ",
-      "A gremlin is madly shuffling cards on a table. He seems to be offering #y~free~ #y~stuff.~ You want #y~free~ #y~stuff.~ "
+      "« #bДвенадцать карт! Находите пары одинаковых и оставляйте себе! #bПять попыток-» NL NL  « #bДесять попыток!» выкрикиваете вы. NL NL Гремлин нахмурился. « #bПять попыток!» NL NL « #bВосемь.» NL NL « #bШесть» *хтьфу*. «И чтоб вы были #pПрокляты.» NL NL Вы тоже надеетесь что он будет #pПроклят.", //Впринципе можно немного адаптировать и поменять, но ня пока перевёл так как в оригинале
+      "Вы завершаете игру гремлина и поднимаете взгляд. NL Он сбежал прежде чем вы смогли получить больше #y~халявы!~ ",
+      "Гремлин яростно мешает карты на столе. Он, похоже, предлагает #y~халяву.~ Вы хотите #y~халявы.~ "
     ]
   },
   "Gremlin:Nest": {
@@ -48,12 +48,12 @@
       "Вы заходите в комнату, заслышав ~бульканье~ и @скрежет@ @металла.@ Это же #yСлизень-мусорщик! Эти маленькие слизни постоянно находят всякие #yвкусности. А ещё прекрасно то, что они такие медленные и слишком слабые, чтобы помешать вам что то забрать у них! И вы знаете лучшие способы обхода их колючек и кислоты. К сожалению они требуют #rконцентрации и неспешливости.",
       "Аккуратно, аккуратно. Вы избегаете острых и колющих кусочков. Только если бы это не было так #r@скучно.@ NL Но если продолжить в том же духе можно получить сверкающую #yреликвию...",
       "#gУспех! NL Порывшись в ржавых обломках и обжигающей кислоте, вы наконец-то ухватываетесь за #yреликвию и выдёргиваете её наружу. NL Вы достаёте руку из слизи, сжимая в руках новую игрушку.",
-      "Это слишком #rскучно. What were you even doing again?",
+      "Это слишком #rскучно. Может перестать этим заниматься?",
       "Вы решаете покинуть это место. NL Слизень вас даже не замечает, наслаждаясь своим обедом."
     ],
     "OPTIONS": [
       "[Аккуратно достать] #r",
-      "%: #rполучить #rпроклятие #r- #rScatterbrained. #g",
+      "%: #rполучить #rпроклятие #r- #rРассеяность. #g",
       "%: #gнайти #gреликвию.",
       "[Уйти]",
       "[Быть аккуратнее] #r"
@@ -66,11 +66,11 @@
     ]
   },
   "Gremlin:Trenchcoat": {
-    "NAME": "Suspicious Merchant",
+    "NAME": "Подозрительный торговец",
     "DESCRIPTIONS": [
-      "You come across a strange figure that looks suspiciously like five gremlins in a trench coat. NL \"Hello, traveller,\" the squeaky voice calls out. NL \"It is I, the #yfriendly #yMerchant, who is certainly not five gremlins in a trench coat. Would you like to purchase any of my ~fine~ ~wares~ that are definitely not stolen?\"",
-      "You cannot resist a sale, even from one a suspicious as the merchant. NL You make your purchase, but as soon as it is complete, your vendor bolts. NL NL In the distance you can almost make out a faint yell of frustration: #r\"Blasted, #rthieving #rGremlins!\".",
-      "You have no need to enrich the despicable merchant. You will keep your money to yourself. The Merchant flees as soon as it is clear you would not be partaking."
+      "Вы натыкаетесь на странную фигуру, подозрительно похожую на пятерых гремлинов в плаще. NL Раздаётся писклявый голос: «Привет, странник. Эт я, очень #yдружелюбный #yторговец, и вот абсолютно точно не пять гремлинов в плаще. Хотели бы вы приобрести что нибудь из моих ~прекрасных~ ~товаров,~ которые сто процентов не краденые?»,
+      "Вы не можете устоять перед товарами, даже от такого подозрительнейшего торговца. NL Как только покупка состоялась, он исчез, а вдалеке едва слышно крик разочарования: NL NL #r«Чёртовы #rворующие #rгремлины!».",
+      "Вы не хотите пополнять карманы такого гадкого торговца и решаете оставить деньги при себе, а он убегает как только понимает что вы не собираетесь ничего покупать."
     ],
     "OPTIONS": [
       "[Купить] #rПотерять #r",
@@ -81,7 +81,7 @@
       "[Уйти]",
       "[Закрыто] Требуется не менее ",
       " Золота.",
-      "[Refuse]"
+      "[Отказаться]"
     ]
   },
   "Gremlin:Vampires": {
@@ -91,7 +91,7 @@
   },
   "Gremlin:WheelGame": {
     "DESCRIPTIONS": [
-      "He lunges at you, but you are ready. NL You slash him open before he can get you with his shiv. NL You treat yourself to your prize, but sadly the Wheel disappears before you can loot it too."
+      "Он бросается на вас, но вы готовы. NL И тут же режете его до того как он достал заточку. NL Вы угощаетесь своим призом, но к сожалению колесо исчезает до того как удаётся забрать и его."
     ],
     "OPTIONS": [
       "[Приз!] #gУДАР #gНА #gУПРЕЖДЕНИЕ!",
