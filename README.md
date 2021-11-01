@@ -15,7 +15,7 @@
 * *Рескины (reskinContent)* - в процессе;
 * *Автоматон (bronzeResources)* - **готов к установке**;
 * *Чемпион (champResources)* - не переводится;
-* *Гремлины (gremlinResources)* - в процессе;
+* *Гремлины (gremlinResources)* - **готов к установке**;
 * *Страж (guardianResources)* - в процессе;
 * *Гекса (hexamodResources)* - в процессе;
 * *Слизень (slimeboundResources)* - в процессе;
