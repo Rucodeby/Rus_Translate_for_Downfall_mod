@@ -115,7 +115,7 @@
     "DESCRIPTION": "Наносит !D! урона. NL Даёт !B! Защиты. NL slimeboundmod:Слизывание увеличивает урон и защиту карты на !M! ."
   },
   "Slimebound:CheckThePlaybook": {
-    "NAME": "Совет по страте",
+    "NAME": "Книга стратегий",
     "DESCRIPTION": "Добавляет 4 случайных slimeboundmod:Сноса в руку. Они стоят на 1 меньше до конца боя. NL Сжигается."
   },
   "Slimebound:Recycling": {
