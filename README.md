@@ -18,5 +18,5 @@
 * *Гремлины (gremlinResources)* - **готов к установке**;
 * *Страж (guardianResources)* - в процессе;
 * *Гекса (hexamodResources)* - в процессе;
-* *Слизень (slimeboundResources)* - в процессе;
+* *Слизень (slimeboundResources)* - **готов к установке**;
 * *Змекко (sneckomodResources)* - в процессе.
