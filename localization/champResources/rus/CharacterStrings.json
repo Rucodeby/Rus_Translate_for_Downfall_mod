@@ -1,0 +1,74 @@
+{
+  "champ:theChamp": {
+    "NAMES": [
+      "Чемпион",
+      "чемпион"
+    ],
+    "TEXT": [
+      "The undisputed King of the Arena. NL Has never lost a match.",
+      "NL You ready your blade...",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~ghastly~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~",
+      //Страшна
+      //убрать
+      "Стойка #rБерсерка", //3
+      "#bОборонительная Стойка", //4
+      "Стойка #yГладиатора", //5
+      "ничегошеньки", //6
+      "УЛИТИМАТИВНОЙ стойка", //7
+      "Бонус техники", //8
+      "Бонус финишера", //9
+      "#yVigor #b", //10
+      "даёт #b1 #yСилы.", //11
+      "даёт #b", //12
+      "Gain #b12 #yBlock.", //13
+      "Draw #b", //14
+      "Next turn, draw #b1 card and gain [E] .", //15
+      "Berserker Technique", //16
+      "Defensive Technique", //17
+      "Gladiator Technique", //18
+      "#yVigor #b", //19
+      "Gain #b1 #yStrength. Gain #b", //20
+      "Считается за стойку #rБерсерка и #bОборонительную стойку. Вы не можете сменить стойку.", //21
+      " turns.", //22
+      "Вы сейчас в", //23
+      " стойке #rБерсерка", //24
+      " #bОборонительной стойке", //25
+      " стойке #yГладивтора", //26
+      "без стойки", //27
+      "Pfh. This fight is too easy to bother.", //28
+      "[crown_icon]   champ:Техника NL ", //29
+      "[crown_icon] : Draw a card. NL ", //30
+      "[crown_icon] - даёт ", //31
+      "[crown_icon] : ", //32
+      "[crown_icon] - Все бонусы. NL ", //33
+      " NL [fist_icon]   champ:Финишер", //34
+      " NL [fist_icon] : [E] & [card_icon] next turn.", //35
+      " NL [fist_icon] - даёт ", //36
+      " NL [fist_icon] - даёт 1 Силы.", //37
+      " NL [fist_icon] - Все бонусы.", //38
+      "Vigor increases the damage of the next Attack.", //39
+      "Technique", //
+      "If you are in a #yStance, trigger its Technique bonus.",
+      "Finisher",
+      "Requires a Stance. NL After playing a Finisher, exit your #yStance and trigger its Finisher bonus.",
+	  "У меня недостаточно Защиты.",
+      "#yVigor and gain #b",
+      " #yБодрости.",
+      " #yКонтратаки.",
+      " card.",
+      " cards.",
+      "[crown_icon] : Draw ",
+      " cards. NL ",
+      ". NL ",
+      " champ:Контратаки. NL ",
+      " champ:Бодрости. NL ",
+      ".",
+      " #yЗащиты.",
+      " Защиты.",
+      " and gain #b",
+      " #yCounter.",
+      " #yBlock. Do not leave #yUltimate #yStance.",
+      "Я не в стойке."
+    ]
+  }
+}
