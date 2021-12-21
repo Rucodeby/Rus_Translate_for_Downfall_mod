@@ -14,7 +14,7 @@
 * *Расширенный контент (expansioncontentResources)* - в процессе;
 * *Рескины (reskinContent)* - в процессе;
 * *Автоматон (bronzeResources)* - **готов к установке**;
-* *Чемпион (champResources)* - не переводится;
+* *Чемпион (champResources)* - в процессе;
 * *Гремлины (gremlinResources)* - **готов к установке**;
 * *Страж (guardianResources)* - в процессе;
 * *Гекса (hexamodResources)* - в процессе;
