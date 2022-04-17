@@ -20,3 +20,4 @@
 * *Гекса (hexamodResources)* - в процессе;
 * *Слизень (slimeboundResources)* - **готов к установке**;
 * *Змекко (sneckomodResources)* - в процессе.
+* *Отшельник (theHermit)* - в процессе.
