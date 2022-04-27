@@ -4,7 +4,7 @@
     "FLAVOR": "Ease your rage. Be as tough and unyielding as the Spire itself.",
     "DESCRIPTIONS": [
       "Boss has increased max HP, no starter relic, draws #b2 less cards, and has 1 less ",
-      " . NL At the start of combat, Boss gains a unique Buff effect."
+      " . NL At the start of combat, Boss gains a unique Buff effect. Can't be #yStunned."
     ]
   },
   "downfall:NeowBlessing_Player": {
@@ -377,7 +377,7 @@
   },
   "downfall:GremlinSack": {
     "NAME": "Gremlin Sack",
-    "FLAVOR": "You were no match for the Gremlin and his bodyguard.",
+    "FLAVOR": "The Gremlin and his bodyguard were no match for you.",
     "DESCRIPTIONS": [
       "Upon pickup, add the following cards to your deck: NL ",
       "Upon pickup, add #b6 cards to your deck from the Match Game.",
@@ -415,7 +415,7 @@
     "NAME": "Sharpened Fragment",
     "FLAVOR": "Once a broken statue - now a makeshift weapon.",
     "DESCRIPTIONS": [
-      "At the start of each turn, add a Crystal Shiv to your hand."
+      "At the start of each turn, gain a #yCrystal #yShiv."
     ]
   },
   "downfall:RedIOU": {
@@ -441,7 +441,7 @@
     "NAME": "Knowing Skull",
     "FLAVOR": "Put me down!",
     "DESCRIPTIONS": [
-      "At the start of each combat, you may Wish for Souls, Success, or a Pick me Up."
+      "At the start of each combat, you may wish for Souls, Success, or a Pick me Up."
     ]
   },
   "downfall:HeartBlessingRed": {
@@ -500,7 +500,9 @@
       "Truly, you are the Heart's MVB: Most Valuable Boss.",
       "The Heart's corruption knows no limits - not even precious pets.",
       "Corrupted Courier",
-      "The Heart restocks cards, relics, and potions. All prices are reduced by #b20%."
+      "The Heart restocks cards, relics, and potions. All prices are reduced by #b20%.",
+      "Combat reward screens now contain Colorless cards and cards from the Hero colors.",
+      "Gain [E] at the start of your turn. You can no longer gain #ySouls. Breaking Keys costs no #ySouls."
     ]
   },
   "downfall:LizardTail": {

@@ -40,6 +40,12 @@
       "At the end of your turn, choose a card to #yExhaust."
     ]
   },
+  "downfall:SpotWeakness": {
+    "NAME": "Spot Weakness",
+    "DESCRIPTIONS": [
+      "Every turn in which you play an attack card with this power active, this enemy gains #b"," #yStrength. Currently it will gain #b", " #yStrength."
+    ]
+  },
   "downfall:PoisonResist": {
     "NAME": "Poison Resistance",
     "DESCRIPTIONS": [
@@ -95,13 +101,13 @@
   "downfall:SilentShivTimeEaterPower": {
     "NAME": "Bag of Knives",
     "DESCRIPTIONS": [
-      "The first two times you play a #b0 cost card each turn, Silent gains a #yShiv."
-      ]
+      "The first time you play a card that costs #b2 or more each turn, Silent gains 2 #yShivs."
+    ]
   },
   "downfall:NeowBagOfKnives": {
     "NAME": "Bag of Knives",
     "DESCRIPTIONS": [
-      "The first two times you play a #b0 cost card each turn, take #b4 damage."
+      "The first time you play a card that costs #b2 or more each turn, take #b4 damage twice."
     ]
   },
   "downfall:SilentMirrorImagePower": {
@@ -113,25 +119,25 @@
   "downfall:NeowSeeingDouble": {
     "NAME": "Seeing Double",
     "DESCRIPTIONS": [
-      "The first #yAttack used each turn against Neow deals #b0 damage."
+      "The first #yAttack used against Neow each turn deals #b0 damage."
     ]
   },
   "downfall:SilentPoisonPower": {
     "NAME": "Warning: Highly Toxic",
     "DESCRIPTIONS": [
-      "You have #yPoison #yResistance to combat Silent's #yPoison effects."
+      "#yPoison is blockable and deals damage at end of turn. NL Receive an #yAntidote at the start of combat."
     ]
   },
   "downfall:NeowHighlyToxic": {
     "NAME": "Warning: Highly Toxic",
     "DESCRIPTIONS": [
-      "Neow applies #b10 #yPoison to you per turn. You have #yPoison #yResistance."
+      "Neow applies #b5 #yPoison to you per turn. Poison is blockable and deals damage at end of turn. NL Shuffle 2 #yAntidotes into your deck at the start of combat."
     ]
   },
   "downfall:DefectVoidPower": {
     "NAME": "Energy Thief",
     "DESCRIPTIONS": [
-      "Whenever Defect generates a Void, it goes to the top of your draw pile."
+      "Whenever Defect generates a #yVoid, it goes to the top of your draw pile."
     ]
   },
   "downfall:NeowEnergyThief": {
@@ -155,14 +161,14 @@
   "downfall:DefectCuriosity": {
     "NAME": "Unbiased Cognition",
     "DESCRIPTIONS": [
-      "Whenever you play a #yRare card, gains #b",
+      "Whenever you play a #yPower card, Defect gains #b",
       " #yFocus."
     ]
   },
   "downfall:NeowUnbiasedCognition": {
     "NAME": "Unbiased Cognition",
     "DESCRIPTIONS": [
-      "Neow gains #b2 #yStrength for every #yRare card you play."
+      "Whenever you play a #yPower card, Neow gains #b2 #yStrength."
     ]
   },
   "downfall:IroncladStatusPower": {
@@ -180,7 +186,7 @@
   "downfall:IroncladMushroomPower": {
     "NAME": "Feeding Frenzy",
     "DESCRIPTIONS": [
-      "Ironclad's #yReaper does not *Exhaust and targets ALL Mushrooms. NL When Ironclad kills a Mushroom, he gains #b1 #yStrength."
+      "Ironclad's #yReaper does not #yExhaust and targets ALL Mushrooms. NL When Ironclad kills a Mushroom, he gains #b1 #yStrength."
     ]
   },
   "downfall:NeowFeedingFrenzy": {
@@ -211,7 +217,7 @@
   "downfall:NeowMantra": {
     "NAME": "Mantra",
     "DESCRIPTIONS": [
-      "When Neow has #b10 #yMantra, she converts #b10 #yMantra into #b10 #yStrength."
+      "When Neow has #b10 #yMantra, she enters Divinity, dealing triple damage the following turn."
     ]
   },
   "downfall:NeowSeeingDoubleProduct": {
@@ -238,6 +244,129 @@
     "NAME": "Compression Mold",
     "DESCRIPTIONS": [
       "#yFired Ammo is upgraded afterwards."
+    ]
+  },
+  "downfall:OnDeathEveryoneStr": {
+    "NAME": "Last Gasp: Inflame+",
+    "DESCRIPTIONS": [
+      "When this character dies, ALL characters (including you) gain #b",
+      " #yStrength."
+    ]
+  },
+  "downfall:OnDeathEveryoneThorns": {
+    "NAME": "Last Gasp: Caltrops+",
+    "DESCRIPTIONS": [
+      "When this character dies, ALL characters (including you) gain #b",
+      " #yThorns."
+    ]
+  },
+  "downfall:OnDeathEveryoneBuffer": {
+    "NAME": "Last Gasp: Buffer+",
+    "DESCRIPTIONS": [
+      "When this character dies, ALL characters (including you) gain #b",
+      " #yBuffer. (Buffer: Prevents the next time you would lose HP)"
+    ]
+  },
+  "downfall:OnDeathEveryoneVigor": {
+    "NAME": "Last Gasp: Wreath of Flame+",
+    "DESCRIPTIONS": [
+      "When this character dies, ALL characters (including you) gain #b",
+      " #yVigor. (Vigor: Increases damage of a single Attack)"
+    ]
+  },
+  "downfall:OnDeathEveryoneRuggedVuln": {
+    "NAME": "Last Gasp: Gestalt",
+    "DESCRIPTIONS": [
+      "When this character dies, ALL characters (including you) gain #b",
+      " #yRugged and #b",
+      " #yVulnerable. (Rugged: Reduces unblocked damage taken to 3) "
+    ]
+  },
+  "downfall:MonsterVigor": {
+    "NAME": "Vigor",
+    "DESCRIPTIONS": [
+      "This character's next attack deals #b",
+      " additional damage."
+    ]
+  },
+  "downfall:HermitConcentrateAdder": {
+    "NAME": "Deadly Focus",
+    "DESCRIPTIONS": [
+      "Hermit has Concentration, which adds special #yDead #yOn effects to his cards. Dealing #b10 unblocked damage to him breaks the concentration, causing his cards to lose their #yDead #yOn effects."
+    ]
+  },
+  "downfall:HermitConcentrationPower": {
+    "NAME": "Concentrated",
+    "DESCRIPTIONS": [
+      "Hermit's cards get bonus #yDead #yOn effects while he is concentrated. Deal #b",
+      " more unblocked damage to break his Concentration this turn.",
+      "Hermit's concentration is broken and #yDead #yOn effects don't trigger this turn."
+    ]
+  },
+  "downfall:HermitWheelOfFortune": {
+    "NAME": "Wheel of Fortune",
+    "DESCRIPTIONS": [
+      "Whenever you strike Hermit with an Attack, its leftmost card is discarded and it draws a card. Every #b",
+      " times this happens, Hermit gains #b1 #yStrength."
+    ]
+  },
+  "downfall:HermitDoomsday": {
+    "NAME": "Doomsday",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain an #rImpending #rDoom with #yRetain."
+    ]
+  },
+  "downfall:NeowEclipse": {
+    "NAME": "Eclipse",
+    "DESCRIPTIONS": [
+      "Neow adds an #yEthereal #yImpending #yDoom to your hand every turn."
+    ]
+  },
+  "downfall:NeowWheelOfDeath": {
+    "NAME": "Wheel Of Death",
+    "DESCRIPTIONS": [
+      "Every #b",
+      " cards you play, Neow gains #b",
+      " #yStrength."
+    ]
+  },
+  "downfall:NeowDistracting": {
+    "NAME": "Distracting",
+    "DESCRIPTIONS": [
+      "First time you deal #yAttack damage to Neow in a turn, gain #b1 less [E] next turn."
+    ]
+  },
+  "downfall:NextTurnPowerPower": {
+    "NAME": "Next Turn ",
+    "DESCRIPTIONS": [
+      "BUG! You should not see this",
+      "Next turn, gain #b",
+      " ",
+      ".",
+      "LOCALIZATION NOTE: Please keep the space after 'Next Turn' in the NAME field."
+    ]
+  },
+  "downfall:NeowStayAt1Hp": {
+    "NAME": "Unkillable",
+    "DESCRIPTIONS": [
+      "Damage cannot reduce Neow below #b1 HP. Neow will heal to full and enter a new phase instead."
+    ]
+  },
+  "downfall:NeowDivinity": {
+    "NAME": "Divinity",
+    "DESCRIPTIONS": [
+      "Neow deals triple damage this turn."
+    ]
+  },
+  "downfall:NeowSpirit": {
+    "NAME": "Hero's Spirit",
+    "DESCRIPTIONS": [
+      "When Neow uses a Buff intent, she gains #b6 #yStrength and... ",
+      " NL Gains #b1 Demon Form. #y(Ironclad)",
+      " NL Gains #b2 Thorns. #y(Silent)",
+      " NL Gains #b2 Buffer. #y(Defect)",
+      " NL Gains #b5 Mantra. #y(Watcher)",
+      " NL Adds #b2 random #rCurses to your draw pile. #y(Hermit)"
     ]
   }
 }
