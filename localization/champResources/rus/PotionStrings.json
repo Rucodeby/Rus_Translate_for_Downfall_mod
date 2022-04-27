@@ -2,31 +2,31 @@
   "champ:OpenerPotion": {
     "NAME": "Зелье стратега",
     "DESCRIPTIONS": [
-      "Choose #b1 of #b2 cards which Enter a #yStance to add to your hand (one for each #yStance). Она стоит #b0 в этом ходу.",
-      " Add #b",
-      " copy of it to your hand.",
-      " copies of it to your hand."
+      "Выберите #b1 из #b2 карт, которая меняет #yСтойку, и добавьте её в руку (одну на каждую #yСтойку). Она стоит #b0 в этом ходу.",
+      " Добавляет #b",
+      " копию в руку.",
+      " копии в руку."
     ]
   },
   "champ:TechniquePotion": {
-    "NAME": "Bottled Technique",
+    "NAME": "Закупоренная техника",
     "DESCRIPTIONS": [
-      "#yTechnique #b",
-      " times."
+      "Активирует #yТехнику #b",
+      " раза."
     ]
   },
   "champ:UltimateStancePotion": {
-    "NAME": "Substance Of Questionable Legality",
+    "NAME": "Жидкость сомнительной легальности",
     "DESCRIPTIONS": [
-      "Enter #yUltimate #yStance for #b",
-      " turns."
+      "Перейти в #yСовершенную #yСтойку на #b",
+      " хода."
     ]
   },
   "champ:CounterPotion": {
-    "NAME": "Brew of Sharpness",
+    "NAME": "Острый напиток",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yCounter."
+      "Даёт #b",
+      " #yКонтратаки."
     ]
   }
 }

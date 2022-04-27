@@ -2,7 +2,7 @@
   "champ:ChampTalk": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "ТЫ ХОЧЕШЬ ЭТО ПОЯС ОБРАТНО?",
+      "ТЫ ХОЧЕШЬ ЭТОТ ПОЯС ОБРАТНО?",
       "ПОДОЙДИ И ЗАБЕРИ!"
     ],
     "OPTIONS": [
@@ -18,11 +18,11 @@
       "@\"WHO@ @DARES@ @CHALLENGE@ @ME?!\"@ you boom into the crowd, beckoning this new 'challenger'. NL A knight approaches, clad in strikingly similar armor to your own, only drenched in black ink. The crowd cheers more than this pretender deserves. NL NL There can only be one Champion!",
       "@\"THE@ @NEXT@ @ONE@ @IS@ @MINE!\"@ you boom into the crowd, who replies with a deafening applause. NL NL It does not take long for the slavers to drag in their latest catch. The unwitting challenger awakens, ~groggy~ from the ambush, but readies themselves. NL NL This should be fun.",
       "You deciding that, though it is tempting, fighting here would be an unnecessary distraction. Your journey continues on, and you leave the slavers to resume their ambush.",
-      "Black Knight"
+      "Чёрный рыцарь"
     ],
     "OPTIONS": [
-      "[Defend Title] #rСразиться с Black Knight. #gПолучить #gмножество #gнаград.",
-      "[Participate] #rFight Captive Hero. #gПолучить #gмножество #gнаград.",
+      "[Отстоять звание] #rСразиться с Чёрным рыцарем. #gПолучить #gмножество #gнаград.",
+      "[Попрактиковаться] #rСразиться с Captive Hero. #gПолучить #gмножество #gнаград.",
       "[Уйти]",
       "[FIGHT!]",
       "[Продолжить]"
@@ -31,16 +31,16 @@
   "champ:Library": {
     "NAME": "Библиотека",
     "DESCRIPTIONS": [
-      "You come across the heart of knowledge within the City - the old Library. NL Inside, you find countless rows of scrolls, manuscripts, and books. NL You could pick one and cozy yourself into a chair for some quiet time, or spend this time to look for a manual more specific to fighting techniques.",
+      "Вы натыкаетесь на самое сердце знаний Города - старую библиотеку. NL Внутри находится несметное количество свитков, манускриптов и книг. NL You could pick one and cozy yourself into a chair for some quiet time, or spend this time to look for a manual more specific to fighting techniques.",
       "You spend much time searching through the halls of tomes and guides, until finally finding the book you seek. NL NL Settling into the comfy chair, you take some time to brush up on forgotten stances and styles. Even a perfect fighting specimen such as yourself knows that the mind is just as important as the body, and must also be exercised."
     ],
     "OPTIONS": [
-      "[Seek] Locate a #gBook on Fighting.",
-      "[Закрыто] Already have all Fighting tomes."
+      "[Seek] Locate a #gКнигу о сражении.",
+      "[Закрыто] У вас уже есть все тома о бое."
     ]
   },
   "champ:TechniqueTome": {
-    "NAME": "Tome of Technique",
+    "NAME": "Том техник",
     "DESCRIPTIONS": [
       "Wandering down a side path, you feel an immense, invisible force guiding your footsteps towards a new destination.  Before long you see a pedestal with a massive tome, warped in some eerie glowing energy. NL NL As you approach, the pages which were clearly blank before spring to life, etching into itself new carvings and drawings of attack combinations, martial stances, enemy weakpoints - everything you could ever need to know about fighting. NL NL It seems almost too good to be true, but this gift, this opportunity, this knowledge simply must not go to waste!",
       "Unbelievable! The teachings this tome has to offer are breathtaking. Every word and diagram leaps off of the page into your mind, granting you new methods of slaughtering your opponents. NL NL Unfortunately, such knowledge never comes without a cost, and it takes a toll on your psyche. But there is so much more to learn...",
@@ -49,12 +49,12 @@
       "Whatever price had to be paid was worth it to gain this precious knowledge. It takes much effort to peel yourself away from the book's hold over you, but you manage to do so. NL NL With the tome's teachings fresh in your mind, you set out to find a new victim to test them out on."
     ],
     "OPTIONS": [
-      "[Read] Choose a card to gain #gTechnique. #rОтнимает #r",
+      "[Читать] Добавить карте в колоде #g«Технику». #rПотерять #r",
       " #rОЗ.",
       "[Уйти]",
-      "[Закрыто] Requires a non-Technique Card.",
-      "Choose a card to gain Technique.",
-      "[Read] Choose a card to gain #gTechnique. #rПолучить #rПроклятие #r- #rPride."
+      "[Закрыто] Требуется карта без Техники.",
+      "Выберите карту, которой хотите дать «Технику».",
+      "[Читать] Добавить карте в колоде #g«Технику». #rПолучить #rПроклятие #r- #rPride."
     ]
   },
   "champ:Gym": {
@@ -96,7 +96,7 @@
       "Skill and assurance form an invincible combination."
     ],
     "OPTIONS": [
-      "[Intuition] #gAdd #gTechnique to all #gStrikes and #gDefends.",
+      "[Интуиция] #gДобавить #gТехнику ко всем #gУдарам и #gОборону.",
       "[Закрыто] Требуется Удар или Оборона."
     ]
   }

@@ -11,14 +11,14 @@
   },
   "champ:TechniqueMod": {
     "TEXT": [
-      "champ:Technique. NL "
+      "champ:Техника. NL "
     ]
   },
   "champ:OpenerMod": {
     "TEXT": [
-      " NL Enter champ:Berserker.",
-      " NL Enter champ:Defensive.",
-      "Enter champ:Gladiator NL "
+      " NL Перейти в champ:Ярость.",
+      " NL Перейти в champ:Оборону.",
+      "Перейти в champ:Гладиатора NL "
     ]
   },
   "champ:RetainCardMod": {
@@ -28,9 +28,9 @@
   },
   "champ:EnchantUI": {
     "TEXT": [
-      "cost 0.",
-      "increase damage.",
-      "increase Block."
+      "0 стоимость.",
+      "увеличение урона.",
+      "увеличение Защиты."
     ]
   }
 }
