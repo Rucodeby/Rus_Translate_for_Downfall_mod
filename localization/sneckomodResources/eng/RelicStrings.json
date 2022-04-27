@@ -3,7 +3,7 @@
     "NAME": "Snecko Soul",
     "FLAVOR": "0...3...2...2...1",
     "DESCRIPTIONS": [
-      "You may Identify #yUnknown cards at Rest Sites."
+      "First time you play an #ysneckomod:Offclass in a combat, gain [E] and draw a card."
     ]
   },
   "sneckomod:SuperSneckoSoul": {
@@ -11,7 +11,7 @@
     "FLAVOR": "3120231321230320",
     "DESCRIPTIONS": [
       "Replaces ",
-      ".[] NL Using Identify at Rest Sites is now a Free Action."
+      ".[] NL First time you play an #ysneckomod:Offclass in a turn, gain [E] ."
     ]
   },
   "sneckomod:CleanMud": {
@@ -46,28 +46,28 @@
     "NAME": "Rare Booster Box",
     "FLAVOR": "Mint condition.",
     "DESCRIPTIONS": [
-      "Upon pickup, obtain a #yUnknown #yRare card of each card type."
+      "Upon pickup, obtain a #yUnidentified #yRare card of each card type."
     ]
   },
   "sneckomod:SleevedAce": {
     "NAME": "Sleeved Ace",
     "FLAVOR": "We're all aces.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a #yCheat into your hand with #yRetain."
+      "At the start of each combat, gain a #yPure #yLuck with #yRetain."
     ]
   },
   "sneckomod:UnknownEgg": {
-    "NAME": "Unknown Egg",
+    "NAME": "Unidentified Egg",
     "FLAVOR": "What will hatch? Pay $1000 to see.",
     "DESCRIPTIONS": [
-      "#yUnknown cards in card rewards are #yUpgraded."
+      "#yIdentifying becomes a free action. NL #yUnidentified cards in card rewards are #yUpgraded."
     ]
   },
   "sneckomod:SuperSneckoEye": {
     "NAME": "Super Snecko Eye",
     "FLAVOR": "0121012",
     "DESCRIPTIONS": [
-      "Replaces Snecko Eye. At the start of your turn, draw #b2 additional cards. Start each combat #yConfused. The first time you draw a card that costs #b3 each combat, reduce its cost to #b0."
+      "Replaces #ySnecko #yEye. At the start of your turn, draw #b2 additional cards. Start each combat #yConfused. The first time you draw a card that costs #b3 each combat, reduce its cost to #b0."
     ]
   },
   "sneckomod:SneckoTalon": {
@@ -105,8 +105,8 @@
     "NAME": "Seal of Approval",
     "FLAVOR": "I'm The Ironclad and this is my favorite Relic in the Spire.  -Merchant Advertising Pamphlet",
     "DESCRIPTIONS": [
-      "Upon pickup, choose #b1 of #b3 #yUnknown Character cards to add to your deck. All future Unknown Character cards found will be of this character.",
-      "All Unknown Character cards found will be ",
+      "Upon pickup, choose #b1 of #b3 #yUnidentified #yCharacter cards to add to your deck. All future #yUnidentified #yCharacter cards found will be of this character.",
+      "All Unidentified Character cards found will be ",
       " cards."
     ]
   },
@@ -114,8 +114,8 @@
     "NAME": "Lucky Horseshoe",
     "FLAVOR": "Make your own luck.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose #b1 of #b3 #yUnknown Character cards. Add #b5 copies of it to your deck. All combats drop an additional card reward of the chosen character's cards.",
-      "Upon pickup, obtain #b5 #yUnknown ",
+      "Upon pickup, choose #b1 of #b3 #yUnidentified #yCharacter cards. Add #b5 copies of it to your deck. All combats drop an additional card reward of the chosen character's cards.",
+      "Upon pickup, obtain #b5 #yUnidentified ",
       " cards. All combats drop an additional ",
       " card reward."
     ]
