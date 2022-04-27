@@ -1,0 +1,54 @@
+{
+  "HermitMod:HermitTutorials": {
+    "TEXT": [
+      "У Отшельника есть особые карты с эффектом #yВ #yяблочко. #y«Яблочко» находится в середине руки.",
+      "Если в руке чётное число карт, то считаются обе карты по центру. Даже если их всего 2 в руке."
+    ],
+    "LABEL": [
+      "Далее",
+      "Всё ясно",
+      "В яблочко",
+      "(Страница: ",
+      ")"
+    ]
+  },
+  "HermitMod:GuardianTutorials": {
+    "TEXT": [
+      "The Guardian can Curl Up after gaining a certain amount of Brace.",
+      "He can also stash Gems in cards to augment their effects."
+    ],
+    "LABEL": [
+      "Далее",
+      "Всё ясно",
+      "The Guardian",
+      "(Страница: ",
+      ")"
+    ]
+  }, // Rastaban - твоё
+  "HermitMod:HexaghostTutorials": {
+    "TEXT": [
+      "The Hexaghost channels power by Charging its Flames.",
+      "Perform a certain action while each is Active to Charge it."
+    ],
+    "LABEL": [
+      "Далее",
+      "Всё ясно",
+      "Гексадух",
+      "(Страница: ",
+      ")"
+    ]
+  }, // Jedi - твоё
+  "HermitMod:CharbossTutorials": {
+    "TEXT": [
+      "Вражеские герои имеют сильные способности, которые могут помешать вашей уже привычной стратегии.",
+      "Всегда проверяйте их эффекты перед тем, как что-то сделать."
+    ],
+    "LABEL": [
+      "Далее",
+      "Всё ясно",
+      "Убийцы Шпиля",
+      "(Страница: ",
+      ")"
+    ]
+  }
+}
