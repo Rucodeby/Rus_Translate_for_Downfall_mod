@@ -49,12 +49,12 @@
       "Whatever price had to be paid was worth it to gain this precious knowledge. It takes much effort to peel yourself away from the book's hold over you, but you manage to do so. NL NL With the tome's teachings fresh in your mind, you set out to find a new victim to test them out on."
     ],
     "OPTIONS": [
-      "[Читать] Добавить карте в колоде #g«Технику». #rПотерять #r",
+      "[Читать] Добавить карте в колоде #g«Активирует Бонус Навыка». #rПотерять #r",
       " #rОЗ.",
       "[Уйти]",
-      "[Закрыто] Требуется карта без Техники.",
-      "Выберите карту, которой хотите дать «Технику».",
-      "[Читать] Добавить карте в колоде #g«Технику». #rПолучить #rПроклятие #r- #rPride."
+      "[Закрыто] Требуется Атака.",
+      "Выберите карту, которой хотите дать «Активирует Бонус Навыка».",
+      "[Читать] Добавить карте в колоде #g«Активирует Бонус Навыка». #rПолучить #rПроклятие #r- #rPride."
     ]
   },
   "champ:Gym": {
@@ -96,7 +96,7 @@
       "Skill and assurance form an invincible combination."
     ],
     "OPTIONS": [
-      "[Интуиция] #gДобавить #gТехнику ко всем #gУдарам и #gОборону.",
+      "[Интуиция] #gДобавить #g\"Активирует Бонус Навыка\" ко всем #gУдарам и #gОборонам.",
       "[Закрыто] Требуется Удар или Оборона."
     ]
   }

@@ -11,12 +11,12 @@
   "champ:TechniquePotion": {
     "NAME": "Закупоренная техника",
     "DESCRIPTIONS": [
-      "Активирует #yТехнику #b",
+      "Активирует #yБонус #yНавыка от текущей #yСтойки #b",
       " раза."
     ]
   },
   "champ:UltimateStancePotion": {
-    "NAME": "Жидкость сомнительной легальности",
+    "NAME": "Stimpack",
     "DESCRIPTIONS": [
       "Перейти в #yСовершенную #yСтойку на #b",
       " хода."
