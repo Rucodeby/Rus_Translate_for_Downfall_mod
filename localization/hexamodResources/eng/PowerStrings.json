@@ -11,8 +11,8 @@
     "NAME": "Doomsday",
     "DESCRIPTIONS": [
       "The next time you #yIgnite the Inferno Ghostflame and all #b",
-      " Ghostflames are #yIgnited, end your turn and take an additional turn.",
-      "Whenever you #yIgnite the Inferno Ghostflame and at least #b"
+      " Ghostflames are #yIgnited, gain an additional turn.",
+      "The next time you #yIgnite the Inferno Ghostflame and at least #b"
     ]
   },
   "hexamod:ApplyBurnAtTurnStartOncePower": {
@@ -63,7 +63,7 @@
   "hexamod:EnhancePower": {
     "NAME": "Intensity",
     "DESCRIPTIONS": [
-      "Increase the amount of damage, #ySoulburn, and Block applied by Ghostflames when Ignited by #b",
+      "Increase the amount of damage, #ySoulburn, and #yBlock applied by Ghostflames when Ignited by #b",
       "."
     ]
   },
@@ -78,7 +78,7 @@
     "NAME": "Speedrun",
     "DESCRIPTIONS": [
       "Whenever you #yAdvance, gain #b",
-      " #yBlock."
+      " temporary #yStrength."
     ]
   },
   "hexamod:FutureUpgradePower": {
@@ -89,11 +89,10 @@
       " random cards in your deck."
     ]
   },
-  "hexamod:GainStrengthThatGoesAwayPower": {
+  "hexamod:StopFromAdvancingPower": {
     "NAME": "Here and Now",
     "DESCRIPTIONS": [
-      "If you start and end your turn on the same Ghostflame, gain ",
-      " #yStrength."
+      "You no longer #yAdvance at the end of your turn."
     ]
   },
   "hexamod:GhostFlameBarrierPower": {
@@ -107,7 +106,7 @@
     "NAME": "Gifted Cards",
     "DESCRIPTIONS": [
       "At the start of your turn, #yReclaim ",
-      " random Afterlife ",
+      " random #yAfterlife ",
       " card.",
       " cards."
     ]
@@ -171,8 +170,8 @@
   "hexamod:RadiantPower": {
     "NAME": "Radiant Flame",
     "DESCRIPTIONS": [
-      "Whenever a Ghostflame is #yIgnited, apply #b",
-      " #ySoulburn to a random enemy."
+      "Whenever you #yIgnite a Ghostflame, gain #b",
+      " #yBlock."
     ]
   },
   "hexamod:SealPostCombatPower": {
@@ -186,13 +185,13 @@
   "hexamod:TimeStopPower": {
     "NAME": "Doom's Arrival",
     "DESCRIPTIONS": [
-      "At the end of your turn, immediately start another turn. NL Energy and Block are maintained."
+      "At the end of your turn, immediately start another turn. NL #yEnergy and #yBlock are maintained."
     ]
   },
   "hexamod:VolcanoVisagePower": {
     "NAME": "Volcanic Visage",
     "DESCRIPTIONS": [
-      "At the start of your turn, apply #b",
+      "Whenever you #yIgnite a Ghostflame, apply #b",
       " #ySoulburn to all enemies."
     ]
   },
@@ -200,6 +199,12 @@
     "NAME": "Living Bomb",
     "DESCRIPTIONS": [
       "The next time this creature's #ySoulburn is detonated, it affects ALL enemies."
+    ]
+  },
+  "hexamod:GainEnergyAtStartOfTurnPower": {
+    "NAME": "More Energy",
+    "DESCRIPTIONS": [
+      "At the start of your turn gain "
     ]
   }
 }

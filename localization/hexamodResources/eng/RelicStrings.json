@@ -3,7 +3,7 @@
     "NAME": "Spirit Brand",
     "FLAVOR": "A bound protector.",
     "DESCRIPTIONS": [
-      "The first time you #yIgnite a Ghostflame each turn, gain #b5 #yBlock."
+      "The first time you #yIgnite a Ghostflame each turn, gain #b4 #yBlock."
     ]
   },
   "hexamod:TheBrokenSeal": {
@@ -22,7 +22,7 @@
     ]
   },
   "hexamod:IceCube": {
-    "NAME": "Xanatos's Icy Charm",
+    "NAME": "Xanatos' Icy Charm",
     "FLAVOR": "I feel... cold.",
     "DESCRIPTIONS": [
       "Gain [E] at the start of your turn. #yhexamod:Soulburn takes #b4 turns to activate."
@@ -60,14 +60,14 @@
     "NAME": "Soul of Chaos",
     "FLAVOR": "Mayhem, made manifest.",
     "DESCRIPTIONS": [
-      "The third Ghostflame becomes a Mayhem Ghostflame. NL Mayhem Ghostflame activates when you end your turn on it. NL Ignition: Play the top card of your draw pile."
+      "The fourth Ghostflame becomes a #yMayhem #yGhostflame. NL #yMayhem #yGhostflame activates when you end your turn on it. NL #yIgnition: Play the top card of your draw pile."
     ]
   },
   "hexamod:JarOfFuel": {
     "NAME": "Olexa's Shield",
     "FLAVOR": "Protection on-demand.",
     "DESCRIPTIONS": [
-      "Swap the positions of the Bolstering Ghostflame and the first Searing Ghostflame."
+      "Swap the positions of the #yBolstering #yGhostflame and the first #ySearing #yGhostflame."
     ]
   },
   "hexamod:BolsterEngine": {
