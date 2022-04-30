@@ -21,7 +21,7 @@
   "expansioncontent:LastStand": {
     "NAME": "Last Stand",
     "DESCRIPTION": "Снимает все отриц. эффекты. NL Даёт 1 Силы. NL Даёт 2 Силы если ОЗ ниже половины.",
-    "UPGRADE_DESCRIPTION": "Чемпион. NL Снимает все отриц. эффекты. NL Даёт 1 Силы. NL Даёт 2 Силы и восполняет !M! ОЗ, когда ОЗ опускается ниже половины."
+    "UPGRADE_DESCRIPTION": "Снимает все отриц. эффекты. NL Даёт 1 Силы. NL Даёт 2 Силы и восполняет !M! ОЗ, когда ОЗ опускается ниже половины."
   },
   "expansioncontent:YouAreMine": {
     "NAME": "YOU ARE MINE!",

@@ -313,8 +313,8 @@
 
   "Gremlin:PinNeedle": {
     "NAME": "Булавка", //уточнить
-    "DESCRIPTION": "Наносит !D! урона. NL bronze:Insert !M! *Укола *булавкой. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL bronze:Insert !M! Улучшенных *Укола *булавкой. NL Сжигается."
+    "DESCRIPTION": "Наносит !D! урона. NL bronze:Вставляет !M! *Укола *булавкой. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL bronze:Вставляет !M! Улучшенных *Укола *булавкой. NL Сжигается."
   },
 
   "Gremlin:Pinprick": {

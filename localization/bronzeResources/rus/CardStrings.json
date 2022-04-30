@@ -583,7 +583,7 @@
     "DESCRIPTION": "Эфирная. NL Накладывает !M! Слабости. NL Сжигается."
   },
   "bronze:UnknownStatus": {
-    "NAME": "Perplex",
+    "NAME": "Озадаченность",
     "DESCRIPTION": "Даёт !B! Защиты." //наносит Защиту, лол
   },
   "bronze:TinkerersToolbox": {
