@@ -43,6 +43,12 @@
       "В конце вашего хода выберите карту, которую хотите #yСжечь."
     ]
   },
+  "downfall:SpotWeakness": {
+    "NAME": "Spot Weakness",
+    "DESCRIPTIONS": [
+      "Every turn in which you play an attack card with this power active, this enemy gains #b"," #yStrength. Currently it will gain #b", " #yStrength."
+    ]
+  },
   "downfall:PoisonResist": {
     "NAME": "Сопротивление ядам",
     "DESCRIPTIONS": [
@@ -98,7 +104,7 @@
   "downfall:SilentShivTimeEaterPower": {
     "NAME": "Bag of Knives",
     "DESCRIPTIONS": [
-      "Безмолвная получает #yЗаточку, когда вы разыгрываете первую карту в ходу с #b0 стоимостью."
+      "Безмолвная получает #b2 #yЗаточки, когда вы разыгрываете первую карту в ходу со стоимостью #b2 или больше."
       ]
   },
   "downfall:NeowBagOfKnives": {
@@ -122,15 +128,13 @@
   "downfall:SilentPoisonPower": {
     "NAME": "Warning: Highly Toxic",
     "DESCRIPTIONS": [
-      "Вы получаете #yСопротивление #yядам в бою с Безмолвной."
+      "Делает #yЯд блокируемым и он будет наносить урон в конце хода. NL В начале боя добавляет #yАнтидот в колоду."
     ]
   },
   "downfall:NeowHighlyToxic": {
     "NAME": "Warning: Highly Toxic",
     "DESCRIPTIONS": [
-      "Ньяу накладывает #b10 #yЯда в начале своего хода. Вы получаете #yСопротивление #yядам."
- //нядо уточнение
-, тут было per turn
+      "Ньяу накладывает #b5 #yЯда в начале своего хода. Делает #yЯд блокируемым и он будет наносить урон в конце хода. NL В начале боя добавляет #b2 #yАнтидота в колоду."
     ]
   },
   "downfall:DefectVoidPower": {
@@ -161,13 +165,13 @@
     "NAME": "Unbiased Cognition",
     "DESCRIPTIONS": [
       "Получает #b",
-      " #yФокуса, когда вы разыгрываете #yРедкую карту."
+      " #yФокуса, когда вы разыгрываете #yТалант."
     ]
   },
   "downfall:NeowUnbiasedCognition": {
     "NAME": "Unbiased Cognition",
     "DESCRIPTIONS": [
-      "Ньяу получает #b2 #yСилы, когда вы разгрываете #yРедкую карту."
+      "Ньяу получает #b2 #yСилы, когда вы разгрываете #yТалант."
     ]
   },
   "downfall:IroncladStatusPower": {
@@ -201,9 +205,7 @@
     "NAME": "Бастион",
     "DESCRIPTIONS": [
       "Латаносец призывает Укрепление, которое даёт #b15 #yЗащиты each turn. NL Латаносец теряет #yБаррикаду и получает #b5 #yСилы в начале своего хода, когда Укрепление погибает."
- //ждём уточнялки
-, но пока пусть будет в начале своего хода, вдруг ему облик дали. Fortification - щит сердца
- только с другим именем
+ //ждём уточнялки, но пока пусть будет в начале своего хода, вдруг ему облик дали. Fortification - щит сердца только с другим именем
     ]
   },
   "downfall:NeowBastion": {
@@ -221,7 +223,7 @@
   "downfall:NeowMantra": {
     "NAME": "Мантра",
     "DESCRIPTIONS": [
-      "Ньяу конвертирует #b10 #yМантры в #b10 #yСилы, когда #yМантра достигнет #b10."
+      "Ньяу переходит в #yБожественность и начинает наносить тройной урон, когда #yМантра достигнет #b10."
     ]
   },
   "downfall:NeowSeeingDoubleProduct": {
@@ -249,5 +251,129 @@
     "DESCRIPTIONS": [
       "#yFired Ammo is upgraded afterwards."
     ]
-  } // по идее не используется
+  },
+ // по идее не используется
+  "downfall:OnDeathEveryoneStr": {
+    "NAME": "Last Gasp: Inflame+",
+    "DESCRIPTIONS": [
+      "When this character dies, ALL characters (including you) gain #b",
+      " #yStrength."
+    ]
+  },
+  "downfall:OnDeathEveryoneThorns": {
+    "NAME": "Last Gasp: Caltrops+",
+    "DESCRIPTIONS": [
+      "When this character dies, ALL characters (including you) gain #b",
+      " #yThorns."
+    ]
+  },
+  "downfall:OnDeathEveryoneBuffer": {
+    "NAME": "Last Gasp: Buffer+",
+    "DESCRIPTIONS": [
+      "When this character dies, ALL characters (including you) gain #b",
+      " #yBuffer. (Buffer: Prevents the next time you would lose HP)"
+    ]
+  },
+  "downfall:OnDeathEveryoneVigor": {
+    "NAME": "Last Gasp: Wreath of Flame+",
+    "DESCRIPTIONS": [
+      "When this character dies, ALL characters (including you) gain #b",
+      " #yVigor. (Vigor: Increases damage of a single Attack)"
+    ]
+  },
+  "downfall:OnDeathEveryoneRuggedVuln": {
+    "NAME": "Last Gasp: Gestalt",
+    "DESCRIPTIONS": [
+      "When this character dies, ALL characters (including you) gain #b",
+      " #yRugged and #b",
+      " #yVulnerable. (Rugged: Reduces unblocked damage taken to 3) "
+    ]
+  },
+  "downfall:MonsterVigor": {
+    "NAME": "Vigor",
+    "DESCRIPTIONS": [
+      "This character's next attack deals #b",
+      " additional damage."
+    ]
+  },
+  "downfall:HermitConcentrateAdder": {
+    "NAME": "Deadly Focus",
+    "DESCRIPTIONS": [
+      "Hermit has Concentration, which adds special #yDead #yOn effects to his cards. Dealing #b10 unblocked damage to him breaks the concentration, causing his cards to lose their #yDead #yOn effects."
+    ]
+  },
+  "downfall:HermitConcentrationPower": {
+    "NAME": "Concentrated",
+    "DESCRIPTIONS": [
+      "Hermit's cards get bonus #yDead #yOn effects while he is concentrated. Deal #b",
+      " more unblocked damage to break his Concentration this turn.",
+      "Hermit's concentration is broken and #yDead #yOn effects don't trigger this turn."
+    ]
+  },
+  "downfall:HermitWheelOfFortune": {
+    "NAME": "Wheel of Fortune",
+    "DESCRIPTIONS": [
+      "Whenever you strike Hermit with an Attack, its leftmost card is discarded and it draws a card. Every #b",
+      " times this happens, Hermit gains #b1 #yStrength."
+    ]
+  },
+  "downfall:HermitDoomsday": {
+    "NAME": "Doomsday",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain an #rImpending #rDoom with #yRetain."
+    ]
+  },
+  "downfall:NeowEclipse": {
+    "NAME": "Eclipse",
+    "DESCRIPTIONS": [
+      "Neow adds an #yEthereal #yImpending #yDoom to your hand every turn."
+    ]
+  },
+  "downfall:NeowWheelOfDeath": {
+    "NAME": "Wheel Of Death",
+    "DESCRIPTIONS": [
+      "Every #b",
+      " cards you play, Neow gains #b",
+      " #yStrength."
+    ]
+  },
+  "downfall:NeowDistracting": {
+    "NAME": "Distracting",
+    "DESCRIPTIONS": [
+      "First time you deal #yAttack damage to Neow in a turn, gain #b1 less [E] next turn."
+    ]
+  },
+  "downfall:NextTurnPowerPower": {
+    "NAME": "Next Turn ",
+    "DESCRIPTIONS": [
+      "BUG! You should not see this",
+      "Next turn, gain #b",
+      " ",
+      ".",
+      "LOCALIZATION NOTE: Please keep the space after 'Next Turn' in the NAME field."
+    ]
+  },
+  "downfall:NeowStayAt1Hp": {
+    "NAME": "Unkillable",
+    "DESCRIPTIONS": [
+      "Damage cannot reduce Neow below #b1 HP. Neow will heal to full and enter a new phase instead."
+    ]
+  },
+  "downfall:NeowDivinity": {
+    "NAME": "Божественность",
+    "DESCRIPTIONS": [
+      "Ньяу наносит тройной урон в этом ходу."
+    ]
+  },
+  "downfall:NeowSpirit": {
+    "NAME": "Дух героя",
+    "DESCRIPTIONS": [
+      "When Neow uses a Buff intent, she gains #b6 #yStrength and... ",
+      " NL Gains #b1 Demon Form. #y(Ironclad)",
+      " NL Gains #b2 Thorns. #y(Silent)",
+      " NL Gains #b2 Buffer. #y(Defect)",
+      " NL Gains #b5 Mantra. #y(Watcher)",
+      " NL Adds #b2 random #rCurses to your draw pile. #y(Hermit)"
+    ]
+  } //Ёшкин крот этого казино
 }

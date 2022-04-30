@@ -1,11 +1,11 @@
 {
  //ВСЕ Реликвии до Gremlin Sack не используются
   "downfall:NeowBlessing": {
-    "NAME": "Neow's Blessing",
+    "NAME": "Благословение Ньяу",
     "FLAVOR": "Ease your rage. Be as tough and unyielding as the Spire itself.",
     "DESCRIPTIONS": [
       "Boss has increased max HP, no starter relic, draws #b2 less cards, and has 1 less ",
-      " . NL At the start of combat, Boss gains a unique Buff effect."
+      " . NL At the start of combat, Boss gains a unique Buff effec и не может быть #yОглушён."
     ]
   },
   "downfall:NeowBlessing_Player": {
@@ -382,7 +382,7 @@
   "downfall:GremlinSack": {
     "NAME": "Мешочек гремлина",
  //с этой Реликвии начинаются находимые в забеге реликвии
-    "FLAVOR": "Ты не мог собрать Гремлина и его телохранителя.",
+    "FLAVOR": "Ты не мог собрать Гремлина и его телохранителя.",//The Gremlin and his bodyguard were no match for you
  //Либо сравниться с... Как я понимаю тут игра слов с Match.
     "DESCRIPTIONS": [
       "При получении добавила следующие карты в колоду: NL ",
@@ -514,7 +514,9 @@
       "The Heart's corruption knows no limits - not even precious pets.", 
 // Злая версия membership card
       "Искажённый курьер",
-      "Цены Сердца снижены на #b20%. Его запас карт, реликвий и зелий не иссякает."
+      "Цены Сердца снижены на #b20%. Его запас карт, реликвий и зелий не иссякает.",
+      "Combat reward screens now contain Colorless cards and cards from the Hero colors.",
+      "Даёт [E] в начале вашего хода. Вы не можете получать #yДуши. Ломание не потребует #yДуш."
  //изменение flavor и name мышки
     ]
   },
