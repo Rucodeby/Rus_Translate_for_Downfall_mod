@@ -40,7 +40,10 @@
       " NL bronze:Компиляция",
       "bronze:Компиляция",
       " NL bronze:Кодируется.",
-      "bronze:Кодируется. NL "
+      "bronze:Кодируется. NL ",
+      " π NL Когда bronze:Закодирована,",
+      "LOCALIZATION NOTE: The text above must be equal to the start of Replicate's extra description line.",
+      "ERR - NO_DUPE_FULL_RELEASES"
     ]
   },
   "bronze:CompileDisplayPanel": {

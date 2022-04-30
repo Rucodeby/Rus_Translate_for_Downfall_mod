@@ -6,7 +6,7 @@
 //Wards = Опеки
   "Gremlin:ArmsTheft": {
     "NAME": "Кража оружия",
-    "DESCRIPTION": "Ворует !M! Силы. NL Сжигается."
+    "DESCRIPTION": "gremlin:Ворует !M! Силы. NL Сжигается."
   },
 
   "Gremlin:Astound": {
@@ -38,7 +38,7 @@
 
   "Gremlin:BulkUp": {
     "NAME": "Утолщение кожи",
-    "DESCRIPTION": "Даёт !M! Временого ОЗ. NL gremlin:Меняет на gremlin:Толстого_Гремлина."
+    "DESCRIPTION": "Даёт !M! Временого_ОЗ. NL gremlin:Меняет на gremlin:Толстого_Гремлина."
   },
 
   "Gremlin:BurlyBlow": {
@@ -87,7 +87,7 @@
 
   "Gremlin:Dazzle": {
     "NAME": "Ослепление",
-    "DESCRIPTION": "Наносит !D! урона. NL Ворует 2 Силы, если у вас есть 3 или больше gremlin:Чар. NL Сжигается."
+    "DESCRIPTION": "Наносит !D! урона. NL gremlin:Ворует 2 Силы, если у вас есть 3 или больше gremlin:Чар. NL Сжигается."
   },
 
   "Gremlin:Defend": {
@@ -98,7 +98,7 @@
   "Gremlin:Duplicate": {
     "NAME": "Дубликатор",
     "DESCRIPTION": "Создаёт !M! gremlin:Отголоска Атаки в руке. Они стоят на 1 меньше. NL Сжигается.",
-    
+    "UPGRADE_DESCRIPTION": "Создаёт !M! gremlin:Отголоска Атаки в руке. Они стоят на 1 меньше."
   },
 
   "Gremlin:EdibleArmor": {
@@ -155,7 +155,7 @@
 
   "Gremlin:FlipOut": {
     "NAME": "Сорваться", 
-    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам . NL Вместо получения Защиты, наносит урон ВСЕМ врагам до конца хода."
+    "DESCRIPTION": "Наносит !D! урона. NL Заменяет получение Защиты на урон ВСЕМ врагам до конца хода."
   },
 
   "Gremlin:Flurry": {
@@ -169,7 +169,7 @@
   },
 
   "Gremlin:FollowThrough": {
-    "NAME": "Завершение",
+    "NAME": "За лидера!",
     "DESCRIPTION": "Наносит !D! урона. NL Даёт !M! Временой Силы."
   },
 
@@ -228,7 +228,7 @@
 
   "Gremlin:Heckle": {
     "NAME": "Кайф",
-    "DESCRIPTION": "Даёт !M! Временого ОЗ, когда вы накладываете отриц. эффект ."
+    "DESCRIPTION": "Даёт !M! Временого_ОЗ, когда вы накладываете отриц. эффект ."
   },
 
   "Gremlin:InfiniteBlocks": {
@@ -296,8 +296,8 @@
 
   "Gremlin:PartyStick": {
     "NAME": "Палка веселья",
-    "DESCRIPTION": "Эфирная. Неиграбельная. NL Даёт [E] , когда вы gremlin:Меняетесь пока эта карта в руке.",
-    "UPGRADE_DESCRIPTION": "Неиграбельная. NL Даёт [E] , когда вы gremlin:Меняетесь пока эта карта в руке",
+    "DESCRIPTION": "Эфирная. Неиграбельная. NL Даёт [E] , когда вы gremlin:Меняетесь.",
+    "UPGRADE_DESCRIPTION": "Неиграбельная. NL Даёт [E] , когда вы gremlin:Меняетесь.",
     "EXTENDED_DESCRIPTION": ["Никому нельзя играть с этой палкой."]
   },
 
@@ -308,13 +308,13 @@
 
   "Gremlin:Pickpocket": {
     "NAME": "Карманная кража",
-    "DESCRIPTION": "Ворует весь Артефакт. NL Наносит !D! урона. NL Сжигается."
+    "DESCRIPTION": "gremlin:Ворует весь Артефакт. NL Наносит !D! урона. NL Сжигается."
   },
 
   "Gremlin:PinNeedle": {
     "NAME": "Булавка", //уточнить
-    "DESCRIPTION": "Наносит !D! урона. NL Добавляет !M! *Уколов *булавкой в стопку добора. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет !M! *Уколов *булавкой+ в стопку добора. NL Сжигается."
+    "DESCRIPTION": "Наносит !D! урона. NL bronze:Insert !M! *Укола *булавкой. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL bronze:Insert !M! Улучшенных *Укола *булавкой. NL Сжигается."
   },
 
   "Gremlin:Pinprick": {

@@ -230,9 +230,11 @@
   },
   {
     "NAMES": [
-      "buried"
+      "зарытая",
+      "зарытую",
+      "зарытые"
     ],
-    "PROPER_NAME": "Buried",
-    "DESCRIPTION": "Buried cards will always be chosen last for random #yExhume effects."
+    "PROPER_NAME": "Зарытая", //buried
+    "DESCRIPTION": "Зарытые карты будут возвращаться случайной #yЭксгумацией в последнюю очередь."
   }
 ]

@@ -138,8 +138,8 @@
   },
   "Slimebound:Lick": {
     "NAME": "Лизь",
-    "DESCRIPTION": "slimeboundmod:Buried NL Накладывает !slime! slimeboundmod:Слизи. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:Buried NL Накладывает !M! Слабости и !slime! slimeboundmod:Слизи. NL Вы берёте карту. NL Сжигается."
+    "DESCRIPTION": "slimeboundmod:Зарытая NL Накладывает !slime! slimeboundmod:Слизи. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:Зарытая NL Накладывает !M! Слабости и !slime! slimeboundmod:Слизи. NL Вы берёте карту. NL Сжигается."
   },
   "Slimebound:HauntingLick": {
     "NAME": "Терзающий лизь",
@@ -168,7 +168,7 @@
   },
   "Slimebound:TongueLash": {
     "NAME": "Хлёст языком",
-    "DESCRIPTION": "Наносит !D! урона. Наносит доп. !M! урона за каждую Сожжённую карту содержащую \"Лизь\" в названии." //Отточенный лизь
+    "DESCRIPTION": "Наносит !D! урона. Наносит доп. !M! урона за каждую Сожжённую карту содержащую «Лизь» в названии." //Отточенный лизь
   },
   "Slimebound:ItLooksTasty": {
     "NAME": "Выглядит вкусно",
@@ -276,7 +276,7 @@
     "DESCRIPTION": "Наносит !D! урона. NL Восполняет !M! ОЗ. NL slimeboundmod:Слизывание разыгрывает дважды. NL Сжигается."
   },
   "Slimebound:DisruptingSlam": {
-    "NAME": "Just Desserts",
+    "NAME": "На десертик",
     "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. expansioncontent:Эксгумирует !M! случайных *Лизь."
   },
   "Slimebound:PrepareCrush": {
