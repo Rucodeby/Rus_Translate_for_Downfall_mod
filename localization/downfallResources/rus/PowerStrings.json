@@ -9,7 +9,7 @@
     ]
   },
   "downfall:SoulSteal": {
-    "NAME": "Вор душ",
+    "NAME": "Кража душ",
     "DESCRIPTIONS": [
       "Украл уже #b",
       " Душ."
@@ -33,20 +33,20 @@
   "downfall:TotemInvulnerable": {
     "NAME": "Живая стена",
     "DESCRIPTIONS": [
-      "Может погибнуть, только если все остальные Головы имеют #b1 ОЗ.  Погибает, если погибает любая другая Голова."
+      "Может погибнуть, только если все остальные Головы имеют #b1 ОЗ. Погибает, если погибает любая другая Голова."
  //погибает т.к. так в стандартном шпиле, если не верите посмотрите на Stasis и Spore Cloud powers
     ]
   },
   "downfall:ExhaustCardsPower": {
-    "NAME": "Forgetful",
+    "NAME": "Беспамятство",
     "DESCRIPTIONS": [
       "В конце вашего хода выберите карту, которую хотите #yСжечь."
     ]
   },
   "downfall:SpotWeakness": {
-    "NAME": "Spot Weakness",
+    "NAME": "Поиск слабостей",
     "DESCRIPTIONS": [
-      "Every turn in which you play an attack card with this power active, this enemy gains #b"," #yStrength. Currently it will gain #b", " #yStrength."
+      "Получает #b"," #yСилы в начале своего хода, когда вы разыгрываете #yАтаку пока данный эффект активен. На данный момент получит #b", " #yСилы."
     ]
   },
   "downfall:PoisonResist": {
@@ -62,19 +62,19 @@
     ]
   },
   "downfall:WatcherAngryPower": {
-    "NAME": "Unbridled Rage",
+    "NAME": "Неукротимый гнев",
     "DESCRIPTIONS": [
       "В конце своего хода Созерцающая перейдёт в #yГнев, когда её ОЗ опустится ниже #b50%. NL #yГнев Созерцающей увеличивает получаемый и наносимый урон на #b50% вместо #b100%."
     ]
   },
   "downfall:NeowUnbridledRage": {
-    "NAME": "Unbridled Rage",
+    "NAME": "Неукротимый гнев",
     "DESCRIPTIONS": [
       "Ньяу получит #b6 #yСилы, когда её ОЗ опустится ниже #b50% в конце своего хода. NL Срабатывает один раз за бой."
     ]
   },
   "downfall:WatcherCripplePower": {
-    "NAME": "Blasphemer's Demise",
+    "NAME": "Кончина святотатца",
     "DESCRIPTIONS": [
       "Когда Созерцающая потеряет #b",
       " ОЗ, она получит #b-4 #yСилы при след. переходе в #yБожественность или разыгрывании #yРагнарёка.",
@@ -82,7 +82,7 @@
     ]
   },
   "downfall:NeowBlasphemersDemise": {
-    "NAME": "Blasphemers Demise",
+    "NAME": "Кончина святотатца",
     "DESCRIPTIONS": [
       "Когда Ньяу потеряет #b",
       " ОЗ она не получит #b10 #yСилы при след. планировании наложить полож. эффект.",
@@ -90,49 +90,49 @@
     ]
   },
   "downfall:WatcherDivinityPower": {
-    "NAME": "Fleeting Faith",
+    "NAME": "Мимолётная вера",
     "DESCRIPTIONS": [
       "Созерцающая получает #b1 #yМантру, когда вы разыгрываете карту. NL Созерцающая теряет #b5 #yМантры в начале своего хода. NL Созерцающая не выходит из #yБожественности в конце хода."
     ]
   },
   "downfall:NeowFleetingFaith": {
-    "NAME": "Fleeting Faith",
+    "NAME": "Мимолётная вера",
     "DESCRIPTIONS": [
       "Ньяу получает #b1 #yМантру, когда вы разыгрываете карту. Ньяу теряет #b5 #yМантры в начале своего хода."
     ]
   },
   "downfall:SilentShivTimeEaterPower": {
-    "NAME": "Bag of Knives",
+    "NAME": "Сумка ножей",
     "DESCRIPTIONS": [
       "Безмолвная получает #b2 #yЗаточки, когда вы разыгрываете первую карту в ходу со стоимостью #b2 или больше."
       ]
   },
   "downfall:NeowBagOfKnives": {
-    "NAME": "Bag of Knives",
+    "NAME": "Сумка ножей",
     "DESCRIPTIONS": [
       "Наносит #b4 урона, когда вы разыгрываете первые #b2 карты в ходу с #b0 стоимостью."
     ]
   },
   "downfall:SilentMirrorImagePower": {
-    "NAME": "Seeing Double",
+    "NAME": "Затуманивание взгляда",
     "DESCRIPTIONS": [
       "Зеркальный образ Безмолвной скрывает её местоположение в начале каждого вашего хода. Зеркальный образ исчезает до конца хода, когда вы атакуете его или Безмолвную."
     ]
   },
   "downfall:NeowSeeingDouble": {
-    "NAME": "Seeing Double",
+    "NAME": "Затуманивание взгляда",
     "DESCRIPTIONS": [
       "В начале каждого вашего хода первая #yАтака нацеленная на Ньяу нанесёт #b0 урона."
     ]
   },
   "downfall:SilentPoisonPower": {
-    "NAME": "Warning: Highly Toxic",
+    "NAME": "Осторожно, высокая токсичность",
     "DESCRIPTIONS": [
       "Делает #yЯд блокируемым и он будет наносить урон в конце хода. NL В начале боя добавляет #yАнтидот в колоду."
     ]
   },
   "downfall:NeowHighlyToxic": {
-    "NAME": "Warning: Highly Toxic",
+    "NAME": "Осторожно, высокая токсичность",
     "DESCRIPTIONS": [
       "Ньяу накладывает #b5 #yЯда в начале своего хода. Делает #yЯд блокируемым и он будет наносить урон в конце хода. NL В начале боя добавляет #b2 #yАнтидота в колоду."
     ]
@@ -140,7 +140,7 @@
   "downfall:DefectVoidPower": {
     "NAME": "Энерговор",
     "DESCRIPTIONS": [
-      "Whenever Defect generates a Void, it goes to the top of your draw pile."
+      "Добавляет #yБездну в вашу стопку добора, а не только себе."
     ]
   },
   "downfall:NeowEnergyThief": {
@@ -150,53 +150,53 @@
     ]
   },
   "downfall:DefectAncientConstructPower": {
-    "NAME": "Ancient Construct",
+    "NAME": "Древний конструкт",
     "DESCRIPTIONS": [
       "Призывает 2 Бронзовых сферы в начале боя. NL Получает 1 #yАртефакт, если у него нет #yАртефакта в конце своего хода."
     ]
-  },
+  }, //в ориге вроде тоже конструкты...
   "downfall:NeowAncientConstruct": {
-    "NAME": "Ancient Construct",
+    "NAME": "Древний конструкт",
     "DESCRIPTIONS": [
       "Ньяу получает #b2 #yАртефакта, если у неё нет #yАртефакта в конце хода."
     ]
   },
   "downfall:DefectCuriosity": {
-    "NAME": "Unbiased Cognition",
+    "NAME": "Объективное восприятие",
     "DESCRIPTIONS": [
       "Получает #b",
       " #yФокуса, когда вы разыгрываете #yТалант."
     ]
   },
   "downfall:NeowUnbiasedCognition": {
-    "NAME": "Unbiased Cognition",
+    "NAME": "Объективное восприятие",
     "DESCRIPTIONS": [
       "Ньяу получает #b2 #yСилы, когда вы разгрываете #yТалант."
     ]
   },
   "downfall:IroncladStatusPower": {
-    "NAME": "Synchronize",
+    "NAME": "Синхронизация",
     "DESCRIPTIONS": [
       "Добавляет копию каждого создаваемого #yСтатуса в вашу стопку сброса."
     ]
   },
  
   "downfall:NeowSyncronize": {
-    "NAME": "Synchronize",
+    "NAME": "Синхронизация",
     "DESCRIPTIONS": [
-      "Ньяу добавляет #yСтатус в стопку сброса every turn."
+      "Ньяу добавляет #yСтатус в стопку сброса в начале вашего хода."
     ]
   },
  //ждём уточнение
   "downfall:IroncladMushroomPower": {
-    "NAME": "Feeding Frenzy",
+    "NAME": "Безумное поедание",
     "DESCRIPTIONS": [
       "Жнец Латаносца не #yСжигается и наносит урон ВСЕМ Грибам. NL Латаносец получает #b1 #yСилы, когда убивает Гриб."
  //Mushroom - те мыши
     ]
   },
   "downfall:NeowFeedingFrenzy": {
-    "NAME": "Feeding Frenzy",
+    "NAME": "Безумное поедание",
     "DESCRIPTIONS": [
       "Ньяу восполняет ОЗ, когда наносит любой урон по ОЗ."
     ]
@@ -205,7 +205,6 @@
     "NAME": "Бастион",
     "DESCRIPTIONS": [
       "Латаносец призывает Укрепление, которое даёт #b15 #yЗащиты в начале своего хода. NL Латаносец теряет #yБаррикаду и получает #b5 #yСилы в начале своего хода, когда Укрепление погибает."
- //ждём уточнялки, но пока пусть будет в начале своего хода, вдруг ему облик дали. Fortification - щит сердца только с другим именем
     ]
   },
   "downfall:NeowBastion": {
@@ -215,9 +214,9 @@
     ]
   },
   "downfall:MerchantStrengthPower": {
-    "NAME": "Soul Stealer",
+    "NAME": "Вор душ",
     "DESCRIPTIONS": [
-      "Merchant still has the Strength it earned from Soul Steal this run, and gains an equal amount of Dexterity."
+      "Торговец сохраняет #yСилу полученную от «Кражи душ» в этом забеге и получает такое же количество #yЛовкости."
     ]
   },
   "downfall:NeowMantra": {
@@ -233,10 +232,10 @@
     ]
   },
   "downfall:CrowbotRitualPower": {
-    "NAME": "Reprogram:Ritual",
+    "NAME": "Переписка: «Ритуал»",
     "DESCRIPTIONS": [
-      "When #yCrowBot is at or below #b50% HP,it lose #b3 HP and gain #b",
-      " #yStrength at the end of its turn."
+      "Получает #b",
+      " #yСилы и теряет #b3 ОЗ в конце своего хода, когда его ОЗ #b50% или ниже."
     ]
   },
   "downfall:DamageMultiplier": {
@@ -251,38 +250,37 @@
     "DESCRIPTIONS": [
       "#yFired Ammo is upgraded afterwards."
     ]
-  },
- // по идее не используется
+  }, // по идее не используется
   "downfall:OnDeathEveryoneStr": {
-    "NAME": "Последний вздох: \"Воспламенение\"",
+    "NAME": "Последний вздох: «Воспламенение»",
     "DESCRIPTIONS": [
       "Даёт ВСЕМ #b",
       " #yСилы, когда погибает."
     ]
   },
   "downfall:OnDeathEveryoneThorns": {
-    "NAME": "Последний вздох: \"Caltrops+\"",
+    "NAME": "Последний вздох: «Шипы+»",
     "DESCRIPTIONS": [
       "Даёт ВСЕМ #b",
       " #yШипов, когда погибает."
     ]
   },
   "downfall:OnDeathEveryoneBuffer": {
-    "NAME": "Последний вздох: \"Буфер+\"",
+    "NAME": "Последний вздох: «Буфер+»",
     "DESCRIPTIONS": [
       "Даёт ВСЕМ #b",
       " #yБуфера, когда погибает."
     ]
   },
   "downfall:OnDeathEveryoneVigor": {
-    "NAME": "Последний вздох: \"Wreath of Flame+\"",
+    "NAME": "Последний вздох: «Венец пламени+»",
     "DESCRIPTIONS": [
       "Даёт ВСЕМ #b",
       " #yБодрости, когда погибает."
     ]
   },
   "downfall:OnDeathEveryoneRuggedVuln": {
-    "NAME": "Последний вздох: \"Gestalt\"",
+    "NAME": "Последний вздох: «Гештальт»",
     "DESCRIPTIONS": [
       "Даёт ВСЕМ #b",
       " #yСтойкости и #b",
@@ -299,15 +297,15 @@
   "downfall:HermitConcentrateAdder": {
     "NAME": "Смертельный фокус",
     "DESCRIPTIONS": [
-      "Даёт Отшельнику концентрацию, которая добавляет к его картам эффекты #y\"В #yяблочко\". Нанесите #b10 урона по ОЗ, чтобы её сбить."
+      "Даёт Отшельнику концентрацию, которая добавляет к его картам эффекты #y«В #yяблочко». Нанесите #b10 урона по ОЗ, чтобы её сбить."
     ]
   },
   "downfall:HermitConcentrationPower": {
     "NAME": "Сконценртирован",
     "DESCRIPTIONS": [
-      "Даёт картам Отшельника эффекты #y\"В #yяблочко\". Нанесите ещё #b",
+      "Даёт картам Отшельника эффекты #y«В #yяблочко». Нанесите ещё #b",
       " урона по ОЗ, чтобы сбить эту концентрацию.",
-      "Концентрация теперь сбита и эффекты #y\"В #yяблочко\" не сработают в этом ходу."
+      "Концентрация теперь сбита и эффекты #y«В #yяблочко» не сработают в этом ходу."
     ]
   },
   "downfall:HermitWheelOfFortune": {
@@ -320,13 +318,13 @@
   "downfall:HermitDoomsday": {
     "NAME": "Судный день",
     "DESCRIPTIONS": [
-      "Добавляет в руку #r\"Надвигающуюся #rГибель\" с #yОставляемостью в начале каждого вашего хода."
+      "Добавляет в руку #r«Надвигающуюся #rГибель» с #yОставляемостью в начале каждого вашего хода."
     ]
   },
   "downfall:NeowEclipse": {
     "NAME": "Затмение",
     "DESCRIPTIONS": [
-      "Ньяу добавляет в руку #y\"Ethereal #yНадвигающуюся #yГибель\" в начале каждого вашего хода."
+      "Ньяу добавляет в руку #y«Ethereal #yНадвигающуюся #yГибель» в начале каждого вашего хода."
     ]
   },
   "downfall:NeowWheelOfDeath": {
@@ -344,7 +342,7 @@
     ]
   },
   "downfall:NextTurnPowerPower": {
-    "NAME": "Задержанная ",
+    "NAME": "Задержанная(ое) ",
     "DESCRIPTIONS": [
       "БАГ! Вы не должны были это видеть",
       "Даёт #b",
