@@ -28,11 +28,7 @@
   },
   "champ:SwordSigil": {
     "NAME": "Символ победы",
-    "DESCRIPTION": "Repeat this effect !M! раза. NL Сжигается."
-  },
-  "champ:FocusedGladiator": {
-    "NAME": "Фокус гладиатора",
-    "DESCRIPTION": "Активирует *Бонус champ:Техники !M! раза. Сжигается."
+    "DESCRIPTION": "Активирует *Бонус champ:Техники !M! раза. NL Сжигается."
   },
   "champ:FaceSlap": {
     "NAME": "Пощёчина",
@@ -62,12 +58,12 @@
     "DESCRIPTION": "Наносит !D! урона. NL Увеличивает *Бонус champ:Техники на !M! до конца хода."
   },
   "champ:FocusedDefense": {
-    "NAME": "Bob and Weave",
+    "NAME": "Прыг-скок",
     "DESCRIPTION": "Перейти в champ:Ярость. NL Даёт !B! Защиты. NL Даёт !M! champ:Бодрости"
   },
   "champ:FocusedBerserking": {
-    "NAME": "All Out",
-    "DESCRIPTION": "Сжигается. NL Без выхода из Стойки, активирует !M! раза:."
+    "NAME": "Изо всех сил",
+    "DESCRIPTION": "Сжигается. NL Без выхода из Стойки, активирует !M! раза:"
   },
   "champ:SetATrap": {
     "NAME": "Поставить ловушку",
@@ -169,7 +165,7 @@
     ]
   },
   "champ:FalseCounter": {
-    "NAME": "Rope-a-dope",
+    "NAME": "Канатный допинг",
     "DESCRIPTION": "Даёт !B! Защиты. NL Вы получаете [E] и берёте 2 карты в следующем ходу.",
     "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Вы получаете [E] [E] и берёте 2 карты в следующем ходу."
   },
@@ -179,7 +175,7 @@
     "UPGRADE_DESCRIPTION": "Начальная. NL Дважды активирует *Бонус champ:Техники, когда вы переходите в Стойку."
   },
   "champ:Lariat": {
-    "NAME": "Reinforced Body",
+    "NAME": "Укрепление тела",
     "DESCRIPTION": "Даёт !B! Защиты X раз.",
   },
   "champ:HoldFirm": {
@@ -195,7 +191,7 @@
     "DESCRIPTION": "Наносит !D! урона. NL Накладывает 2 Уязвимости и Слабости.",
   },
   "champ:ViciousMockery": {
-    "NAME": "Vicious Mockery",
+    "NAME": "Жестокая насмешка",
     "DESCRIPTION": "Даёт врагу 1 Силы. NL Даёт !M! champ:Бодрости.",
     "EXTENDED_DESCRIPTION": [
       "Berserker champ:Combo: Gain !M! temporary Strength. NL ",
@@ -203,11 +199,11 @@
     ]
   },
   "champ:PreciseThrust": {
-    "NAME": "Precise Thrust",
+    "NAME": "Точный укол",
     "DESCRIPTION": "Наносит !D! урона. NL champ:Комбо champ:Ярости - наносит !D! урона. NL champ:Комбо champ:Обороны - даёт !B! Защиты."
   },
   "champ:CrookedStrike": {
-    "NAME": "Crooked Strike",
+    "NAME": "Грязный удар",
     "DESCRIPTION": "Наносит !D! урона. NL Не снимает champ:Бодрость."
   },
   "champ:RapidStrikes": {
@@ -218,84 +214,84 @@
     "NAME": "Зачаровать меч",
     "DESCRIPTION": "Выберите карту в руке и увеличьте её урон на !M! до конца боя. Сжигается.",
     "EXTENDED_DESCRIPTION": [
-      "A poor time for that move."
+      "Сейчас не подходящее время для этого."
     ]
   },
   "champ:BladeFlurry": {
-    "NAME": "Flurry of Strikes",
-    "DESCRIPTION": "Наносит !D! урона. NL Следующий *Удар разыгрывается дважды."
+    "NAME": "Шквал ударов",
+    "DESCRIPTION": "Наносит !D! урона. NL Следующий *«Удар» разыгрывается дважды."
   },
   "champ:SwordThrow": {
     "NAME": "Метнуть меч",
     "DESCRIPTION": "Наносит !D! урона !M! раза. NL Даёт 2 Слабости. NL champ:Комбо champ:Ярости - Не даёт Слабости."
   },
   "champ:MurderStrike": {
-    "NAME": "Murder Strike",
+    "NAME": "Смертельный удар",
     "DESCRIPTION": "Оставляется. NL Наносит !D! урона. NL Наносит на !M! больше урона, когда вы разыгрываете Навык."
   },
   "champ:HeavySlash": {
-    "NAME": "Masterful Slash",
+    "NAME": "Порез мастера",
     "DESCRIPTION": "Наносит !D! урона. NL Добавляет случ. Навык в руку. Он стоит 0.",
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет случ. Улучшенный Навык в руку. Он стоит 0."
   },
   "champ:CheapShot": {
-    "NAME": "Cheap Shot",
+    "NAME": "Подлый приём",
     "DESCRIPTION": "Наносит !D! урона. NL Наносит в 2р больше урона боссу, hermit:Оглушает других врагов. NL Сжигается."
   },
   "champ:RisingSlash": {
-    "NAME": "Rising Strike",
+    "NAME": "Удар с подъёмом",
     "DESCRIPTION": "Наносит !D! урона. NL Наносит урон дважды, если последняя разыгранная карта - champ:Финишер."
   },
   "champ:Shatter": {
-    "NAME": "Shatter",
-    "DESCRIPTION": "снимает Защиту врага. NL Наносит !D! урона.",
-    "UPGRADE_DESCRIPTION": "снимает Защиту и Артефакт врага. NL Наносит !D! урона."
+    "NAME": "Раздробить",
+    "DESCRIPTION": "Снимает Защиту врага. NL Наносит !D! урона.",
+    "UPGRADE_DESCRIPTION": "Снимает Защиту и Артефакт врага. NL Наносит !D! урона."
   },
   "champ:EnragedBash": {
-    "NAME": "Enraged Bash",
-    "DESCRIPTION": "Наносит !D! урона. NL *BBerserker champ:Combo: This card hits an additional time this combat.",
+    "NAME": "Поток ярости",
+    "DESCRIPTION": "Наносит !D! урона. NL champ:Комбо champ:Ярости - наносит урон доп. раз до конца боя.",
     "EXTENDED_DESCRIPTION": [
-      "Deal !D! damage !M! times. NL *Berserker champ:Combo: This card hits an additional time this combat."
+      "Наносит !D! урона !M! раза. NL champ:Комбо champ:Ярости - наносит урон доп. раз до конца боя."
     ]
   },
   "champ:VampiricStrike": {
-    "NAME": "Clobber",
+    "NAME": "Избить",
     "DESCRIPTION": "Наносит !D! урона. NL Даёт Защиту, равную нанесённому урону по ОЗ."
   },
   "champ:AdrenalArmor": {
-    "NAME": "Adrenal Armor",
+    "NAME": "Броня адреналина",
     "DESCRIPTION": "Даёт !B! Защиты. NL Даёт !M! Временной Силы."
   },
   "champ:HeartStrike": {
-    "NAME": "Finish Him",//мк ты ли это
+    "NAME": "Завершающий приём",//мк ты ли это
     "DESCRIPTION": "Наносит !D! урона. NL Наносит урон дважды, если у врага меньше !M!% ОЗ.",
     "EXTENDED_DESCRIPTION": [
-      "A poor time for that move.",
-      "That foe isn't ready to be ended yet."
+      "Плохой выбор.",
+      "Этот враг ещё не присмерти."
     ]
   },
   "champ:CrownThrow": {
-    "NAME": "Crownarang",
-    "DESCRIPTION": "Наносит !D! урона. NL champ:Комбо champ:Ярости - вы берёте !M! Атаки"
+    "NAME": "Коронанг",
+    "DESCRIPTION": "Наносит !D! урона. NL champ:Комбо champ:Ярости - вы берёте !M! Атаки."
   },
   "champ:Encircle": {
-    "NAME": "Encircle",
+    "NAME": "Окружить",
     "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Активирует *Бонус Навыка за каждого врага, которому был нанесён урон."
   },
   "champ:LastStand": {
-    "NAME": "Last Stand",
+    "NAME": "Последний рубеж",
     "DESCRIPTION": "Снимает все отрицательные эффекты и даёт !M! Силы, когда ваше ОЗ меньше 50%.",
     "EXTENDED_DESCRIPTION": [
-      "~You've~ ~done~ ~it~ ~now...~",
-      "@DEFEAT??@ NL @IMPOSSIBLE!!@"
+      "~Этого~ ~я~ ~не~ ~потерплю...~",
+      "@ПОРАЖЕНИЕ??@ NL @НЕВОЗМОЖНО!!@"
     ]
   },
   "champ:RecklessLeap": {
-    "NAME": "Reckless Strike",
+    "NAME": "Безрассудный удар",
     "DESCRIPTION": "Наносит !D! урона. NL Даёт 2 Силы и отнимает 1 Ловкости. Сжигается.",
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Даёт 2 Силы и отнимает 1 Ловкости.",
     "EXTENDED_DESCRIPTION": [
-      "A poor time for that move."
+      "Можно было найти момент получше."
     ]
   },
   "champ:IgnorePain": {
@@ -304,19 +300,19 @@
     "UPGRADE_DESCRIPTION": "Вы игнорируете любую потерю ОЗ до следующего хода. NL Сжигается."
   },
   "champ:DeathBlow": {
-    "NAME": "Death Blow",
+    "NAME": "Кулак погибели",
     "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Даёт !M! champ:Бодрости. NL Сжигается."
   },
   "champ:ArenaPreparation": {
-    "NAME": "Arena Preparation",
+    "NAME": "Подготовка арены",
     "DESCRIPTION": "Добавляет !M! случ. Навыка в руку. NL Они Оставляются. NL Сжигается."
   },
   "champ:EndlessRage": {
-    "NAME": "Endless Rage",
+    "NAME": "Бескрайняя ярость",
     "DESCRIPTION": "Когда вы переходите в Стойку: "
   },
   "champ:SteelEdge": {
-    "NAME": "Steel Edge",
+    "NAME": "Стальное лезвие",
     "DESCRIPTION": "champ:Комбо champ:Ярости - наносит !D! урона X раз. NL champ:Комбо champ:Обороны - даёт !B! Защиты X раз.",
     "UPGRADE_DESCRIPTION": "champ:Комбо champ:Ярости - наносит !D! урона X+1 раз. NL champ:Комбо champ:Обороны - даёт !B! Защиты X+1 раз.",
     "EXTENDED_DESCRIPTION": [
@@ -328,18 +324,18 @@
     ]
   },
   "champ:Improvising": {
-    "NAME": "Improvising",
+    "NAME": "Импровизация",
     "DESCRIPTION": "Каждый ход возвращает первое разыгранное champ:Комбо в руку. NL Оно будет стоить 0 до разыгрывания."
   },
   "champ:CalledShot": {
-    "NAME": "Refreshment",
+    "NAME": "Освежиться",
     "DESCRIPTION": "champ:Комбо champ:Ярости - даёт [E] [E]  и Сжигается. NL champ:Комбо champ:Обороны - вы берёте !M! карты.",
     "UPGRADE_DESCRIPTION": "champ:Комбо champ:Ярости - даёт [E] [E] [E]  и Сжигается. NL champ:Комбо champ:Обороны - вы берёте !M! карты.",
     "EXTENDED_DESCRIPTION": [
       "champ:Комбо champ:Ярости - даёт [E] [E]  и Сжигается. NL ",
       "champ:Комбо champ:Ярости - даёт [E] [E] [E]  и Сжигается. NL ",
       "champ:Комбо champ:Обороны - вы берёте !M! карты.",
-      "A poor time for that move."
+      "Сейчас не подходящее время для этого."
     ]
   },
   "champ:PerfectedStrike": {
@@ -351,7 +347,7 @@
     "DESCRIPTION": "В начале каждого вашего хода даёт !M! champ:Бодрости за каждые 3 потраченные в прошлом ходу *Бодрости. Делает тоже самое для champ:Контратаки."
   },
   "champ:Duel": {
-    "NAME": "Challenge",
+    "NAME": "Испытание",
     "DESCRIPTION": "Даёт !B! Защиты. NL Наносит !D! урона. NL Разыгрывается дважды, если у цели есть Сила.",
     "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Наносит !D! урона. NL Разыгрывается дважды, если у цели есть Сила."
   },
@@ -370,7 +366,7 @@
     "UPGRADE_DESCRIPTION": "Начальная. NL Перейти в champ:Оборону. NL Увеличивает *Бонус champ:Обороны от Навыка на !M!."
   },
   "champ:GladiatorStyle": {
-    "NAME": "Good Clean Fight",
+    "NAME": "Хороший чистый бой",
     "DESCRIPTION": "Даёт !M! Силы. NL Даёт 1 Силы ВСЕМ врагам."
   },
   "champ:BerserkerStyle": {
@@ -379,32 +375,32 @@
     "UPGRADE_DESCRIPTION": "Начальная. NL Перейти в champ:Ярость. NL Увеличивает *Бонус champ:Ярости от Навыка на !M!."
   },
   "champ:Riposte": {
-    "NAME": "Riposte",
+    "NAME": "Выпад",
     "DESCRIPTION": "Эфирная. NL Наносит !D! урона. NL Сжигается."
   },
   "champ:Endure": {
-    "NAME": "Endure",
+    "NAME": "Терпеть",
     "DESCRIPTION": "Даёт !B! Защиты. NL На эту карту влияет Сила, вместо Ловкости.",
     "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL На эта карту влияет Сила."
   },
   "champ:PreemptiveStrike": {
-    "NAME": "Preemptive Strike",
-    "DESCRIPTION": "Наносит урон ВСЕМ врагам равный champ:Контратаке. NL Lose half of your champ:Counter.",
+    "NAME": "Удар на упреждение",
+    "DESCRIPTION": "Наносит урон ВСЕМ врагам равный champ:Контратаке. NL Отнимает половину champ:Контратаки.",
     "EXTENDED_DESCRIPTION": [
       " NL (Наносит !D! урона)",
-      "A poor time for that move."
+      "Так себе момент для этого удара."
     ]
   },
   "champ:Parry": {
     "NAME": "Парирование",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Даёт !M! champ:Контратаки. NL If your champ:Counter is used this turn, add *Riposte to your hand.",
-    "UPGRADE_DESCRIPTION": "Эфирная. NL Наносит урона равный champ:Counter used. NL Сжигается."
+    "DESCRIPTION": "Даёт !B! Защиты. NL Даёт !M! champ:Контратаки. NL Добавляет *Выпад в руку, если в прошлом ходу сработала *Контратака.",
+    "UPGRADE_DESCRIPTION": "Эфирная. NL Наносит урон равный использованной champ:Контратаке. NL Сжигается."
   },
   "champ:EnchantCrown": {
     "NAME": "Зачаровать корону",
     "DESCRIPTION": "Выберите карту в руке. Она будет стоить 0 до конца боя. NL Сжигается.",
     "EXTENDED_DESCRIPTION": [
-      "A poor time for that move."
+      "Не время баловаться с короной."
     ]
   },
   "champ:ModFinisherStrike": {
@@ -420,7 +416,7 @@
     ]
   },
   "champ:FancyFootwork": {
-    "NAME": "Fancy Footwork",
+    "NAME": "Работа ножками",
     "DESCRIPTION": "Перейти в Стойку отличную от текущей. NL Отнимает !M! ОЗ у ВСЕХ врагов, когда вы разыграете champ:Финишер в этом ходу."
   },
   "champ:TripleStrike": {
@@ -429,7 +425,7 @@
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет 2 Улучшенных *Удара в руку. Они стоят 0 и активируют *Бонус Навыка. NL Сжигается."
   },
   "champ:WindUp": {
-    "NAME": "Wind Up",
+    "NAME": "Завестись",
     "DESCRIPTION": "Перейти в Стойку на выбор. NL Вы кладёте champ:Финишер из стопки добора в руку. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "Перейти в Стойку на выбор. NL Вы кладёте champ:Финишер из стопки добора в руку.",
     "EXTENDED_DESCRIPTION": [

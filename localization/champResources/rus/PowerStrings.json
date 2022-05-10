@@ -1,239 +1,239 @@
 {
   "champ:CounterPower": {
-    "NAME": "Counter",
+    "NAME": "Контратака",
     "DESCRIPTIONS": [
-      "The next time you receive #yAttack damage, deal #b",
-      " damage back."
+      "Наносит #b",
+      " урона в ответ на следующую атаку."
     ]
   },
   "champ:FocusedDefPower": {
-    "NAME": "Focused: Defensive",
+    "NAME": "Фокус на обороне",
     "DESCRIPTIONS": [
-      "The next time you use a #yFinisher this turn, gain #b",
-      " #yBlock."
+      "Даст #b",
+      " #yЗащиты, когда вы разыграете #yФинишер в этом ходу."
     ]
   },
   "champ:FocusedBerPower": {
-    "NAME": "Fancy Foootwork",
+    "NAME": "Работа ножками",
     "DESCRIPTIONS": [
-      "The next time you use a #yFinisher this turn, ALL enemies lose #b",
-      " HP."
+      "Отнимет #b",
+      " ОЗ у ВСЕХ врагов, когда вы разыграете #yФинишер в этом ходу."
     ]
   },
   "champ:ShieldWallPower": {
-    "NAME": "Shield Wall",
+    "NAME": "Стена из щитов",
     "DESCRIPTIONS": [
-      "At the end of your turn, gain #b",
-      " #yCounter."
+      "В конце каждого вашего даёт #b",
+      " #yКонтратаки."
     ]
   },
   "champ:EntangleNextTurnPower": {
-    "NAME": "Sword Thrown",
+    "NAME": "Бросок меча",
     "DESCRIPTIONS": [
-      "You can't play #yAttacks next turn.",
-      "You can't play #yAttacks for the next #b",
-      " turns."
+      "Вы не сможете разыграть #yАтаки в следующем ходу.",
+      "Вы не сможете разыграть #yАтаки следующие #b",
+      " хода."
     ]
   },
   "champ:DrawLessNextTurnPower": {
-    "NAME": "Draw Reduction",
+    "NAME": "Снижение добора",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " less card next turn.",
-      " less cards next turn."
-    ]
+      "Вы берёте на #b",
+      " карту меньше в следующем ходу.",
+      " карты меньше в следующем ходу."
+    ] //нафига делать копии уже имеющихся power...
   },
   "champ:PushThroughPower": {
-    "NAME": "Ignoring Pain",
+    "NAME": "Игнорировать боль",
     "DESCRIPTIONS": [
-      "You cannot lose HP this turn.",
-      "You cannot lose HP this and the next #b",
-      " turns."
+      "Вы игнорируете любую потерю ОЗ в этом ходу.",
+      "Вы игнорируете любую потерю ОЗ в этом ходу и в следующих #b",
+      "."
     ]
   },
   "champ:WorseRupturePower": {
-    "NAME": "Endless Rage",
+    "NAME": "Бескрайняя ярость",
     "DESCRIPTIONS": [
-      "Whenever you lose HP on your turn, gain #b",
-      " temporary #yStrength."
+      "Даёт #b",
+      " временной #yСилы, когда вы теряете ОЗ во время своего хода."
     ]
   },
   "champ:ImprovisingPower": {
-    "NAME": "Improvising",
+    "NAME": "Импровизация",
     "DESCRIPTIONS": [
-      "The first time each turn you use a #yCombo, return it to your hand and it costs #b0 until played. #b",
-      " uses left.",
-      "The first #b",
-      " times each turn you use a #yCombo, return it to your hand and it costs #b0 until played. #b"
+      "Возвращает в руку первое разыгранное в ходу #yКомбо. Оно будет стоить #b0 до разыгрывания. NL Зарядов осталось: #b",
+      ".",
+      "Возвращает в руку первые #b",
+      " разыгранных в ходу #yКомбо. Они будут стоить #b0 до разыгрывания. #b"
     ]
   },
   "champ:CalledShotPower": {
-    "NAME": "Called Shot",
+    "NAME": "Командование",
     "DESCRIPTIONS": [
-      "The next time you play a #yFinisher, do not leave your #yStance.",
-      "The next #b",
-      " times you play a #yFinisher, do not leave your #yStance."
+      "Следующий #yФинишер не заставит вас выйти из #yСтойки.",
+      "Следующие #b",
+      " #yФинишера не заставят вас выйти из #yСтойки."
     ]
   },
   "champ:DancingMasterPower": {
-    "NAME": "Dancing Master",
+    "NAME": "Танцующий мастер",
     "DESCRIPTIONS": [
-      "The first time you play #yFinisher each turn, gain #b",
-      " [E] and draw #b",
-      " cards. ",
+      "Вы получаете #b",
+      " [E] и берёте #b",
+      " карты, когда разыгрваете первый в ходу #yФинишер. ",
       "",
-      "Used this turn.",
+      "Сработало в этом ходу.",
 	  ""
     ]
   },
   "champ:StrikeOfGeniusPower": {
-    "NAME": "Strike of Genius",
+    "NAME": "Удар гения",
     "DESCRIPTIONS": [
-      "At the start of your turn, add a random \"Strike\" to your hand. It costs #b0 until played and Exhausts.",
-      "At the start of your turn, add #b",
-      " random \"Strike\" to your hand. They cost #b0 until played and Exhaust."
+      "Добавляет в руку случ. «Удар» в начале каждого вашего хода. Он стоит #b0 до разыгрывания и #yСжигается.",
+      "Добавляет в руку #b",
+      " случ. «Удара» в начале каждого вашего хода. Они стоят #b0 до разыгрывания и #yСжигаются."
     ]
   },
   "champ:StrikeOfGeniusUpgradedPower": {
-    "NAME": "Strike of Genius+",
+    "NAME": "Удар гения+",
     "DESCRIPTIONS": [
-      "At the start of your turn, add a random #yupgraded \"Strike\" to your hand. It costs #b0 until played and Exhausts.",
-      "At the start of your turn, add #b",
-      " random #yupgraded \"Strike\" to your hand. They cost #b0 until played and Exhaust."
+      "Добавляет в руку случ. #yУлучшенный «Удар» в начале каждого вашего хода. Он стоит #b0 до разыгрывания и #yСжигается.",
+      "Добавляет в руку #b",
+      " случ. #yУлучшенных «Удара» в начале каждого вашего хода. Они стоят #b0 до разыгрывания и #yСжигаются."
     ]
   },
   "champ:DefensiveStylePower": {
-    "NAME": "Defensive Style",
+    "NAME": "Оборонительный стиль",
     "DESCRIPTIONS": [
-      "#yDefensive #ySkill Bounuses grant #b",
-      " additional #yCounter."
+      "Увеличивает #yБонус #yНавыка от #yОбороны на #b",
+      "."
     ]
   },
   "champ:GladiatorStylePower": {
-    "NAME": "Good Clean Fight",
+    "NAME": "Хороший чистый бой",
     "DESCRIPTIONS": [
-      "If you start your turn in no #yStance, gain #b",
-      " temporary #yStrength and #yDexterity."
+      "В начале вашего хода даёт #b",
+      " временной #yСилы и #yЛовкости, если вы не в #yСтойке."
     ]
   },
   "champ:BerserkerStylePower": {
-    "NAME": "Berserker Style",
+    "NAME": "Яростный стиль",
     "DESCRIPTIONS": [
-      "#yBerserker #ySkill Bonuses grant #b",
-      " more #yVigor."
+      "Увеличивает #yБонус #yНавыка от #yЯрости на #b",
+      "."
     ]
   },
   "champ:FalseCounterPower": {
-    "NAME": "False Counter",
+    "NAME": "Фальш контратака",
     "DESCRIPTIONS": [
-      "Next time #yCounter activates, only lose half your #yCounter.",
-      "The next #b",
-      " times #yCounter activates, only lose half your #yCounter."
+      "После следующего срабатывания #yКонтратака уменьшится только наполовину.",
+      "Следующие #b",
+      " срабатывания #yКонтратака уменьшится только наполовину."
     ]
   },
   "champ:EnergizedDurationPower": {
-    "NAME": "Energized",
+    "NAME": "Энергичность",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " additional [E] next turn.",
-      " additional [E] next turn.",
+      "Даёт #b",
+      " [E] в вашем следующем ходу.",
+      " [E] в вашем следующем ходу.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
   "champ:IronFortressPower": {
-    "NAME": "Technical Jig",
+    "NAME": "Техничная джига",
     "DESCRIPTIONS": [
-      "Whenever you enter a Stance, trigger its Skill Bonus",
+      "Когда вы переходите в #yСтойку, активирует её #yБонус #yНавыка",
       " #b",
-      " times."
+      " раза."
     ]
   },
   "champ:IronFortressVigorPower": {
-    "NAME": "Technical Jig: Berserker",
+    "NAME": "Техничная джига ярости",
     "DESCRIPTIONS": [
-      "Whenever you enter a Stance, trigger Berserker Stance's Skill Bonus",
+      "Когда вы переходите в #yСтойку, активирует #yБонус #yНавыка от #yЯрости",
       " #b",
-      " times."
+      " раза."
     ]
   },
   "champ:LastStandMod": {
-    "NAME": "Last Stand",
+    "NAME": "Последний рубеж",
     "DESCRIPTIONS": [
-      "At the start of turn, if HP is at or below 50%, cleanse all debuffs and gain ",
-      " Strength."
+      "В начале вашего хода даёт ",
+      " #yСилы и снимает все отриц. эффекты, если ваши ОЗ ниже или равны #b50%. (Один раз)"
     ]
   },
   "champ:GladiatorFormPower": {
-    "NAME": "Gladiator Form",
+    "NAME": "Облик гладиатора",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain #b",
-      " #yVigor for every #b3 spent this turn, then do the same for #yCounter."
+      "В начале каждого вашего хода за каждые #b3 потраченные в этом ходу #yБодрости даёт #b",
+      " #yБодрости. Делает тоже самое для #yКонтратаки."
     ]
   },
   "champ:NoBlockNextTurnPower": {
-    "NAME": "Shield Thrown",
+    "NAME": "Бросок щита",
     "DESCRIPTIONS": [
-      "You can't gain Block next turn.",
-      "You can't gain Block for the next #b",
-      " turns."
+      "Вы не сможете получать #yЗащиту на следующий ход.",
+      "Вы не сможете получать #yЗащиту следующие #b",
+      " хода."
     ]
   },
   "champ:UltimateStancePower": {
-    "NAME": "Ultimate Drain",
+    "NAME": "Утечка совершенства",
     "DESCRIPTIONS": [
-      "Ultimate Stance will expire this turn.",
-      "Ultimate Stance will last #b",
-      " more turns."
+      "#yСовершенная #yСтойка исчезнет в конце этого хода.",
+      "#yСовершенная #yСтойка исчезнет через #b",
+      " хода."
     ]
   },
   "champ:EnGardePower": {
-    "NAME": "En Garde",
+    "NAME": "Ан гард",
     "DESCRIPTIONS": [
-      "If your Block is broken this turn, gain #b",
-      " Block next turn."
+      "Даёт #b",
+      " #yЗащиты на след. ход, если в этом вам собъют всю #yЗащиту."
     ]
   },
   "champ:ParryPower": {
-    "NAME": "Parrying",
+    "NAME": "Парирование",
     "DESCRIPTIONS": [
-      "If your Counter is used this turn, add Riposte to your hand."
+      "Добавляет #yВыпад в руку, если в этом ходу будет использована #yКонтратака."
     ]
   },
   "champ:BoomerangPower": {
-    "NAME": "Boomerang",
+    "NAME": "Бумеранг",
     "DESCRIPTIONS": [
-      "At the start of your next turn, return ",
-      " to your hand. It costs #b0 until rest of combat."
+      "В начале вашего след. хода возвращает ",
+      " в руку. Она будет стоить #b0 до конца боя."
     ]
   },
   "champ:ResolvePower": {
-    "NAME": "Fatigue",
+    "NAME": "Изнурение",
     "DESCRIPTIONS": [
-      "At the end of combat, restore your Fatigued HP."
+      "Возвращает отнятые ОЗ в конце боя."
     ]
   },
   "champ:DualPlaySrikePower": {
-    "NAME": "Flurry of Strikes",
+    "NAME": "Шквал ударов",
     "DESCRIPTIONS": [
-      "Your next #yStrike is played twice this turn.",
-      "Your next ",
-      " #yStrikes are played twice this turn."
+      "Следующий #y«Удар» разыграется дважды в этом ходу.",
+      "Следующие ",
+      " #y«Удара» разыграются дважды в этом ходу."
     ]
   },
     "champ:LastStandPower": {
-    "NAME": "Last Stand",
+    "NAME": "Последний рубеж",
     "DESCRIPTIONS": [
-      "Once you get below #b50% Hp, remove all debuffs and gain #b",
-      " Strength.",
-      "~You've~ ~done~ ~it~ ~now...~",
-      "@DEFEAT??@ NL @IMPOSSIBLE!!@"
+      "Даёт #b",
+      " #yСилы и снимает с вас все отриц. эффекты, когда ОЗ опустятся ниже #b50%.",
+      "~Этого~ ~я~ ~не~ ~потерплю...~",
+      "@ПОРАЖЕНИЕ??@ NL @НЕВОЗМОЖНО!!@"
     ]
   },
   "champ:DoubleStyleThisTurnPower": {
-    "NAME": "Chain Lash",
+    "NAME": "Хлестнуть цепью",
     "DESCRIPTIONS": [
-      "This turn, #ySkill Bonuses grant #b",
-      " more effect."
+      "Увеличивает эффект от #yБонуса #yНавыка на #b",
+      " до конца хода."
     ]
   }
 }

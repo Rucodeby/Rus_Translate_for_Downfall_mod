@@ -8,10 +8,10 @@
   },
   "champ:BlackKnightHelmet": {
     "NAME": "Шлем чёрного рыцаря",
-    "FLAVOR": "Only a flesh wound.",
+    "FLAVOR": "У прежнего владельца остались лишь открытые раны.",
     "DESCRIPTIONS": [
-      "При первом переходе в #yСтойку: NL #bОборонительную даёт #b2 #yЛовкости и отнимает #b1 #yСилы. NL #rЯростную, даёт #b2 #yСилы и отнимает #b1 #yЛовкости."
-    ]//опять неподсвечено Т_Т
+      "При первом переходе в: NL #bОборону, даёт #b2 #yЛовкости и отнимает #b1 #yСилы. NL #rЯрость, даёт #b2 #yСилы и отнимает #b1 #yЛовкости."
+    ]
   },
   "champ:Barbells": {
     "NAME": "Гантеля",
@@ -56,8 +56,8 @@
     ]
   },
   "champ:FightingForDummies": {
-    "NAME": "Dolphin's Style Guide",
-    "FLAVOR": "Author: Renowned explorer and pugilist Dolphin K. Mist",
+    "NAME": "Учебник «Стиль дельфина»",
+    "FLAVOR": "Автор - известный исследователь и боксёр, Туманов Дельфин Конюхевич.",
     "DESCRIPTIONS": [
       "Вы берёте на #b1 карту больше в след. ходу, если в конце хода у вас нет #yСтойки."
     ]
@@ -81,28 +81,28 @@
     "FLAVOR": "А теперь, время для моего СОВЕРШЕННОГО ДВИЖЕНИЯ!",
     "DESCRIPTIONS": [
       "При получении, выберите #yФинишер. Он будет стоить #b0, не требовать #yСтойки и выходить из неё.",
-      "Choose a card for ",
-      " costs 0, can be used without a #yStance, and never causes your #yStance to be exited."
-    ]
+      "Выберите карту для реликвии ",
+      " стоит #y0, может быть использован без #yСтойки и не будет выходить из неё."
+    ] //этот вординг ужасен(
   },
   "champ:SpectersHand": {
-    "NAME": "Spectre's Hand",
-    "FLAVOR": "Some victories stay with you.",
+    "NAME": "Фантомная рука",
+    "FLAVOR": "Некоторые победы оставляют осадок.",
     "DESCRIPTIONS": [
       "Добавляет в руку #y«Оборону» или #y«Удар», при смене #yСтойки. Они будут стоить #b0 и #yСжигаться."
     ]
   },
   "champ:LiftRelic": {
-    "NAME": "Inner Strength",
-    "FLAVOR": "It's about the gigantic sword in your heart.",
+    "NAME": "Внутреняя сила",
+    "FLAVOR": "Речь идет о гигантском мече в вашем сердце.",
     "DESCRIPTIONS": [
       "Даёт #b",
       " #yСилы в начале каждого боя."
     ]
   },
   "champ:ChampStancesModRelic": {
-    "NAME": "New Challenger",
-    "FLAVOR": "Can you take the crown?",
+    "NAME": "Новый кандидат",
+    "FLAVOR": "Сможете ли вы забрать корону?",
     "DESCRIPTIONS": [
       "Вы начинаете каждый бой в случайной #yСтойке Чемпиона."
     ]
