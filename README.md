@@ -14,10 +14,10 @@
 * *Расширенный контент (expansioncontentResources)* - в процессе;
 * *Рескины (reskinContent)* - в процессе;
 * *Автоматон (bronzeResources)* - **готов к установке**;
-* *Чемпион (champResources)* - в процессе;
+* *Чемпион (champResources)* - готов к проверке;
 * *Гремлины (gremlinResources)* - **готов к установке**;
 * *Страж (guardianResources)* - в процессе;
 * *Гекса (hexamodResources)* - в процессе;
 * *Слизень (slimeboundResources)* - **готов к установке**;
 * *Змекко (sneckomodResources)* - в процессе.
-* *Отшельник (theHermit)* - в процессе.
+* *Отшельник (theHermit)* - готов к проверке.
