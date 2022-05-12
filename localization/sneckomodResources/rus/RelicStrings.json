@@ -7,7 +7,7 @@
     ]
   },
   "sneckomod:SuperSneckoSoul": {
-    "NAME": "Super Snecko Soul",
+    "NAME": "Превосходная душа Змекко",
     "FLAVOR": "3120231321230320",
     "DESCRIPTIONS": [
       "Заменяет ",
@@ -15,24 +15,24 @@
     ]
   },
   "sneckomod:CleanMud": {
-    "NAME": "Snake-Charmer's Flute",
-    "FLAVOR": "Sssssss...",
+    "NAME": "Флейта заклинателя змей",
+    "FLAVOR": "Ссссссс...",
     "DESCRIPTIONS": [
       "Не позволяет #ysneckomod:Спутыванию сделать карту стоимостью #b3."
     ]
   },
   "sneckomod:ConfusingCodex": {
     "NAME": "Кольцо Змекко",
-    "FLAVOR": "Illegible, unreadable, due by Thursday.",
+    "FLAVOR": "Неразборчиво, нечитаемо, должно быть готово к четвергу.",
     "DESCRIPTIONS": [
-      "At the start of combat, apply #b0-2 #yWeak and #yVulnerable to ALL enemies."
+      "Накладывает #b0-2 #yСлабости и #yУязвимости на ВСЕХ врагов в начале боя."
     ]
   },
   "sneckomod:CrystallizedMud": {
-    "NAME": "Mesmerising Pendant",
-    "FLAVOR": "Dazzling dirt.",
+    "NAME": "Гипнотизирующий кулон",
+    "FLAVOR": "Ошшшеломляюще грязный.",
     "DESCRIPTIONS": [
-      "Gain [E] at the start of your turn. #ysneckomod:Muddled cards can't cost #b0."
+      "Даёт [E] в начале вашего хода. Не позволяет #ysneckomod:Спутыванию сделать карту стоимостью #b0."
     ]
   },
   "sneckomod:LoadedDie": {
@@ -43,10 +43,10 @@
     ]
   },
   "sneckomod:RareBoosterPack": {
-    "NAME": "Rare Booster Box",
+    "NAME": "Редкий бустер-ящик",
     "FLAVOR": "Mint condition.",
     "DESCRIPTIONS": [
-      "Upon pickup, obtain a #yUnidentified #yRare card of each card type."
+      "При получении, даёт #yНеизвестную #yРедкую карту каждого типа."
     ]
   },
   "sneckomod:SleevedAce": {
@@ -64,10 +64,10 @@
     ]
   },
   "sneckomod:SuperSneckoEye": {
-    "NAME": "Super Snecko Eye",
+    "NAME": "Первосортный глаз Змекко",
     "FLAVOR": "0121012",
     "DESCRIPTIONS": [
-      "Replaces #ySnecko #yEye. At the start of your turn, draw #b2 additional cards. Start each combat #yConfused. The first time you draw a card that costs #b3 each combat, reduce its cost to #b0."
+      "Заменяет #y\"Глаз #yЗмекко\". At the start of your turn, draw #b2 additional cards. Start each combat #yConfused. The first time you draw a card that costs #b3 each combat, reduce its cost to #b0."
     ]
   },
   "sneckomod:SneckoTalon": {
@@ -95,10 +95,10 @@
     ]
   },
   "sneckomod:BabySnecko": {
-    "NAME": "Young Snecko",
+    "NAME": "Молодой Змекко",
     "FLAVOR": "Bewilderingly adorable.",
     "DESCRIPTIONS": [
-      "Deals #b5 damage to a random enemy at the start of your turn."
+      "Наносит #b5 урона случайному врагу в начале вашего хода."
     ]
   },
   "sneckomod:SneckoCommon": {

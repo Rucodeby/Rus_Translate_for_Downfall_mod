@@ -4,7 +4,7 @@
     "NAMES": [
       "snekproof" //Змеккогнор || Противозмекковая
     ],
-    "DESCRIPTION": "Snekproof cards aren't affected by #yConfusion and cannot be #yMuddled."
+    "DESCRIPTION": "На #yПротивозмекковые карты не влияет #yЗамешательство и они не могут быть #yСпутаны."
   },
   {
     "PROPER_NAME": "Спутывание",
@@ -27,14 +27,14 @@
       "внеклассовую",
       "внеклассовый"
     ],
-    "DESCRIPTION": "An Offclass card is any obtainable card from a class other than your own (including Colorless cards, Curses, and Statuses)."
+    "DESCRIPTION": "#yВнеклассовые карты - любые получаемые карты отличные от вашего цвета ( Включая #yБесцветные, #yПроклятия и #yСтатусы )."
   },
   {
     "PROPER_NAME": "Identify",
     "NAMES": [
       "identify"
     ],
-    "DESCRIPTION": "Replace an #yUnidentified card with its current random card permanently."
+    "DESCRIPTION": "Навсегда заменяет #yНеизвестные карты на те, которыми они являются на данный момент."
   },
   {
     "PROPER_NAME": "Везение",
@@ -42,6 +42,6 @@
       "везение",
       "везения"
     ],
-    "DESCRIPTION": "Cards that choose a random number as part of their card text choose the maximum possible number. (Does not affect Muddle)"
+    "DESCRIPTION": "Карты, которые выбирают случайное число, будут выбирать максимально возможное. ( Не влияет на #yСпутывание. )"
   }
 ]

@@ -1,8 +1,8 @@
 {
   "sneckomod:CheapStock": {
-    "NAME": "Cheap Stock",
-    "DESCRIPTION": "Снижает стоимость Неизвестной карты в руке с наибольшей стоимостью на 1 в начале каждого вашего хода.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Снижает стоимость Неизвестной карты в руке с наибольшей стоимостью на 1 в начале каждого вашего хода."
+    "NAME": "Дешёвые акции",
+    "DESCRIPTION": "Снижает стоимость *Неизвестной карты в руке с наибольшей стоимостью на 1 в начале каждого вашего хода.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Снижает стоимость *Неизвестной карты в руке с наибольшей стоимостью на 1 в начале каждого вашего хода."
   },
   "sneckomod:Cheat": {
     "NAME": "Чистая удача",
@@ -10,7 +10,7 @@
     "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Даёт sneckomod:Везение до конца хода."
   },
   "sneckomod:DangerNoodle": {
-    "NAME": "Danger Noodle",
+    "NAME": "Опасная лапша",
     "DESCRIPTION": "Наносит !D! урона и доп. раз за каждую sneckomod:Внеклассовую карту в руке и Сжигает их."
   },
   "sneckomod:Defend": {
@@ -18,7 +18,7 @@
     "DESCRIPTION": "Даёт !B! Защиты."
   },
   "sneckomod:DefensiveFlair": {
-    "NAME": "Defensive Flair",
+    "NAME": "Защитное чутьё",
     "DESCRIPTION": "Даёт !B! Защиты и доп. !M! Защиты за каждую sneckomod:Внеклассовую карту в руке."
   },
   "sneckomod:DiceBlock": {
@@ -30,7 +30,7 @@
     "DESCRIPTION": "Наносит !M! - !D! урона. NL Может быть улучшена бесконечное число раз."
   },
   "sneckomod:DiceCrush": {
-    "NAME": "Dice Crush",
+    "NAME": "Раздавить костью",
     "DESCRIPTION": "Наносит !M! - !D! урона."
   },
   "sneckomod:GlitteringGambit": {
@@ -38,7 +38,7 @@
     "DESCRIPTION": "sneckomod:Snekproof. NL Даёт !M! - 30 *Золота. NL Сжигается."
   },
   "sneckomod:IronFang": {
-    "NAME": "Iron Fang",
+    "NAME": "Железный клык",
     "DESCRIPTION": "Наносит !qqq! - !D! урона. NL Даёт !M! - !B! Защиты."
   },
   "sneckomod:ImprovisedAttack": {
@@ -50,7 +50,7 @@
     "DESCRIPTION": "Даёт !B! Защиты. NL Добавляет случайный sneckomod:Внеклассовый Навык в руку и sneckomod:Спутывает его."
   },
   "sneckomod:Nope": {
-    "NAME": "Nope",
+    "NAME": "Нет",
     "DESCRIPTION": "sneckomod:Snekproof. NL Сжигает карту и добавляет в руку случ. карту того же класса.",
     "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Сжигает карту и добавляет в руку случ. карту того же класса. NL Она стоит на 1 меньше.",
     "EXTENDED_DESCRIPTION": [
@@ -58,12 +58,12 @@
     ]
   },
   "sneckomod:MasterEye": {
-    "NAME": "Master Eye",
+    "NAME": "Мастер-глаз",
     "DESCRIPTION": "Даёт Замешательство. NL Вы берёте !M! доп. карту в начале каждого вашего хода.",
     "UPGRADE_DESCRIPTION": "Даёт Замешательство. NL Вы берёте !M! доп. карты в начале каждого вашего хода."
   },
   "sneckomod:Memorize": {
-    "NAME": "Memorize",
+    "NAME": "Заучить",
     "DESCRIPTION": "sneckomod:Snekproof. Мимолётная. NL Choose a card in hand which started *Неизвестная. sneckomod:Identify it.",
     "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. Мимолётная. Оставляется. NL Choose a card in hand which started *Неизвестная. sneckomod:Identify it.",
     "EXTENDED_DESCRIPTION": [
@@ -71,7 +71,7 @@
     ]
   },
   "sneckomod:MixItUp": {
-    "NAME": "Mix It Up!",
+    "NAME": "Вперемешку!",
     "DESCRIPTION": "*Преобразует имеющиеся зелья. NL Наносит !D! урона !M! раза. NL Сжигается."
   },
   "sneckomod:MorePower": {
@@ -84,16 +84,16 @@
     "UPGRADE_DESCRIPTION": "Начальная. NL Даёт !M! Защиты, когда вы sneckomod:Спутываете карту."
   },
   "sneckomod:PureSnecko": {
-    "NAME": "Shift",
+    "NAME": "Заменить",
     "DESCRIPTION": "sneckomod:Snekproof. NL Преобразует все sneckomod:Внеклассовые карты в руке.",
     "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Преобразует все sneckomod:Внеклассовые карты в руке. NL Они стоят на 1 меньше."
   },
   "sneckomod:QuickBite": {
-    "NAME": "Snake Rake",
+    "NAME": "Змеиная грёбля",
     "DESCRIPTION": "Наносит !D! урона. NL Вы берёте !M! - 2 карты. NL sneckomod:Спутывает карту в руке с наибольшей стоимостью."
   },
   "sneckomod:QuickMove": {
-    "NAME": "Quick Move",
+    "NAME": "Резвое движение",
     "DESCRIPTION": "Даёт !B! Защиты. NL sneckomod:Спутывает карту в руке с наибольшей стоимостью.",
     "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL sneckomod:Спутывает !M! карты в руке с наибольшей стоимостью."
   },
@@ -102,16 +102,16 @@
     "DESCRIPTION": "Наносит !qqq! - !D! урона случ. врагу. NL sneckomod:Спутывает себя и возвращается в руку."
   },
   "sneckomod:Restock": {
-    "NAME": "Restock",
+    "NAME": "Пополнение",
     "DESCRIPTION": "sneckomod:Snekproof. NL Вы сбрасываете все карты в руке, затем берёте 5-10 карт. NL Сжигается."
   },
   "sneckomod:Rotation": {
-    "NAME": "Rotation",
+    "NAME": "Вращение",
     "DESCRIPTION": "sneckomod:Snekproof. NL Вы сбрасываете все sneckomod:Внеклассовые карты в руке и берёте столько же.",
     "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Вы сбрасываете все sneckomod:Внеклассовые карты в руке и берёте столько же плюс !M!."
   },
   "sneckomod:SerpentIdol": {
-    "NAME": "Serpent Idol",
+    "NAME": "Змеиный идол",
     "DESCRIPTION": "sneckomod:Snekproof. NL Выберите 1 из 3 случайных sneckomod:Внеклассовых карт и добавьте её в руку. Она стоит 0 до конца хода. NL Сжигается."
   },
   "sneckomod:SerpentMind": {
@@ -119,11 +119,11 @@
     "DESCRIPTION": "Вы берёте 1 карту, когда разыгрываете sneckomod:Внеклассовую карту."
   },
   "sneckomod:SlitherStrike": {
-    "NAME": "Slither Strike",
+    "NAME": "Скользящий удар",
     "DESCRIPTION": "Наносит !D! урона. NL Снижает стоимость всех sneckomod:Внеклассовых карт в руке на 1 до конца хода."
   },
   "sneckomod:SnakeSap": {
-    "NAME": "Snake Sap",
+    "NAME": "Истощение змеи",
     "DESCRIPTION": "sneckomod:Snekproof. NL Наносит !qqq! - !D! урона. NL Даёт 1 - !M! [E] . NL Сжигается."
   },
   "sneckomod:SnekBeam": {
@@ -141,17 +141,17 @@
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL sneckomod:Спутывает карту в руке с наибольшей стоимостью."
   },
   "sneckomod:SoulCleanse": {
-    "NAME": "Soul Cleanse",
+    "NAME": "Очищение души",
     "DESCRIPTION": "sneckomod:Snekproof. NL sneckomod:Спутывает все карты в руке. Они будут стоить не больше 2. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL sneckomod:Спутывает все карты в руке. Они будут стоить не больше 2."
   },
   "sneckomod:SoulDraw": {
-    "NAME": "Soul Draw",
+    "NAME": "Добор души",
     "DESCRIPTION": "sneckomod:Snekproof. NL Добавляет !M! случ. sneckomod:Внеклассовые карты в руку. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Вы берёте 1 - !M! карты."
   },
   "sneckomod:SoulExchange": {
-    "NAME": "Soul Exchange",
+    "NAME": "Обмен души",
     "DESCRIPTION": "sneckomod:Snekproof. NL Вы берёте 1 карту. NL Выберите карту и Преобразуйте в руке все карты в её класс.",
     "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Вы берёте !M! карты. NL Выберите карту и Преобразуйте в руке все карты в её класс.",
     "EXTENDED_DESCRIPTION": [
@@ -159,7 +159,7 @@
     ]
   },
   "sneckomod:SoulRoll": {
-    "NAME": "Soul Roll",
+    "NAME": "Переброс души",
     "DESCRIPTION": "sneckomod:Snekproof. NL sneckomod:Спутывает все карты в руке.",
     "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL sneckomod:Спутывает все карты в руке. NL Вы берёте 1 карту."
   },
@@ -168,11 +168,11 @@
     "DESCRIPTION": "Наносит !D! урона."
   },
   "sneckomod:TailWhip": {
-    "NAME": "Tail Whip",
+    "NAME": "Хлестнуть хвостом",
     "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! - 2 Слабости. NL Накладывает !M! - 2 Уязвимости."
   },
   "sneckomod:Transmogrify": {
-    "NAME": "Transmogrify",
+    "NAME": "Превращение",
     "DESCRIPTION": "Выберите и потеряйте 1 из 2 Реликвий. NL Даёт случайную Реликвию той же редкости. NL Сжигается.",
     "EXTENDED_DESCRIPTION": [
       "У нет реликвий на сссмену.",
@@ -188,7 +188,7 @@
     "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Сжигает карту. NL Даёт [E] равную её стоимости."
   },
   "sneckomod:UnendingSupply": {
-    "NAME": "Unending Supply",
+    "NAME": "Нескончаемые запасы",
     "DESCRIPTION": "Добавляет sneckomod:Внеклассовую карту в руку в начале каждого вашего хода."
   },
   "sneckomod:Unknown": {
@@ -297,11 +297,11 @@
   },
   "sneckomod:UnlimitedRolls": {
     "NAME": "Бесконечные броски",
-    "DESCRIPTION": "Добавляет gremlin:Отголосок *«Soul *Roll» в руку в начале каждого вашего хода.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL Добавляет gremlin:Отголосок *«Soul *Roll» в руку в начале каждого вашего хода."
+    "DESCRIPTION": "Добавляет gremlin:Отголосок *«Переброса *души» в руку в начале каждого вашего хода.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Добавляет gremlin:Отголосок *«Переброса *души» в руку в начале каждого вашего хода."
   },
   "sneckomod:WideSting": {
-    "NAME": "Wide Sting",
+    "NAME": "Широкий укус",
     "DESCRIPTION": "Наносит !M! - !D! урона ВСЕМ врагам. NL Улучшает ВСЕ sneckomod:Внеклассовые карты в руке."
   }
 }

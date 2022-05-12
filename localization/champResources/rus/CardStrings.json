@@ -89,7 +89,7 @@
   },
   "champ:BerserkersShout": {
     "NAME": "Вопль берсерка",
-    "DESCRIPTION": "Даёт !M! champ:Бодрости. NL Перейти в champ:Ярость.",
+    "DESCRIPTION": "Даёт !M! champ:Бодрости. NL Перейти в champ:Ярость."
   },
   "champ:RageSigil": {
     "NAME": "План боя",
@@ -176,7 +176,7 @@
   },
   "champ:Lariat": {
     "NAME": "Укрепление тела",
-    "DESCRIPTION": "Даёт !B! Защиты X раз.",
+    "DESCRIPTION": "Даёт !B! Защиты X раз."
   },
   "champ:HoldFirm": {
     "NAME": "Твёрдо стоять",
@@ -188,7 +188,7 @@
   },
   "champ:Haymaker": {
     "NAME": "Кувалда", //Сваебойная машина тоже неплохо)
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает 2 Уязвимости и Слабости.",
+    "DESCRIPTION": "Наносит !D! урона. NL Накладывает 2 Уязвимости и Слабости."
   },
   "champ:ViciousMockery": {
     "NAME": "Жестокая насмешка",
