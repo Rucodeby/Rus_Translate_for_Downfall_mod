@@ -1,0 +1,47 @@
+[
+  {
+    "PROPER_NAME": "Snekproof",
+    "NAMES": [
+      "snekproof" //Змеккогнор || Противозмекковая
+    ],
+    "DESCRIPTION": "Snekproof cards aren't affected by #yConfusion and cannot be #yMuddled."
+  },
+  {
+    "PROPER_NAME": "Спутывание",
+    "NAMES": [
+      "спутывание",
+      "спутывает",
+      "спутанная",
+      "спутанные",
+      "спутанную",
+      "спутаны",
+      "спутываете"
+    ],
+    "DESCRIPTION": "Меняет стоимость карты до конца хода на случайную, от #b0 до #b3."
+  },
+  {
+    "PROPER_NAME": "Внеклассовые карты",
+    "NAMES": [
+      "внеклассовые карты",
+      "внеклассовая",
+      "внеклассовую",
+      "внеклассовый"
+    ],
+    "DESCRIPTION": "An Offclass card is any obtainable card from a class other than your own (including Colorless cards, Curses, and Statuses)."
+  },
+  {
+    "PROPER_NAME": "Identify",
+    "NAMES": [
+      "identify"
+    ],
+    "DESCRIPTION": "Replace an #yUnidentified card with its current random card permanently."
+  },
+  {
+    "PROPER_NAME": "Везение",
+    "NAMES": [
+      "везение",
+      "везения"
+    ],
+    "DESCRIPTION": "Cards that choose a random number as part of their card text choose the maximum possible number. (Does not affect Muddle)"
+  }
+]
