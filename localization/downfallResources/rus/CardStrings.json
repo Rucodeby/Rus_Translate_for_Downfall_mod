@@ -8,8 +8,8 @@
     "DESCRIPTION": "Неиграбельная. Эфирная. NL Добавляет *Бездну на верх стопки добора в конце вашего хода."
   },
   "downfall:Bewildered": {
-    "NAME": "Bewildered",
-    "DESCRIPTION": "When you play another card, sneckomod:Muddle your hand, then discard this. NL Сжигается."
+    "NAME": "Растерянность",
+    "DESCRIPTION": "sneckomod:Спутывает все карты в руке и сбрасывается, когда вы разыграете другую карту. NL Сжигается."
   },
   "downfall:Icky": {
     "NAME": "Мерзость",
