@@ -1,12 +1,20 @@
 {
   "sneckomod:Unknown": {
     "TEXT": [
-      "Unknown",
-      " Upgraded ",
-      "At the start of combat, Unknown cards transform into other random cards from the chosen classes that satisfy certain constraints.",
-      " NL Chosen classes:",
-      "At the start of combat, Unknown cards transform into other random cards from ANY other class (other than basic Strikes and Defends) that satisfy certain constraints.",
-      "At the start of combat, Unknown cards transform into other random cards from other classes (other than basic Strikes and Defends) that satisfy certain constraints."
+      "Неизвестные карты",
+      " Улучшенные ",
+      "В начале боя #yНеизвестные карты преобразуются в случайные карты выбранных цветов, которые подходят под заданные условия.",
+      " NL Выбранные цвета:",
+      "В начале боя #yНеизвестные карты преобразуются в случайные карты ЛЮБЫХ цветов, которые подходят под заданные условия (кроме Ударов и Оборон).",
+      "В начале боя #yНеизвестные карты преобразуются в случайные карты выбранных цветов, которые подходят под заданные условия (кроме Ударов и Оборон)."
+    ]
+  },
+  "sneckomod:UnknownNames": {
+    "TEXT": [
+      "Неизвестная",
+      "Неизвестную",
+      "Неизвестные",
+      "Неизвестный"
     ]
   },
   "sneckomod:UnknownClass": {
@@ -15,7 +23,7 @@
       "*Неизвестная карта",
       ".",
       " персонажа",
-      "The ",
+      "",
       "Вы не должны были это видеть. Обратитесь к Vex'у."
     ]
   },

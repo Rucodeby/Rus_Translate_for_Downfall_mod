@@ -64,8 +64,8 @@
   },
   "sneckomod:Memorize": {
     "NAME": "Заучить",
-    "DESCRIPTION": "sneckomod:Snekproof. Мимолётная. NL Choose a card in hand which started *Неизвестная. sneckomod:Identify it.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. Мимолётная. Оставляется. NL Choose a card in hand which started *Неизвестная. sneckomod:Identify it.",
+    "DESCRIPTION": "sneckomod:Snekproof. Мимолётная. NL Выберите *Неизвестную карту в руке, которая есть у вас в колоде, и sneckomod:Опознайте её.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. Мимолётная. Оставляется. NL Выберите *Неизвестную карту в руке, которая есть у вас в колоде, и sneckomod:Опознайте её.",
     "EXTENDED_DESCRIPTION": [
       " to Identify."
     ]
