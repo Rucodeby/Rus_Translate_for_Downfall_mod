@@ -1,52 +1,52 @@
 {
   "sneckomod:D8": {
-    "NAME": "Mystical Octahedron",
+    "NAME": "Загадочный октаэдр",
     "DESCRIPTIONS": [
-      "Approach the mystical octahedron.",
-      "Relic go boom.",
-      "Got relic.",
-      "Decided to leave."
+      "Перед глазами загадочный октаэдр.",
+      "Реликвия разлетелась.",
+      "Получена реликвия.",
+      "Решено уйти."
     ],
     "OPTIONS": [
-      "[Shatter] #rLose #r",
-      " #r HP. #gGain #g5 #gUnknown #gCards",
-      "[Take] #gGain #gMystical #gOctahedron. #rCursed #r- #rPain.",
+      "[Разбить] #rПотерять #r",
+      " #r ОЗ. #gПолучить #g5 #gНеизвестных #gкарт",
+      "[Забрать] #gПолучить #gЗагадочный #gОктаэдр. #rПолучить #rПроклятие #r- #rБоль.",
       "[Уйти]",
-      "[Закрыто] Requires a card that uses a randomly chosen number."
+      "[Закрыто] Требуется карта, которая выбирает случайное число."
     ]
   },
   "sneckomod:BackToBasics": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "Creativity triumphs over planning every time."
+      "Креативность постоянно побеждает планирование."
     ],
     "OPTIONS": [
-      "[Improvisation] #gReplace all #gStrikes and #gDefends with random #gUnknown cards.",
-      "[Закрыто] Requires a Strike or Defend."
+      "[Импровизация] #gЗаменяет все #gУдары и #gОбороны на #gНеизвестные карты.",
+      "[Закрыто] Требуется Удар или Оборона."
     ]
   },
   "sneckomod:Serpent": {
-    "NAME": "The Ssssserpent",
+    "NAME": "З-з-з-з-змей",
     "DESCRIPTIONS": [
-      "You walk into a room to find a large hole in the ground. As you approach the hole, an enormous scaled creature, not unlike yourself, appears from within. NL NL ~\"Ho~ ~hooo!~ ~Hello~ ~snake~ ~friend!~ Let me ask you something... NL NL You hear the serpent speak words, but find yourself utterly perplexed, comprehending none of it. NL NL \"Do you agree?\"",
-      "~\"Excellent!\"~ NL NL You still have no idea what the question was, but it appears you've made the Serpent's day. NL The creature offers you a trinket to assist in your goal, then slithers back into the hole.",
-      "The serpent stares at you with a look of extreme disappointment, but ultimately smiles and wishes you well on your journey."
+      "Вы заходите в комнату и обнаруживаете широкую дыру в земле. Когда вы подходите ближе, оттуда вылезает огромное чешуйчатое существо, похожее на вас. NL NL ~«О-го-го!~ ~Привет,~ ~змеиный~ ~друг!~ Позволь спросить...» NL NL Вы слышите его слова, но абсолютно ничего не понимаете, оказаваясь в полном замешательстве. NL NL «Согласны?»",
+      "~«Чудесно!»~ NL NL Вы всё ещё беспонятия каким был вопрос, но, похоже, ваш ответ обрадовал Змея. NL Он предложил вам безделушку, которая может помочь в достижении своих целей, и уполз обратно в дыру.",
+      "Змей бросил на вас крайне разочарованный взгляд, но всё-таки улыбнулся и пожелал хорошего путешествия."
     ],
     "OPTIONS": [
-      "[Agree] #gGain #ga #grandom #gRelic. #rПолучить #rПроклятие #r- #rBewildered.",
-      "[Disagree]",
+      "[Согласиться] #gПолучить #gслуч. #gРеликвию. #rПолучить #rПроклятие #r- #rРастерянность.",
+      "[Не согласиться]",
       "[Уйти]"
     ]
   },
   "sneckomod:SuspiciousHouse": {
-    "NAME": "Suspicious House",
+    "NAME": "Подозрительная хижина",
     "DESCRIPTIONS": [
-      "Travelling through the city, your ears are pierced by a shrill inhuman cry coming from a nearby house. Upon investigation, you find an inhabitant of the City, trying to silence a small serpentine creature, trapped in a cage. NL NL ~\"HEY!~ What are you doing in my house?! @GET@ @OUT!\"@ NL NL The caged critter is startled, and hops back into a corner of its confinement. It clearly is not happy here.",
-      "\"You want it? @Fine!@ It's not worth the trouble.\" NL NL With a frustrated ~sigh,~ the captor unlocks the cage and reaches in. With a surprising swiftness, the serpent bites his finger with all the strength its tiny jaw can muster. NL NL With a quick intervention, you #rpunch the man, knocking him out cold, before he can retaliate against the critter. The creature happily crawls up to your hand when you offer it, and the two of you continue through the Spire together. You shall call her... #y'Clementine'.",
-      "The serpent stares at you with a look of extreme disappointment, but ultimately smiles and wishes you well on your journey."
+      "Вы путешествовали по Городу, как ваши уши пронзил резкий нечеловеческий крик из ближайшей хижины. Немного поискав внутри, вы обнаружили жителя Города, который пытается заставить молчать змееподобное существо, запертое в клетке. NL NL ~«ЭЙ!~ Что ты делаешь в моём доме?! @ПРОВАЛИВАЙ!»@ NL NL Змеёныш в клетке вздрогнуло и отпрыгнуло обратно в свой угол. Ему явно здесь не хорошо.",
+      "«Ты хочешь его? @Ладно!@ Оно не стоит того.» NL NL Разочарованно ~вздохнув,~ похититель открыл клетку и полез внутрь. Существо с удивительной быстротой укусило его за палец со всей силой, на которую способна его маленькая челюсть. NL NL Вы быстро вмешались и одним #rударом вырубили преступника, чтобы он не ответил змеёнышу. С вашего приглашения, существо с радостью забралось к вам на руки и вы вместе продолжили путь по Шпилю. Вы решили звать её... #yКлементина.",
+      "Змей бросил на вас крайне разочарованный взгляд, но всё-таки улыбнулся и пожелал хорошего путешествия."
     ],
     "OPTIONS": [
-      "[Rescue] #gGain #gYoung #gSnecko. #rПолучить #rПроклятие #r- #rBewildered.",
+      "[Спасти] #gПолучить #gМолодого #gзмекко. #rПолучить #rПроклятие #r- #rРастерянность.",
       "[Уйти]"
     ]
   }
