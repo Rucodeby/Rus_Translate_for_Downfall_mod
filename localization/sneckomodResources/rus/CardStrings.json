@@ -6,8 +6,8 @@
   },
   "sneckomod:Cheat": {
     "NAME": "Чистая удача",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Даёт sneckomod:Везение до конца хода. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Даёт sneckomod:Везение до конца хода."
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL Даёт sneckomod:Везение до конца хода. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Антизмекковая. NL Даёт sneckomod:Везение до конца хода."
   },
   "sneckomod:DangerNoodle": {
     "NAME": "Опасная лапша",
@@ -35,7 +35,7 @@
   },
   "sneckomod:GlitteringGambit": {
     "NAME": "Блестящий гамбит",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Даёт !M! - 30 *Золота. NL Сжигается."
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL Даёт !M! - 30 *Золота. NL Сжигается."
   },
   "sneckomod:IronFang": {
     "NAME": "Железный клык",
@@ -51,8 +51,8 @@
   },
   "sneckomod:Nope": {
     "NAME": "Нет",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Сжигает карту и добавляет в руку случ. карту того же класса.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Сжигает карту и добавляет в руку случ. карту того же класса. NL Она стоит на 1 меньше.",
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL Сжигает карту и добавляет в руку случ. карту того же класса.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Антизмекковая. NL Сжигает карту и добавляет в руку случ. карту того же класса. NL Она стоит на 1 меньше.",
     "EXTENDED_DESCRIPTION": [
       " to Exhaust for Nope."
     ]
@@ -64,8 +64,8 @@
   },
   "sneckomod:Memorize": {
     "NAME": "Заучить",
-    "DESCRIPTION": "sneckomod:Snekproof. Мимолётная. NL Выберите *Неизвестную карту в руке, которая есть у вас в колоде, и sneckomod:Опознайте её.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. Мимолётная. Оставляется. NL Выберите *Неизвестную карту в руке, которая есть у вас в колоде, и sneckomod:Опознайте её.",
+    "DESCRIPTION": "sneckomod:Антизмекковая. Мимолётная. NL Выберите *Неизвестную карту в руке, которая есть у вас в колоде, и sneckomod:Опознайте её.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Антизмекковая. Мимолётная. Оставляется. NL Выберите *Неизвестную карту в руке, которая есть у вас в колоде, и sneckomod:Опознайте её.",
     "EXTENDED_DESCRIPTION": [
       " to Identify."
     ]
@@ -85,8 +85,8 @@
   },
   "sneckomod:PureSnecko": {
     "NAME": "Заменить",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Преобразует все sneckomod:Внеклассовые карты в руке.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Преобразует все sneckomod:Внеклассовые карты в руке. NL Они стоят на 1 меньше."
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL Преобразует все sneckomod:Внеклассовые карты в руке.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Антизмекковая. NL Преобразует все sneckomod:Внеклассовые карты в руке. NL Они стоят на 1 меньше."
   },
   "sneckomod:QuickBite": {
     "NAME": "Змеиная грёбля",
@@ -103,16 +103,16 @@
   },
   "sneckomod:Restock": {
     "NAME": "Пополнение",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Вы сбрасываете все карты в руке, затем берёте 5-10 карт. NL Сжигается."
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL Вы сбрасываете все карты в руке, затем берёте 5-10 карт. NL Сжигается."
   },
   "sneckomod:Rotation": {
     "NAME": "Вращение",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Вы сбрасываете все sneckomod:Внеклассовые карты в руке и берёте столько же.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Вы сбрасываете все sneckomod:Внеклассовые карты в руке и берёте столько же плюс !M!."
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL Вы сбрасываете все sneckomod:Внеклассовые карты в руке и берёте столько же.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Антизмекковая. NL Вы сбрасываете все sneckomod:Внеклассовые карты в руке и берёте столько же плюс !M!."
   },
   "sneckomod:SerpentIdol": {
     "NAME": "Змеиный идол",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Выберите 1 из 3 случайных sneckomod:Внеклассовых карт и добавьте её в руку. Она стоит 0 до конца хода. NL Сжигается."
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL Выберите 1 из 3 случайных sneckomod:Внеклассовых карт и добавьте её в руку. Она стоит 0 до конца хода. NL Сжигается."
   },
   "sneckomod:SerpentMind": {
     "NAME": "Облик-экзотик",
@@ -124,7 +124,7 @@
   },
   "sneckomod:SnakeSap": {
     "NAME": "Истощение змеи",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Наносит !qqq! - !D! урона. NL Даёт 1 - !M! [E] . NL Сжигается."
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL Наносит !qqq! - !D! урона. NL Даёт 1 - !M! [E] . NL Сжигается."
   },
   "sneckomod:SnekBeam": {
     "NAME": "Змекко-луч",
@@ -142,26 +142,26 @@
   },
   "sneckomod:SoulCleanse": {
     "NAME": "Очищение души",
-    "DESCRIPTION": "sneckomod:Snekproof. NL sneckomod:Спутывает все карты в руке. Они будут стоить не больше 2. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL sneckomod:Спутывает все карты в руке. Они будут стоить не больше 2."
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL sneckomod:Спутывает все карты в руке. Они будут стоить не больше 2. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Антизмекковая. NL sneckomod:Спутывает все карты в руке. Они будут стоить не больше 2."
   },
   "sneckomod:SoulDraw": {
     "NAME": "Добор души",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Добавляет !M! случ. sneckomod:Внеклассовые карты в руку. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Вы берёте 1 - !M! карты."
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL Добавляет !M! случ. sneckomod:Внеклассовые карты в руку. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Антизмекковая. NL Вы берёте 1 - !M! карты."
   },
   "sneckomod:SoulExchange": {
     "NAME": "Обмен души",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Вы берёте 1 карту. NL Выберите карту и Преобразуйте в руке все карты в её класс.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Вы берёте !M! карты. NL Выберите карту и Преобразуйте в руке все карты в её класс.",
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL Вы берёте 1 карту. NL Выберите карту и Преобразуйте в руке все карты в её класс.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Антизмекковая. NL Вы берёте !M! карты. NL Выберите карту и Преобразуйте в руке все карты в её класс.",
     "EXTENDED_DESCRIPTION": [
       "to Exhaust for Soul Exchange."
     ]
   },
   "sneckomod:SoulRoll": {
     "NAME": "Переброс души",
-    "DESCRIPTION": "sneckomod:Snekproof. NL sneckomod:Спутывает все карты в руке.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL sneckomod:Спутывает все карты в руке. NL Вы берёте 1 карту."
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL sneckomod:Спутывает все карты в руке.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Антизмекковая. NL sneckomod:Спутывает все карты в руке. NL Вы берёте 1 карту."
   },
   "sneckomod:Strike": {
     "NAME": "Удар",
@@ -184,8 +184,8 @@
   },
   "sneckomod:TrashToTreasure": {
     "NAME": "Мусор в сокровище",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Сжигает карту. NL Даёт [E] раную её стоимости. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Сжигает карту. NL Даёт [E] равную её стоимости."
+    "DESCRIPTION": "sneckomod:Антизмекковая. NL Сжигает карту. NL Даёт [E] раную её стоимости. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "sneckomod:Антизмекковая. NL Сжигает карту. NL Даёт [E] равную её стоимости."
   },
   "sneckomod:UnendingSupply": {
     "NAME": "Нескончаемые запасы",
