@@ -1,70 +1,70 @@
 {
   "sneckomod:CheapStockPower": {
-    "NAME": "Cheap Stock",
+    "NAME": "Дешёвые акции",
     "DESCRIPTIONS": [
-      "At the start of your turn, reduce the cost of the highest cost #yOffclass card in your hand by #b1.",
-      "At the start of your turn, reduce the cost of the highest cost #yOffclass card in your hand by #b1 #b",
-      " times."
+      "Снижает стоимость *Неизвестной карты в руке с наибольшей стоимостью на #b1 в начале каждого вашего хода.",
+      "Снижает стоимость *Неизвестной карты в руке с наибольшей стоимостью на #b1 в начале каждого вашего хода #b",
+      " раза."
     ]
   },
   "sneckomod:CheatPower": {
-    "NAME": "Cheating",
+    "NAME": "Везение",
     "DESCRIPTIONS": [
-      "This turn, cards that choose a random number for their effect choose the maximum possible number.",
-      "For the next #b",
-      " turns, cards that choose a random number for their effect choose the maximum possible number."
+      "В этом ходу карты, которые выбирают случайное число, будут выбирать максимально возможное.",
+      "Следующие #b",
+      " хода карты, которые выбирают случайное число, будут выбирать максимально возможное."
     ]
   },
   "sneckomod:MuddleDrawnCardsPower": {
-    "NAME": "Muddle Drawn Cards",
+    "NAME": "Спутывание вытянутых карт",
     "DESCRIPTIONS": [
-      "#yMuddle the next card you draw.",
-      "#yMuddle the first #b",
-      " cards drawn this turn. (",
-      " remaining)"
+      "#yСпутывает след. карту, которую вы берёте.",
+      "#yСпутывает след. #b",
+      " карты, которые вы берёте. ( Осталось #b",
+      " )"
     ]
   },
   "sneckomod:MudshieldPower": {
-    "NAME": "Mudshield",
+    "NAME": "Щитопут",
     "DESCRIPTIONS": [
-      "Whenever you #yMuddle a card, gain #b",
-      " #yBlock."
+      "Даёт #b",
+      " #yЗащиты, когда вы #yСпутываете карту."
     ]
   },
   "sneckomod:SerpentMindPower": {
-    "NAME": "Serpent Mind",
+    "NAME": "Облик-экзотик",
     "DESCRIPTIONS": [
-      "Whenever you play an #yOffclass card, draw #b",
-      " card.",
-      " cards."
+      "Вы берёте #b",
+      " карту, когда разыгрываете #yВнеклассовую карту.",
+      " карты, когда разыгрываете #yВнеклассовую карту."
     ]
   },
   "sneckomod:UnendingSupplyPower": {
-    "NAME": "Unending Supply",
+    "NAME": "Нескончаемые запасы",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random #yOffclass cards into your hand."
+      "Добавляет #b",
+      " случ. #yВнеклассовую карту в руку в начале каждого вашего хода."
     ]
   },
   "sneckomod:UnknownUpgradedPostCombatPower": {
-    "NAME": "Post-Combat Upgraded Unidentified",
+    "NAME": "Улучшенная неизвестность после боя",
     "DESCRIPTIONS": [
-      "At the end of combat, obtain #b",
-      " additional #yUpgraded #yUnidentified cards.",
-      " additional #yUpgraded #yUnidentified card."
+      "Даёт доп. #b",
+      " #yУлучшенные #yНеизвестные карты в конце боя.",
+      " #yУлучшенную #yНеизвестную карту в конце боя."
     ]
   },
   "sneckomod:UnlimitedRollsPower": {
-    "NAME": "Unlimited Rolls",
+    "NAME": "Бесконечные броски",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain a #ySoul #yRoll+ with #yEthereal and #yExhaust."
+      "Добавляет #yОтголосок #yПереброса #yдуши+ в руку в начале каждого вашего хода."
     ]
   },
   "sneckomod:Transmogrifying": {
-    "NAME": "Transmogrifying",
+    "NAME": "Превращение",
     "DESCRIPTIONS": [
-      " is being transformed into another ",
-      " relic."
+      " преобразована в реликвию «",
+      "»."
     ]
   }
 }

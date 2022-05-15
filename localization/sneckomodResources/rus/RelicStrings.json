@@ -1,13 +1,13 @@
 {
   "sneckomod:SneckoSoul": {
-    "NAME": "Душа Змекко",
+    "NAME": "Душа змекко",
     "FLAVOR": "0...3...2...2...1",
     "DESCRIPTIONS": [
       "Вы берёте карту и получаете [E] , когда разыгрываете первую #ysneckomod:Внеклассовую карту в бою."
     ]
   },
   "sneckomod:SuperSneckoSoul": {
-    "NAME": "Превосходная душа Змекко",
+    "NAME": "Превосходная душа змекко",
     "FLAVOR": "3120231321230320",
     "DESCRIPTIONS": [
       "Заменяет ",
@@ -22,7 +22,7 @@
     ]
   },
   "sneckomod:ConfusingCodex": {
-    "NAME": "Кольцо Змекко",
+    "NAME": "Кольцо змекко",
     "FLAVOR": "Неразборчиво, нечитаемо, должно быть готово к четвергу.",
     "DESCRIPTIONS": [
       "Накладывает #b0-2 #yСлабости и #yУязвимости на ВСЕХ врагов в начале боя."
@@ -36,88 +36,88 @@
     ]
   },
   "sneckomod:LoadedDie": {
-    "NAME": "Loaded Die",
-    "FLAVOR": "Cheese-stuffed.",
+    "NAME": "Утяжелённая кость",
+    "FLAVOR": "Наполнена сыром.",
     "DESCRIPTIONS": [
-      "Cards that choose random numbers have +1 minimum."
+      "Добавляет картам, которые выбирают случайное число, +1 к минимуму."
     ]
   },
   "sneckomod:RareBoosterPack": {
     "NAME": "Редкий бустер-ящик",
-    "FLAVOR": "Mint condition.",
+    "FLAVOR": "В отличном состоянии.",
     "DESCRIPTIONS": [
       "При получении, даёт #yНеизвестную #yРедкую карту каждого типа."
     ]
   },
   "sneckomod:SleevedAce": {
-    "NAME": "Sleeved Ace",
-    "FLAVOR": "We're all aces.",
+    "NAME": "Шулерский туз",
+    "FLAVOR": "Все мы в коем-то роде асы.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain a #yPure #yLuck with #yRetain."
+      "Добавляет #yЧистую #yудачу с #yОставляемостью в начале боя."
     ]
   },
   "sneckomod:UnknownEgg": {
-    "NAME": "Unidentified Egg",
-    "FLAVOR": "What will hatch? Pay $1000 to see.",
+    "NAME": "Неизвестное яйцо",
+    "FLAVOR": "Что из него вылупится? Залатите $1000 и узнайте.",
     "DESCRIPTIONS": [
-      "#yIdentifying becomes a free action. NL #yUnidentified cards in card rewards are #yUpgraded."
+      "Делает #yОпознание бесплатным. NL #yУлучшает добавляемые в колоду #yНеизвестные карты."
     ]
   },
   "sneckomod:SuperSneckoEye": {
-    "NAME": "Первосортный глаз Змекко",
+    "NAME": "Первосортный глаз змекко",
     "FLAVOR": "0121012",
     "DESCRIPTIONS": [
-      "Заменяет #y\"Глаз #yЗмекко\". At the start of your turn, draw #b2 additional cards. Start each combat #yConfused. The first time you draw a card that costs #b3 each combat, reduce its cost to #b0."
+      "Заменяет #y«Глаз #yзмекко». В начале каждого хода вы берёте на #b2 карты больше. Накладывает на вас #yЗамешательство в начале боя. Снижает стоимость первой вытянутой в бою карты стоимостью #b3 до #b0."
     ]
   },
   "sneckomod:SneckoTalon": {
-    "NAME": "Idol of Retromation",
-    "FLAVOR": "Often called the Idol of Reto for short.",
+    "NAME": "Идол Ретромэйшена",
+    "FLAVOR": "Для краткости чаще называют «Идол Рето».",
     "DESCRIPTIONS": [
-      "At the start of your turn, reduce the cost of the most expensive card in your hand by #b1 for this turn."
+      "Снижает стоимость самой дорогой карты в руке на #b1 до конца хода в начале вашего хода."
     ]
   },
   "sneckomod:BlankCard": {
-    "NAME": "Blank Card",
-    "FLAVOR": "Card Mimic.",
+    "NAME": "Пустая карта",
+    "FLAVOR": "Мимикарта.",
     "DESCRIPTIONS": [
-      "At the start of each combat, play a copy of a random card from your deck."
+      "Разыгрывает случ. копию карты в колоде в начале боя."
     ]
   },
   "sneckomod:D8": {
-    "NAME": "Mystical Octahedron",
-    "FLAVOR": "It appears weighted toward one side.",
+    "NAME": "Загадочный октаэдр",
+    "FLAVOR": "Похоже, у него утяжелена одна из сторон.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose a card that selects a random number for its effects. This card always selects its maximum possible number.",
-      "Choose a card for ",
-      "Whenever ",
-      " is played, it chooses its maximum possible number for its effect."
+      "При получении, выберите карту, которая выбирает случайное число. Она будет всегда выбирать максимально возможное.",
+      "Выберите карту на которую подействует ",
+      "",
+      " при разыгрывании, будет выбирать максимально возможное число."
     ]
   },
   "sneckomod:BabySnecko": {
     "NAME": "Молодой Змекко",
-    "FLAVOR": "Bewilderingly adorable.",
+    "FLAVOR": "Ошеломляюще милый.",
     "DESCRIPTIONS": [
       "Наносит #b5 урона случайному врагу в начале вашего хода."
     ]
   },
   "sneckomod:SneckoCommon": {
-    "NAME": "Seal of Approval",
-    "FLAVOR": "I'm The Ironclad and this is my favorite Relic in the Spire.  -Merchant Advertising Pamphlet",
+    "NAME": "Печать одобрения",
+    "FLAVOR": "«Я Латаносец и это моя самая любимая реликвия в Шпиле.» - Рекламная брошюра торговца.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose #b1 of #b3 #yUnidentified #yCharacter cards to add to your deck. All future #yUnidentified #yCharacter cards found will be of this character.",
-      "All Unidentified Character cards found will be ",
-      " cards."
+      "При получении, выберите #b1 из #b3 #yНеизвестных карт персонажа и добавьте её в колоду. Все последующие #yНеизвестные карты персонажа будут только выбранного персонажа.",
+      "Все последующие #yНеизвестные карты персонажа будут только персонажа «",
+      "»."
     ]
   },
   "sneckomod:SneckoBoss": {
-    "NAME": "Lucky Horseshoe",
-    "FLAVOR": "Make your own luck.",
+    "NAME": "Счастливая подкова",
+    "FLAVOR": "Сами постройте свою удачу.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose #b1 of #b3 #yUnidentified #yCharacter cards. Add #b5 copies of it to your deck. All combats drop an additional card reward of the chosen character's cards.",
-      "Upon pickup, obtain #b5 #yUnidentified ",
-      " cards. All combats drop an additional ",
-      " card reward."
+      "При получении, выберите #b1 из #b3 #yНеизвестных карт персонажа. Добавляет #b5 её копий в колоду. Добавляет в награды после боя доп. карту выбранного персонажа.",
+      "При получении, даёт #b5 #yНеизвестных карт персонажа «",
+      "». Добавляет в награды после боя доп. карту персонажа «",
+      "»."
     ]
   }
 }

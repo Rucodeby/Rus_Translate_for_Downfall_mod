@@ -21,8 +21,8 @@
   },
   "sneckomod:UpgradedUnknownReward": {
     "TEXT": [
-      "Add an Unknown+ card to your deck",
-      "Pick a Card."
+      "Добавьте Неизвестную+ карту в колоду",
+      "Выберите карту."
     ]
   },
   "sneckomod:FreeRetainMod": {
@@ -37,26 +37,26 @@
   },
   "sneckomod:ChallengeMode": {
     "TEXT": [
-      "Challenge Mode - Pure Snecko",
-      "Unknown cards can be from any class. Recommended for experienced Snecko players."
+      "Испытание «Безупречный Змекко»",
+      "Неизвестные карты могут быть любого цвета. Рекомендуется опытным игрокам за Змекко."
     ]
   },
   "sneckomod:LockInBonfireOptions": {
     "TEXT": [
-      "Identify",
-      "Lock an Unknown into a permanent card.",
-      "Requires an Unknown card.",
-      "Select a card to add to your deck, removing its Unknown.",
-      "[Free Action] Lock an Unknown into a permanent card."
+      "Опознать",
+      "Превратите Неизвестную карту в нормальную.",
+      "Требуется Неизвестная карта.",
+      "Выберите карту, с которой хотите снять неизвестность и добавить в колоду.",
+      "[Бесплатное действие] Превратите Неизвестную карту в нормальную."
     ]
   },
   "sneckomod:AtGameStart": {
     "TEXT": [
-      "",
-      " Cards",
-      "Unknown cards can become ",
-      " cards this run.",
-      "Choose."
+      "Карты «",
+      "»",
+      "Неизвестные карты в этом забеге будут становиться картами персонажа «",
+      "».",
+      "Выберите."
     ]
   }
 }
