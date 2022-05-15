@@ -409,7 +409,7 @@
   },
   "champ:UltimateStance": {
     "NAME": "Совершенная стойка",
-    "DESCRIPTION": "Требует нахождение в champ:Обороне или champ:Ярости. NL Перейти в champ:Совершенную Стойку на !M! хода. NL Сжигается.",
+    "DESCRIPTION": "Перейти в champ:Совершенную Стойку на следующий ход. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "Требует нахождение в champ:Обороне или champ:Ярости. NL Перейти в champ:Совершенную Стойку на !M! хода.",
     "EXTENDED_DESCRIPTION": [
       "Я не в Стойке."
