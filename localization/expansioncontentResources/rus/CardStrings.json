@@ -25,7 +25,7 @@
   },
   "expansioncontent:YouAreMine": {
     "NAME": "YOU ARE MINE!",
-    "DESCRIPTION": "Снимает всю Защит с врагов. NL Накладывает !M! Слабости и Уязвимости на ВСЕХ врагов. NL Сжигается."
+    "DESCRIPTION": "Снимает всю Защиту со ВСЕХ врагов. NL Накладывает !M! Слабости и Уязвимости на ВСЕХ врагов. NL Сжигается."
   },
   "expansioncontent:AwakenDeath": {
     "NAME": "Пробуждение",
@@ -38,13 +38,23 @@
   },
   "expansioncontent:PolyBeam": {
     "NAME": "Заряд Дону",
-    "DESCRIPTION": "expansioncontent:Босс - Древние. NL Наносит !D! урона дважды. Увеличивает свой урон на !M!. NL Добавляет *Щит *Дека в руку или expansioncontent:Эксгумирует её на следующий ход. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "expansioncontent:Босс - Древние. NL Наносит !D! урона дважды. Увеличивает свой урон на !M!. NL Добавляет *Щит *Дека+ в руку или expansioncontent:Эксгумирует на следующий ход. NL Сжигается."
+    "DESCRIPTION": "Даёт !M! Силы."
   },
   "expansioncontent:DecaShield": {
     "NAME": "Щит Дека",
-    "DESCRIPTION": "expansioncontent:Босс - Древние. NL Даёт !B! Защиты дважды. Увеличивает свою Защиту на !M!. NL expansioncontent:Эксгумирует *Заряд *Дону на следующий ход. NL Сжигается.",
-    "UPGRADE_DESCRIPTION": "expansioncontent:Босс - Древние. NL Даёт !B! Защиты дважды. Увеличивает свою Защиту на !M!. NL expansioncontent:Эксгумирует *Заряд *Дону на следующий ход. NL Сжигается."
+    "DESCRIPTION": "Даёт !M! Силы."
+  },
+  "expansioncontent:ShapePower": {
+    "NAME": "Благословление фигур",
+    "DESCRIPTION": "Выберите - Даёт !M! Силы или 5 Панциря.",
+    "UPGRADE_DESCRIPTION": "Выберите - Даёт !M! Силы или 8 Панциря.",
+    "EXTENDED_DESCRIPTION": [
+      "Сила Дону",
+      "Даёт !M! Силы.",
+      "Щит Дека",
+      "Даёт 5 Панциря.",
+      "Даёт 8 Панциря."
+    ]
   },
   "expansioncontent:PrepareCrush": {
     "NAME": "Приготовиться крушить",
@@ -72,5 +82,9 @@
   "expansioncontent:KnowingSkullWish": {
     "NAME": "Knowing Skull",
     "DESCRIPTION": "Эфирная. NL Spend HP to Wish for Souls, Success, or a Pick Me Up. NL Сжигается."
+  },
+  "expansioncontent:Antidote": {
+    "NAME": "Антидот",
+    "DESCRIPTION": "Отнимает все зелья."
   }
 }
