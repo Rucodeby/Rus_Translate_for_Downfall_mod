@@ -48,7 +48,7 @@
     ]
   },
   "expansioncontent:PolyBeamAgainPower": {
-    "NAME": "Potency", //Что то автоматонское
+    "NAME": "Potency", //Что то стража
     "DESCRIPTIONS": [
       "#yPoly #yBeam will be played at the start of your next turn. ",
       "#yPoly #yBeam will be played at the start of your next #b",
@@ -56,7 +56,7 @@
     ]
   },
   "expansioncontent:PolyBeamAgainPowerUpgraded": {
-    "NAME": "Potency", //Что то автоматонское+
+    "NAME": "Potency", //Что то стража+
     "DESCRIPTIONS": [
       "#yPoly #yBeam+ will be played at the start of your next turn. ",
       "#yPoly #yBeam+ will be played at the start of your next #b",
@@ -94,13 +94,13 @@
     ]
   },
   "expansioncontent:VexVinciblePower": {
-    "NAME": "Invincible",
+    "NAME": "Непобедимость",
     "DESCRIPTIONS": [
-      "Caps all damage and HP loss taken to #b",
-      " in a turn. Removed after activation.",
-      "Caps all damage and HP loss taken to #b",
-      " in a turn. Removed after #b",
-      " activations."
+      "Не даёт потерять больше #b",
+      " ОЗ в ходу. Снимается после срабатыаания.",
+      "Не даёт потерять больше #b",
+      " ОЗ в ходу. Снимается после #b",
+      " срабатываний."
     ]
   }
 }

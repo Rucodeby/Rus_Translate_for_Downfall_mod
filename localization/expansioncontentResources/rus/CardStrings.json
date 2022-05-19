@@ -1,6 +1,6 @@
 {
   "expansioncontent:GuardianWhirl": {
-    "NAME": "Guardian Whirl",
+    "NAME": "Сворачивание стража",
     "DESCRIPTION": "Требует 10 или больше Защиты. NL Наносит !D! урона ВСЕМ врагам 4 раза. NL Сжигается.",
     "EXTENDED_DESCRIPTION": [
       "Требуется больше Защиты."
@@ -11,20 +11,20 @@
     "DESCRIPTION": "Наносит !D! урона случайному врагу 6 раз через !M! ходов. NL Сила влияет на эту карту и эффект."
   },
   "expansioncontent:InvincibleStrength": {
-    "NAME": "Invincible",
-    "DESCRIPTION": "Gain 10 expansioncontent:Invincible. NL If you already had expansioncontent:Invincible, it lasts another turn instead."
+    "NAME": "Непобедимый",
+    "DESCRIPTION": "Даёт 10 expansioncontent:Непобедимости. NL Продлевает эффект на один ход, если у вас уже есть expansioncontent:Непобедимость."
   },
   "expansioncontent:HyperBeam": {
     "NAME": "Автолуч",
     "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Отнимает [E] в начале следующего хода. NL Сжигается."
   },
   "expansioncontent:LastStand": {
-    "NAME": "Last Stand",
+    "NAME": "Последний рубеж",
     "DESCRIPTION": "Снимает все отриц. эффекты. NL Даёт 1 Силы. NL Даёт 2 Силы если ОЗ ниже половины.",
     "UPGRADE_DESCRIPTION": "Снимает все отриц. эффекты. NL Даёт 1 Силы. NL Даёт 2 Силы и восполняет !M! ОЗ, когда ОЗ опускается ниже половины."
   },
   "expansioncontent:YouAreMine": {
-    "NAME": "YOU ARE MINE!",
+    "NAME": "ТЫ ПРИНАДЛЕЖИШЬ МНЕ!",
     "DESCRIPTION": "Снимает всю Защиту со ВСЕХ врагов. NL Накладывает !M! Слабости и Уязвимости на ВСЕХ врагов. NL Сжигается."
   },
   "expansioncontent:AwakenDeath": {
@@ -75,13 +75,13 @@
     ]
   },
   "expansioncontent:DashGenerateEvil": {
-    "NAME": "The Evil Within",
+    "NAME": "Внутреннее зло",
     "DESCRIPTION": "Наносит !D! урона. NL Добавляет случайную карту *Босса в руку. Она стоит 0, пока не разыграна. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет случайную Улучшенную карту *Босса в руку. Она стоит 0, пока не разыграна. NL Сжигается."
   },
   "expansioncontent:KnowingSkullWish": {
-    "NAME": "Knowing Skull",
-    "DESCRIPTION": "Эфирная. NL Spend HP to Wish for Souls, Success, or a Pick Me Up. NL Сжигается."
+    "NAME": "Всеведующий череп",
+    "DESCRIPTION": "Эфирная. NL Отнимает ОЗ, чтобы пожелать души, успех или подобрать его. NL Сжигается."
   },
   "expansioncontent:Antidote": {
     "NAME": "Антидот",

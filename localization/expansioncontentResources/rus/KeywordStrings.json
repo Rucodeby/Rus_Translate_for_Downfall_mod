@@ -9,11 +9,12 @@
     "DESCRIPTION": "Вы можете разыграть только #b1 карту #yБосса в ход."
   },
   {
-    "PROPER_NAME": "Invincible", //Invincible
+    "PROPER_NAME": "Непобедимость", //Invincible
     "NAMES": [
-      "invincible"
+      "непобедимость",
+      "непобедимости"
     ],
-    "DESCRIPTION": "You cannot lose more than a given amount of HP in a single turn. NL At the end of any round in which Invincible prevented HP loss, remove it."
+    "DESCRIPTION": "Не позволяет в одном ходу получить больше урона по ОЗ, чем количества эффекта. NL #yНепобедимость снимается в начале хода, после предотвращения потери ОЗ."
   },
   {
     "PROPER_NAME": "Эксгумация", //Exhume
