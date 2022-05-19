@@ -291,8 +291,8 @@
   },
   "hermit:Snipe": {
     "NAME": "Прицелиться",
-    "DESCRIPTION": "Your next hermit:Dead_On effect this turn triggers twice.",
-    "UPGRADE_DESCRIPTION": "Даёт hermit:Концентрацию. NL Your next hermit:Dead_On effect this turn triggers twice."
+    "DESCRIPTION": "Активирует след. hermit:В_яблочко дважды в этом ходу.",
+    "UPGRADE_DESCRIPTION": "Даёт hermit:Концентрацию. NL Активирует след. hermit:В_яблочко дважды в этом ходу."
   },
   "hermit:Spite": {
     "NAME": "Злоба",

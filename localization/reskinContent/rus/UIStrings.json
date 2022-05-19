@@ -51,16 +51,16 @@
   "reskinContent:ReSkinHexaghost": {
     "TEXT": [
       "Гексаго", //Hexago
-      "Призаэдр" //либо Духаэдр
+      "Духааэдр" //либо Призаэдр
     ],
     "EXTRA_TEXT": [
-      "Проклятый дух Шпиля. NL Обречён вечно быть защитником", //мб треклятый вместо проклятый
-      "Любит гоняться за жёлтыми кругами по выходным. NL Has a crippling fear of power pellets."
+      "Проклятый дух Шпиля. NL Обречён вечно быть защитником",
+      "Любит гоняться за жёлтыми кругами по выходным. NL Оцепеневает от страха перед силой пилюль."
     ]
   },
   "reskinContent:ReSkinSnecko": {
     "TEXT": [
-      "SSSSnecko", //Rank SSSS don't translatble T–T
+      "ССССЗмекко",
       "Sneckdor"
     ],
     "EXTRA_TEXT": [

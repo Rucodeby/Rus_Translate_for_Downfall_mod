@@ -1,49 +1,49 @@
 {
   "downfall:WorldOfGoo": {
-    "NAME": "World of Goo",
+    "NAME": "Мир из слизи",
     "DESCRIPTION": "Будет добавлять «В слизи» в стопку сброса, когда вы получите урон по ОЗ."
  // на англ нет « у карт/Реликвий, это наши переводчики добавили
   },
   "downfall:Hexed": {
-    "NAME": "Сглаженный",
+    "NAME": "Гладкость",
     "DESCRIPTION": "Вы начнёте игру с реликвией «Бархатный чокер». Все карты которые вы добираете получат Эфирная."
   },
   "downfall:Improvised": {
-    "NAME": "Improvised",
+    "NAME": "Импровизация",
     "DESCRIPTION": "Вы начнёте игру с 10 Неизвестными картами."
 // вы начнёте игру, в стандартном шпиле
   },
   "downfall:Jewelcrafting": {
-    "NAME": "Jewelcrafting",
-    "DESCRIPTION": "Вы начнёте игру с двумя копиями Exploit Gem and a Pick of Rhapsody."
+    "NAME": "Промысел ювелира",
+    "DESCRIPTION": "Вы начнёте игру с двумя копиями «Exploit Gem» и «Pick of Rhapsody»."
  //не забудьте названия карт поместить в «» 
   },
   "downfall:EvilRun": {
-    "NAME": "Evil Run",
-    "DESCRIPTION": "Вам будет доступен контент Злого забега."
+    "NAME": "Злая вылазка",
+    "DESCRIPTION": "Вам будет доступен контент Злой вылазки."
   },
   "downfall:ExchangeController": {
-    "NAME": "Blessed Be",
-    "DESCRIPTION": "Start with a Neow's Blessing."
+    "NAME": "Благословение",
+    "DESCRIPTION": "Вы начнёте игру с «Благословение Ньяу»."
   },
   "downfall:Lament": {
-    "NAME": "Lament",
-    "DESCRIPTION": "Start with a Neow's Lament."
+    "NAME": "Скорбь",
+    "DESCRIPTION": "Вы начнёте игру с «Скорбь Ньяу»."
   },
   "downfall:ChampStances": {
-    "NAME": "New Challenger",
-    "DESCRIPTION": "В начале каждого боя вы будете в случайной стойке Чемпиона и получать Finishing Strike. Все стартовые карту получат Technique."
+    "NAME": "Новый кандидат",
+    "DESCRIPTION": "В начале каждого боя вы будете в случайной стойке Чемпиона и получать «Завершающий удар». Все стартовые карту получат Технику."
   },
   "downfall:Enraging": {
-    "NAME": "Last Stand",
+    "NAME": "Последний рубеж",
     "DESCRIPTION": "Когда ОЗ врагов будет опускаться ниже 50%, на следующий ход они получат Силу и снимут все отриц. эффекты."
   },
   "downfall:Analytical": {
-    "NAME": "Analytical",
-    "DESCRIPTION": "В начале каждого хода будет добавлять случайную Эфирную карту с Encode в руку. «Удары» и «Обороны» получат Encode."
+    "NAME": "Аналитика",
+    "DESCRIPTION": "В начале каждого хода будет добавлять случайную Эфирную карту с Компиляцией в руку. «Удары» и «Обороны» получат Компиляцию."
   },
   "downfall:StatusAbuse": {
     "NAME": "Inflicted",
-    "DESCRIPTION": "Вы начнёте игру с реликвиями Makeshift Battery, Donu's Washers, Deca's Washers, «Аптечка», and a Bronze Idol. Все остальные Реликвии будут заменены на «Обруч»."
+    "DESCRIPTION": "Вы начнёте игру с реликвиями: «Makeshift Battery», «Donu's Washers», «Deca's Washers», «Аптечка» и «Bronze Idol». Все остальные Реликвии будут заменены на «Обруч»."
   }
 }
