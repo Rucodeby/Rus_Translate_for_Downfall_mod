@@ -1,27 +1,27 @@
 {
   "downfall:ChangingTotem": {
     "MOVES": [
-      "Transformative Gaze"
+      "Преобразующее наблюдение"
     ],
-    "NAME": "Head of Change",
+    "NAME": "Голова перемен",
     "DIALOG": [
       ""
     ]
   },
   "downfall:ForgetfulTotem": {
     "MOVES": [
-      "Forgetful Stare"
+      "Забывчивый взгляд"
     ],
-    "NAME": "Forgetful Head",
+    "NAME": "Голова забывчивости",
     "DIALOG": [
       ""
     ]
   },
   "downfall:GrowingTotem": {
     "MOVES": [
-      "Growth Beam"
+      "Растущий луч"
     ],
-    "NAME": "Head of Growth",
+    "NAME": "Голова роста",
     "DIALOG": [
       ""
     ]
