@@ -12,12 +12,12 @@
 ## Процесс работы:
 * *Общие ресурсы (downfallResources)* - в процессе;
 * *Расширенный контент (expansioncontentResources)* - в процессе;
-* *Рескины (reskinContent)* - в процессе;
+* *Рескины (reskinContent)* - **готов к установке**;
 * *Автоматон (bronzeResources)* - **готов к установке**;
 * *Чемпион (champResources)* - **готов к установке**;
 * *Гремлины (gremlinResources)* - **готов к установке**;
 * *Страж (guardianResources)* - в процессе;
 * *Гекса (hexamodResources)* - в процессе;
 * *Слизень (slimeboundResources)* - **готов к установке**;
-* *Змекко (sneckomodResources)* - в процессе;
+* *Змекко (sneckomodResources)* - **готов к установке**;
 * *Отшельник (theHermit)* - **готов к установке**.
