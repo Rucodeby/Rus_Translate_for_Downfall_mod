@@ -286,13 +286,13 @@
   "downfall:Cleric": {
     "NAME": "Клирик",
     "DESCRIPTIONS": [
-      "К вам с улыбкой приближается странный синий гуманоид в золотом шлеме(?). NL Upon realizing just what you are, the creature's beaming grin swiftly turns to a look of pure terror. NL ~«М-МОНСТР!!»~ the figure shouts, turning around to flee.",
+      "К вам с улыбкой приближается странный синий гуманоид в золотом шлеме(?). Как только он понимает кто вы есть, его лучезарная улыбка быстро сменилась взглядом полным чистого ужаса. NL ~«М-МОНСТР!!»~ - выкрикнул гуманоид и убежал.",
       "С одного удара существо расплющилось и превратилось в груду синей плоти. Вы поглощаете его #yдушу и продолжаете свой путь.",
-      "«Cleric help! Cleric help!» the creature says as you approach menacingly. NL Холодное голубое пламя охватывает вас и рассеивается. NL После этого «Клирик» тут же убежал."
+      "«Клирик спаси! Помоги!» - молил он, пока вы подходили с грозным видом. NL Холодное голубое пламя охватывает вас и рассеивается. NL После этого «клирик» тут же убежал."
     ],
     "OPTIONS": [
       "[Врезать] #gПолучить #y",
-      "[Intimidate] #gУберите #gкарту #gиз #gколоды.",
+      "[Напугать] #gУбрать #gкарту #gиз #gколоды.",
       "[Уйти]",
       "Выберите карту, которую хотите убрать.",
       " #yДуш."
@@ -370,31 +370,31 @@
   "downfall:Vagrant": {
     "NAME": "Умоляющий бродяга",
     "DESCRIPTIONS": [
-      "Вы убиваете бродягу и забираете его душу. ~Возгласы~ раздаюся из толпы позади вас. NL «Он только что уьмо //чего? Бургунди!» говорит фигура, пока больше таких же бродяг приближаются к вам. NL NL Вы сбегаете, но не избежав #rцарапин и #rукусов.",
+      "Вы убиваете бродягу и забираете его душу. ~Возгласы~ раздаюся из толпы позади вас. NL «Он только что убил Бургунди!» - говорит фигура, пока больше таких же бродяг приближаются к вам. NL NL Вы сбегаете, но не избежав #rцарапин и #rукусов.",
       "Вы вырываете у него из рук драгоценную #yреликвию и уходите. NL Вслед вам доносится: NL «Совсем стыд потерял? ~ПОЗОР~ ~ТАКИМ~ ~КАК~ ~ТЫЫЫЫЫЫЫЫЫЫ!»~ NL Вам #pточно #pне #pстыдно. Это честь - быть ограбленным повелителем Шпиля!"
     ],
     "OPTIONS": [
       "[Врезать] #gПолучить #g85 #gДуш. #rПотерять #r",
       " #rОЗ.",
-      "[Ограбить] #gПолучить #gреликвию. #rПолучить #rПроклятие #r- #rГордость."
+      "[Ограбить] #gПолучить #gреликвию. #rПолучить #rПроклятие #r- #rГордыня."
     ]
   },
   "downfall:Beggar": {
-    "NAME": "Old Beggar",
+    "NAME": "Старый попрошайка",
     "DESCRIPTIONS": [
-      "The beggar takes off its cloak, revealing a blue humanoid form with a glimmering helm(?). NL Upon realizing just what you are, the creature's beaming grin swiftly turns to a look of pure terror. NL ~\"М-МОНСТЕР!!\"~ the figure shouts, turning around to flee.",
-      "The old beggar looks around, seemingly puzzled. He ignores you at first as he searches the area, then glances towards you. NL \"Have you seen a young, blue-skinned man near here? Wears an odd, glimmering helm? He usually comes by the City, spending his tithe on food for us...\" NL The beggar must be referring to the one called #bCleric, who you dispatched a short while ago.",
-      "@\"Do@ @not@ @fear,@ @old@ @man.@ @You@ @shall@ @see@ @your@ @friend@ @sooner@ @than@ @you@ @think.\"@ NL NL The beggar struggles to provide any semblance of defense, and you strike him down easily. NL Leaving the alley behind, you stride ahead, excessively #yproud of the work you have done this day.",
-      "This man has suffered enough as a result of your earlier actions. You decide to spare him his life, and move on.",
-      "The beggar takes off its cloak to reveal that he is #bCleric! NL @\"You@ @are@ @a@ @horrible@ @soul.@ @Cleric@ @bought@ @protection!\"@ he screams. NL NL Two massive figures emerge from the alley, each wearing full plate. Before you have a chance to react, they draw their blades and charge!",
-      "Having slain this #bCleric's bodyguards, you turn to him and back him into a corner of the alley. He is terrified and trembling.",
+      "Попрошайка скидывает плащ и оказывается синим гуманоидом в золотом шлеме(?). NL Как только он понимает кто вы есть, его лучезарная улыбка быстро сменилась взглядом полным чистого ужаса. NL ~«М-МОНСТР!!»~ - выкрикнул гуманоид и убежал.",
+      "Старый попрошайка озадаченно оглядывается по сторонам. Он осматривал округу, игнорируя вас, но вот он обратил свой взгляд на вас. NL «Вы не видели поблизости молодого синекожего мужчину? Он носит странноватый золотой шлем и приходит купить нам еды на несколько десятков золотых...» NL Похоже попрошайка говорит о том #bклирике, которого вы отправили на тот свет немногим ранее.",
+      "@«Не@ @бойся,@ @старик.@ @Очень@ @скоро@ @ты@ @встретишься@ @со@ @своим@ @синекожим@ @приятелем»@ NL NL Попрошайка пытается хоть как-то защититься, но вы его с лёгкостью уничтожили. NL Оставив переулок позади, вы идёте вперёд, чрезмерно #yгордясь проделанной за сегодня работой.",
+      "Этот старик достаточно настрадался от ваших предыдущих действий. Вы решили сохранить ему жизнь и двигаться дальше.",
+      "Попрошайка скидывает плащ и оказывается #bклириком! NL @«У@ @тебя@ @ужасное@ @сердце.@ @Клирик@ @нанял@ @охрану!»@ - кричит он. NL NL Два больших силуета в полной броне выходят из переулка. Они обнажают клинки и рвутся в атаку, не давая шанса среагировать!",
+      "Убив телохранителей #bклирика, вы поворачиваетесь к нему и загоняете его в угол переулка. Он дрожит в страхе.",
       "The creature crumples in a single blow, falling into a pile of mangled blue flesh. You happily absorb its #ysoul and continue onward. NL NL As you leave, you notice the other beggars peering from behind buildings and alleys. You bask in their fear - let this be a lesson to anyone who dare defy a Spire overlord.",
-      "\"Cleric help! Cleric help!\" the creature says once again, barely able to speak as he cowers in fear. NL A cold blue flame envelops your body and dissipates. NL NL Deciding his powers may of use later, and that you can easily dispatch of any bodyguards he tries to employ in the future, you let this \"Cleric\" live once more."
+      "«Клирик спаси! Помоги!» the creature says once again, barely able to speak as he cowers in fear. NL A cold blue flame envelops your body and dissipates. NL NL Deciding his powers may of use later, and that you can easily dispatch of any bodyguards he tries to employ in the future, you let this \"Cleric\" live once more."
     ],
     "OPTIONS": [
       " #rПолучить #rПроклятие #r- #rГордыня.",
       "[Сражаться]",
-      "[Threaten] #gУберите #g2 #gкарты #gиз #gколоды."
+      "[Запугать] #gУбрать #g2 #gкарты #gиз #gколоды."
     ]
   },
   "downfall:Mausoleum": {
