@@ -533,7 +533,7 @@
   "downfall:WindingHalls": {
     "NAME": "Запутанные коридоры",
     "DESCRIPTIONS": [
-      "Вы медленно бредёте по запутанным коридорам и find yourself in the infamous shifting hallways of the Beyond. A lesser being would go mad trying to navigate these, but to you, they are as familiar as an old friend. NL NL От постоянно #p~шепчущих~ #p~голосов~ ease your mind as you decide which path to take."
+      "Вы медленно бредёте по запутанным коридорам и оказываетесь в печально известных коридорах Запределья. NL NL От постоянно #p~шепчущих~ #p~голосов~ вам становится легче выбрать путь."
     ],
     "OPTIONS": [
       "[Левый] #gИсследовать #gсобытие.",
@@ -544,11 +544,11 @@
   "downfall:Joust": {
     "NAME": "Турнир",
     "DESCRIPTIONS": [
-      "As you make your way through the large buildings you come across a long narrow bridge and spot knights on either side, facing one another. You approach and they scatter, glaring at one another. NL \"Monster! YOU fight it, if you're so good at killing things!\" NL \"No, YOU fight it! You know monsters better, what with that ~demonic~ ~cat!~\" NL NL They won't stop bickering. You'll have to decide...",
-      "This knight was clearly stronger than the other one, and you tried your best but were ultimately thrashed. NL \"I'd like to see you best a beast like that!\" he says to the other knight as they leave, bickering.",
-      "You ruthlessly avoid the knight's attacks and #rkill him, sucking his #gsouls out gleefully. The other knight screams and flees. What a coward...",
-      "The cowardly knight gives you a few pesky scratches from afar with his longsword, then runs away screaming. The other knight runs after him, angry. You return to your work, annoyed.",
-      "You ~loom~ over the knight, and rather than even trying to run, he simply cowers. You #rslay him easily and take his #gsouls, but when you turn for the other knight, he's already ran away."
+      "Пройдя через огромные здания, вы приближаетесь к узкому мосту и замечаете на обеих его сторонах рыцарей, друг против друга. Они разбредаются в стороны как только вы подходите. NL \"Монстр! ТЫ сражайся с этим раз так хорош в сражении!\" NL \"Нет, ТЫ сражайся! Сам знаешь, что монстры лучше, чем тот ~демонический~ ~кошак!~\" NL NL Они так не устанут спорить. Вам надо принять решение...",
+      "Этот рыцарь явно был сильнее другого, но вы потерепели полное поражение, хотя и старались изо всех сил. NL \"Хотел бы я посмотреть как ты справишься с таким!\" - говорит он другому рыцарю, пока они, препираясь, уходят.",
+      "Вы уворачиветесь от атак рыцаря и безжалостно #rубиваете его, с радостью поглощая его #gдушу. Другой рыцарь с криками бежал прочь. Что за трус...",
+      "Трусливый рыцарь наносит вам несколько бесячих црапин своим длинным мечом и с криками убегает. Другой рыцарь в гневе побежал за ним. А вы раздражённым вернулись к работе.",
+      "Вы ~нависаете~ над рыцарем, вместо попытки убежать, он просто съёжился. Вы с лёгкостью #rубиваете его и забираете #gдушу, но когда вы развернулись посмотреть на другого рыцаря, то тот уже пропал."
     ],
     "OPTIONS": [
       "[Левого] #r50%: #rПотерять #r",
@@ -602,12 +602,13 @@
   "downfall:EvilShrines": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "Only you should hold this power. You shatter the shrine into pieces. NL A dark wail echoes all around you, and you can feel the Shrine's #p~cursed~ #p~magic~ seep into your bones."    ],
+      "Только вы должны обладать этой силой. Вы разбиваете алтарь на кусочки. NL Мрачный вой эхом разносится по округе, и вы чувствуете, как #p~проклятая~ #p~магия~ проникает до самых костей."
+    ],
     "OPTIONS": [
-      "[Desecrate] #gКопировать #g2 #gкарты. #rПолучить #rслучайное #rПроклятие.",
-      "[Desecrate] #gУбрать #g3 #gкарты. #rПолучить #rслучайное #rПроклятие.",
-      "[Desecrate] #gПреобразовать #g3 #gкарты. #rПолучить #rслучайное #rПроклятие.",
-      "[Desecrate] #gУлучшить #g2 #gкарты. #rПолучить #rслучайное #rПроклятие."
+      "[Осквернить] #gКопировать #g2 #gкарты. #rПолучить #rслучайное #rПроклятие.",
+      "[Осквернить] #gУбрать #g3 #gкарты. #rПолучить #rслучайное #rПроклятие.",
+      "[Осквернить] #gПреобразовать #g3 #gкарты. #rПолучить #rслучайное #rПроклятие.",
+      "[Осквернить] #gУлучшить #g2 #gкарты. #rПолучить #rслучайное #rПроклятие."
     ]
   }
 }
