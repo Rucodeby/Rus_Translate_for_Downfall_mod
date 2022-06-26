@@ -337,7 +337,7 @@
   },
   "Slimebound:Darklings": {
     "NAME": "Дуэт Темнышей",
-    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Тёмную_Слизь 3 раза. NL Сжигается.",
+    "DESCRIPTION": "slimeboundmod:Разделяет на slimeboundmod:Темнышей 3 раза. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "Трио Темнышей"
   },
   "Slimebound:SlimeSlap": {

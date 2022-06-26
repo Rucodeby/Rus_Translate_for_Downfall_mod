@@ -10,8 +10,8 @@
     "NAME": "Чёрное сердце слизи",
     "FLAVOR": "Секрет слизи.",
     "DESCRIPTIONS": [
-      "Заменяет ",
-      ".[] NL Восполняет #b4 ОЗ, когда вы #yslimeboundmod:Слизываете. Максимум #b15 за бой"
+      "Заменяет «",
+      "».[] NL Восполняет #b4 ОЗ, когда вы #yslimeboundmod:Слизываете. Максимум #b15 за бой"
     ]
   },
   "Slimebound:SlimedTailRelic": {
@@ -26,14 +26,14 @@
     "NAME": "Камень of Nomakk",
     "FLAVOR": "When presented to one of your Goop Gang, it seems to make the blob dance.",
     "DESCRIPTIONS": [
-      "#yslimeboundmod:Разделяет на #yslimeboundmod:Болотную Слизь и даёт #b1 #yslimeboundmod:Мощь в начале боя."
+      "#yslimeboundmod:Разделяет на #yslimeboundmod:Болотную Слизь и даёт #b1 #yslimeboundmod:Мощи в начале боя."
     ]
   },
   "Slimebound:DailySplitRelic": {
     "NAME": "Слизьнешпиль",
     "FLAVOR": "ПОСТОЯННОЕ деление. Почему это реликвия? Потому что я не могу понять, как добавить свой мод в список активных UI модов!",
     "DESCRIPTIONS": [
-      "#bМодификатор #bСвоего #bЗабега. NL ВСЕ враги теперь в облике 2 Слизней с #b50% ОЗ."
+      "#bМодификатор #bСвоего #bЗабега. NL ВСЕ враги теперь в облике двух Слизней с #b50% ОЗ."
     ]
   },
   "Slimebound:ScrapOozeRelic": {
