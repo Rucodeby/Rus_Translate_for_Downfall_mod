@@ -16,7 +16,7 @@
     ]
   },
   "sneckomod:MuddlingPotion": {
-    "NAME": "Spiked Energy Drink",
+    "NAME": "Покалывающий энергетик",
     "DESCRIPTIONS": [
       "#yСпутывает #b",
       " карты с наибольшей стоимостью в руке. Их стоимость не превысит #b2."
